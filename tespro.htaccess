@@ -1,0 +1,13 @@
+RewriteEngine On
+RewriteBase /
+RewriteRule ^(en|zh)/about/ $1/aboutus.php
+RewriteRule ^(en|zh)/contact/ $1/contact.php
+RewriteRule ^(en|zh)/download/ $1/download.php
+RewriteRule ^(en|zh)/newproduct/ $1/newproduct.php
+RewriteRule ^(en|zh)/products/ $1/products.php
+RewriteRule ^(en|zh)/products/communicationconverter/ $1/products_probes.php
+RewriteRule ^(en|zh)/products/devices/ $1/products_probes.php
+RewriteRule ^(en|zh)/products/meterteststation/ $1/products_probes.php
+RewriteRule ^(en|zh)/products/probes/ $1/products_probes.php
+
+ErrorDocument 404 /error/
