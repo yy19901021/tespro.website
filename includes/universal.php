@@ -1,6 +1,6 @@
 <?php
   $LiveBaseUrl = "http://www.tespro.com.cn";
-  $BaseUrl = "http://192.168.0.8/tespro/";
+  $BaseUrl = "http://localhost/tespro/";
   // find out the domain:
   /*
   $domain = $_SERVER['HTTP_HOST'];

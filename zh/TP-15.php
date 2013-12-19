@@ -1,5 +1,5 @@
 <?php 
-	$title = "泰易电子：TP-15电能表双频校验光电头";
+	$title = "泰易电子：TP-15 双频校验光电头";
 ?>
 <?php 
 	$BaseUrl = "";
@@ -8,26 +8,22 @@
 ?>
 <div id="Content"><!--Start of content-->
 <div class="Products">
-	<h1>TP-15电能表双频校验光电头</h1>
+	<h1>TP-15 双频校验光电头</h1>
 	<table class="TwoColsLayout">
 		<tr><td class="Left">
-			<p>泰易电子TP-15光电头是在TP-11, TP-14基础上加以改进和综合设计。</p>
+			<h3>主要用途：</h3>
+			<ul>
+				<li>用于电表校验台和现场校验仪对电能表光脉冲采样和校验</li>				<li>对脉冲源提供无分频、四分频选择，适应高低电表常数。</li>
+			</ul>
+
+
 			<h3>应用特点：</h3>
 			<ul>
-				<li>输出脉冲: 高电平≥4.0V，低电平≤0.3V的电脉冲，可适应校验台正、负触发的要求。</li>
-				<li>具有无分频和四分频两种工作模式，分别适应不同的电表常数校验要求。</li>
-				<li>光电头顶端设计有按键开关，用以切换光电脉冲的分频数。</li>
-				<li>光电头顶端有双色灯显示状态，绿色表示无分频、红色表示4分频，随电量脉冲闪烁,非常明显直观，不会设置出错。</li>
-				<li>可以和各种电能表校验台接口，作为校验台的配套设备</li>
-			</ul>
-			<h3>子型号与选配件：</h3>
-			<ul>
-				<li>适配任何校表台接口：请参照《<a href="zh/TP1_option_table.php">校验光电头插头选用表</a>》选用插头型号。</li>
-				<li>为固定在电表上可使用<a href="zh/TP-GS08.php">TP-GS08</a>光电头活动支架。</li>
+				<li>适合红外至可见光的脉冲采样</li>				<li>由按键开关选择无分频和四分频两种模式</li>				<li>强磁吸附式固定</li>				<li>额定工作电压：DC 5V</li>				<li>插头：任意选配定制</li>
 			</ul>
 		</td>
 		<td class="Right">
-			<img src="images/products/product_TP15.jpg" alt="TP-15电表校验光电头" />
+			<img src="images/products/product_TP-15.jpg" alt="TP-15 双频校验光电头" />
 		</td></tr>
 	</table>
 	<?php include("list_probes.php") ?>
