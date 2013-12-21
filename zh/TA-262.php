@@ -1,4 +1,4 @@
-<?php 
+﻿<?php 
 	$title = "泰易电子：TA-261 电表通讯口测试器";
 ?>
 <?php 
@@ -8,7 +8,7 @@
 ?>
 <div id="Content"><!--Start of content-->
 <div class="Products">
-	<h1>TA-261 电表通讯口测试器</h1>
+	<h1>TA-262 通信故障综合测试仪</h1>
 	<table class="TwoColsLayout">
 		<tr><td class="Left">
 			<h3>主要用途：</h3>

@@ -1,5 +1,5 @@
-<?php 
-	$title = "泰易电子：TD-50-100A 大电流电表负载特性测试仪";
+﻿<?php 
+	$title = "泰易电子：TD-50-100A 电表负载特性测试仪";
 ?>
 <?php 
 	$BaseUrl = "";
@@ -8,7 +8,7 @@
 ?>
 <div id="Content"><!--Start of content-->
 <div class="Products">
-	<h1>TD-50-100A 大电流电表负载特性测试仪</h1>
+	<h1>TD-50-100A 电表负载特性测试仪</h1>
 	<table class="TwoColsLayout">
 		<tr><td class="Left">
 			<h3>主要用途：</h3>

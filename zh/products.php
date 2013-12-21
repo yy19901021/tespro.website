@@ -1,4 +1,4 @@
-<?php 
+﻿<?php 
 	$title = "泰易电子：产品";
 ?>
 <?php 
@@ -76,19 +76,19 @@
 				<li><a href="zh/TA-261.php">TA-261 电表通讯口测试器 </a></li>
 			</ul>
 			
-			<h2>电能计量测试设备</h2>
+			<h2>电能计量测试设备和工装</h2>
 			<ul>
 				<li><a href="zh/TG-MTS-CN.php">TG-MTS-CN 电表测试台</a></li>
 				<li><a href="zh/TG-MS-3P.php">三相表维修测试台</a></li>
 				<li><a href="zh/TA-430-460.php">TA-430/460 系列中试综合测试台</a></li>
-				<li><a href="zh/TC-PCB-01.php">PCB 自动检测台</a></li>
+				<li><a href="zh/TC-PCB-01.php">PCB 半自动检测台</a></li>
 			</ul>
-			<h2>逆变电源设备</h2>
+			<h2>电表电源设备</h2>
 			<ul>
-				<li><a href="zh/TD-1300.php">TD-1300 单三相逆变电源</a></li>
-				<li><a href="zh/TD-2300.php">TD-2300 双三相逆变电源</a></li>
-				<li><a href="zh/TD-6300.php">TD-6300 三相逆变校表功率源 </a></li>
-				<li><a href="zh/TD-50-100A.php">TD-50-100A 三相逆变校表功率源 </a></li>
+				<li><a href="zh/TD-1300.php">TD-1300 单三相正弦逆变电源</a></li>
+				<li><a href="zh/TD-2300.php">TD-2300 双三相正弦逆变功率源</a></li>
+				<li><a href="zh/TD-6300.php">TD-6300 三相正弦校表功率源 </a></li>
+				<li><a href="zh/TD-50-100A.php">TD-50-100A 电表负载特性测试仪 </a></li>
 			</ul>
 		</div>
 		<div class="HalfWidth LeftAligned">
@@ -99,23 +99,23 @@
 
 口取电光电头等专利产品，年年创新推出新品。</p>
 			<ul>
-				<li><a href="zh/TP-IEC.php">IEC读写光电头</a></li>
-				<li><a href="zh/TP-ANSI.php">ANSI读写光电头</a></li>
-				<li><a href="zh/TP-USB-IR645.php">DL/T645 标准调制光电头</a></li>
-				<li><a href="zh/TP-Handheld.php">手持设备光电头</a></li>
-				<li><a href="zh/TP-BT.php">蓝牙/无线传输光电头系列</a></li>
+				<li><a href="zh/TP-IEC.php">IEC标准常用光电头</a></li>
+				<li><a href="zh/TP-ANSI.php">ANSI标准常用光电头</a></li>
+				<li><a href="zh/TP-USB-IR645.php">DL/T645国家标准光电头</a></li>
+				<li><a href="zh/TP-Handheld.php">PDA手持设备光电头</a></li>
+				<li><a href="zh/TP-BT.php">蓝牙/无线传输光电头</a></li>
 			</ul>
-			<h2>校验光电头</h2>
+			<h2>电表校验光电头</h2>
 			<ul>
 				<li><a href="zh/TP-11.php">TP-11 电表校验光电头</a></li>
-				<li><a href="zh/TP-13.php">TP-13 电表校验光电头</a></li>
+				<li><a href="zh/TP-13.php">TP-13 有功、无功双脉冲电表校验光电头</a></li>
 				<li><a href="zh/TP-15.php">TP-15 双频校验光电头</a></li>
-				<li><a href="zh/TP-16.php">TP-16 进口现校仪光电头</a></li>
-				<li><a href="zh/TP-17.php">TP-17 进口现校仪光电头</a></li>
+				<li><a href="zh/TP-16.php">TP-16 现校仪光电头</a></li>
+				<li><a href="zh/TP-17.php">TP-17 机械/电子表双功能校验光电头</a></li>
 				<li><a href="zh/TP-18.php">TP-18 窄型校验光电头</a></li>
 				<li><a href="zh/TP-GS.php">TP-GS 通用光电头活动支架</a></li>
 				<li><a href="zh/TP-11-EMC.php">TP-11-EMC 抗扰型EMC实验光电头</a></li>
-				<li><a href="zh/TP1_option_table.php">光电头插头选用表</a></li>
+				<li><a href="zh/TP1_option_table.php">校验光电头插头选用表</a></li>
 			</ul>
 		</div>
 		<div class="Clear"></div>
