@@ -26,11 +26,11 @@
 			<dd></dd>
 		</dl>
 		<dl>
-			<dt><a href="zh/TP-BT.php">蓝牙/无线传输光电头</a></dt>
+			<dt><a href="zh/TP-BT.php">TP-BT/RF 蓝牙/无线传输光电头</a></dt>
 			<dd></dd>
 		</dl>
 		<dl>
-			<dt><a href="zh/TD-50-100A.php">TD-50-100A 电表负载特性测试仪 </a></dt>
+			<dt><a href="zh/TD-50-100A.php">TD-50-100A 电表负载特性测试电源</a></dt>
 			<dd></dd>
 		</dl>
 		<br /><br /><br /><br />

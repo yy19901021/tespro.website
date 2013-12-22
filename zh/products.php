@@ -88,12 +88,12 @@
 				<li><a href="zh/TD-1300.php">TD-1300 单三相正弦逆变电源</a></li>
 				<li><a href="zh/TD-2300.php">TD-2300 双三相正弦逆变功率源</a></li>
 				<li><a href="zh/TD-6300.php">TD-6300 三相正弦校表功率源 </a></li>
-				<li><a href="zh/TD-50-100A.php">TD-50-100A 电表负载特性测试仪 </a></li>
+				<li><a href="zh/TD-50-100A.php">TD-50-100A 电表负载特性测试电源</a></li>
 			</ul>
 		</div>
 		<div class="HalfWidth LeftAligned">
 			<h2>电表通讯光电头</h2>
-			<p>泰易公司从2002年开始提供RS232接口取电光电头，2005年获USB光电头专利，坚持创新和优化，逐渐以领先的技术积累，年年创新，为用户提供技术成熟、可靠耐用的国际化光电头系列产品。</p>
+			<p>2002年泰易公司开始提供串口取电的光电头，2005年获批USB光电头专利。通过创新和优化，泰易光电头系列逐渐成为技术成熟、经久耐用、覆盖全面的优秀品牌代表。</p>
 			<ul>
 				<li><a href="zh/TP-IEC.php">IEC标准常用光电头</a></li>
 				<li><a href="zh/TP-ANSI.php">ANSI标准常用光电头</a></li>
@@ -110,7 +110,7 @@
 				<li><a href="zh/TP-17.php">TP-17 机械/电子表双功能校验光电头</a></li>
 				<li><a href="zh/TP-18.php">TP-18 窄型校验光电头</a></li>
 				<li><a href="zh/TP-GS.php">TP-GS 通用光电头活动支架</a></li>
-				<li><a href="zh/TP-11-EMC.php">TP-11-EMC 抗扰型EMC实验光电头</a></li>
+				<!--<li><a href="zh/TP-11-EMC.php">TP-11-EMC 抗扰型EMC实验光电头</a></li>-->
 				<li><a href="zh/TP1_option_table.php">校验光电头插头选用表</a></li>
 			</ul>
 		</div>

@@ -1,4 +1,4 @@
-﻿<?php 
+<?php 
 	$title = "泰易电子：TG-MTS-CN电表测试台";
 ?>
 <?php 
@@ -8,8 +8,8 @@
 ?>
 <div id="Content"><!--Start of content-->
 <div class="Products">
-	<h1>TG-MTS-CN电表测试台</h1>
-	<p>泰易独创的电表台设计，可用作快速免接线电表测试工装</p>
+	<h1>TG-MTS-CN电表测试台（专利号ZL2007 3 0059901.9）</h1>
+	<p>2002年泰易独创的电表台设计，可用作快速免接线电表测试工装</p>
 	<!--
 	<div>
 		<img style="margin-left: 0;" src="images/products/product_TG-MTS_Wasion.jpg" alt="TG-MTS 华胜电能表测试台" />
@@ -24,7 +24,7 @@
 	</ul>
 	<h3>功能特点：</h3>
 	<ul>
-		<li>适配不同规格电表和负控终端，仅需要单相电源</li>		<li>支持三相四线、三相三线接线方式和各种电压等级电表</li>		<li>支持正、反向有功（A＋、A－）测试</li>		<li>支持每相电压独立上电、断电测试，每相电流断流测试等</li>		<li>台体绝缘性能好，便携轻便。</li>		
+		<li>适配不同规格电表和负控终端，仅需要单相电源</li>		<li>支持三相四线、三相三线接线方式和各种电压等级电表</li>		<li>支持正、反向有功（A＋、A－）测试</li>		<li>支持每相电压独立上电、断电测试，每相电流断流测试等</li>		<li>台体绝缘性能好，便携轻便。</li>
 	</ul>
 	<?php include("list_testing-devices.php") ?>
 </div>
