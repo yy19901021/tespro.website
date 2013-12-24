@@ -19,7 +19,9 @@
 				<li>可以三相功率电源接入，三相运行；</li>				<li>电表免接线自动上电，放上即可，大大提高工作效率；</li>				<li>支持三相标准表和校验电源接入，支持三相电压、电流接入；</li>				<li>支持三相四线、三相三线接线方式；</li>				<li>可选宽体双表位；</li>
 			</ul>
 		</td><td class="Right">
-			<img src="images/products/product_TG-MS-3P.jpg" alt="TG-MS-3P 三相电表维修测试台" />
+			<img src="images/products/product_TG-MS-3P-1.jpg" alt="TG-MS-3P 三相电表维修测试台" />
+			<img src="images/products/product_TG-MS-3P-2.jpg" alt="TG-MS-3P 三相电表维修测试台" />
+			<img src="images/products/product_TG-MS-3P-3.jpg" alt="TG-MS-3P 三相电表维修测试台" />
 		</td></tr>
 	</table>
 	<?php include("list_testing-devices.php") ?>

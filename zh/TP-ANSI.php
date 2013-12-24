@@ -31,7 +31,9 @@
 				<li>TP-USB-ANSI-x：符合USB 2.0标准，泰易提供的USB驱动支持所有操作系统；</li>
 			</ul>
 		</td><td class="Right">
-			<img src="images/products/product_TP-ANSI.jpg" alt="ANSI标准常用读写光电头" />
+				<img src="images/products/product_TP-ANSI-2.jpg" alt="TP-232电表读写光电头" />
+				<img src="images/products/product_TP-ANSI-3.jpg" alt="TP-232电表读写光电头" />
+
 		</td></tr>
 	</table>
 

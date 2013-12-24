@@ -12,8 +12,10 @@
 <div id="Content"><!--Start of content-->
 	<h3>Tespro China</h3>
 	<p>
-		Address: 4F Yongfa Building, Jida, Zhuhai, Guangdong Prov. 519015, China
-		<br />Tel: +86.756.323.3800 
+		2/F, 3D-Tech Building,
+ 		<br />No.184 Bailian Rd. Jida, Zhuhai, 
+ 		<br />GD 519015, China
+ 		<br />Tel: +86.756.323.3800 
 		<br />Fax: +86.756.323.3900
 	</p>
 	<h3>Oversea Business</h3>

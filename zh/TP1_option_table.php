@@ -26,7 +26,7 @@
 			<td>TP</td>
 			<td>15</td>
 			<td>x</td>
-			<td>y</td>
+			<td>yy</td>
 		</tr>
 		</thead>
 		<tr>
@@ -48,63 +48,59 @@
 		</thead>
 		<tbody>
 		<tr>
-			<td>x=5a</td>
+			<td>yy=5a</td>
 			<td><img src="images/products/product_TP1_5a.jpg" /></td>
 			<td>
-				<input type="checkbox" />螺旋线<br />
-				<input type="checkbox" />直线
 			</td>
 		</tr>
 		<tr>
-			<td>x=4a</td>
+			<td>yy=4b</td>
 			<td><img src="images/products/product_TP1_4a.jpg" /></td>
 			<td>
-				<input type="checkbox" />螺旋线<br />
-				<input type="checkbox" />直线
 			</td>
 		</tr>
 		<tr>
-			<td>x=6a<br />(PS2插头)</td>
+			<td>yy=6c<br /></td>
 			<td><img src="images/products/product_TP1_6a.jpg" /></td>
-			<td>直引线</td>
+			<td>PS2插头</td>
 		</tr>
 		<tr>
-			<td>x=4b<br />(S4插头)</td>
+			<td>yy=4c<br /></td>
 			<td><img src="images/products/product_TP1_4b.jpg" /></td>
-			<td>直引线</td>
+			<td>S4插头</td>
 		</tr>
 		<tr>
-			<td>x=5b</td>
+			<td>yy=5b</td>
 			<td><img src="images/products/product_TP1_5b.jpg" /></td>
-			<td>直引线</td>
+			<td></td>
 		</tr>
 		<tr>
-			<td>x=4c</td>
+			<td>yy=4d</td>
 			<td><img src="images/products/product_TP1_4c.jpg" /></td>
 			<td>
-				<input type="checkbox" />螺旋线<br />
-				<input type="checkbox" />直线
 			</td>
 		</tr>
 		<tr>
-			<td>x=5c</td>
+			<td>yy=5d</td>
 			<td><img src="images/products/product_TP1_5c.jpg" /></td>
 			<td>
-				<input type="checkbox" />螺旋线<br />
-				<input type="checkbox" />直线
 			</td>
 		</tr>
 		<tr>
-			<td>x=5d<br />(PRS1.3,PWS2.3)</td>
+			<td>yy=5e</td>
 			<td><img src="images/products/product_TP1_5d.jpg" /></td>
-			<td>直引线</td>
+			<td></td>
 		</tr>
 		<tr>
-			<td>x=3a<br />(PWS1.3)</td>
+			<td>yy=7f</td>
+			<td><img src="images/products/product_TP1_7f.jpg" /></td>
+			<td>
+			</td>
+		</tr>
+		<tr>
+			<td>yy=3g</td>
 			<td><img src="images/products/product_TP1_3a.jpg" /></td>
 			<td>
-				<input type="checkbox" />螺旋线<br />
-				<input type="checkbox" />直线
 			</td>
 		</tr>
 		</tbody>

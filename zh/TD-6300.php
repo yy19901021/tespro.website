@@ -35,7 +35,8 @@
 			
 			
 		</td><td class="Right">
-			<img src="images/products/product_TD-6300.jpg" alt="TD-6300 三相逆变校表功率源 " />
+			<img src="images/products/product_TD-6300-1.jpg" alt="TD-6300 三相逆变校表功率源 " />
+			<img src="images/products/product_TD-6300-2.jpg" alt="TD-6300 三相逆变校表功率源 " />
 		</td></tr>
 	</table>
 	<?php include("list_power-station.php") ?>

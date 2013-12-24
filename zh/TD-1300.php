@@ -1,4 +1,4 @@
-﻿<?php 
+<?php 
 	$title = "泰易电子：TD-1300单三相正弦波逆变电源";
 ?>
 <?php 
@@ -34,7 +34,7 @@
 			</table>
 			
 		</td><td class="Right">
-			<img src="images/products/product_TD-2300.jpg" alt="TD-2300三相正弦波逆变功率源" />
+			<img src="images/products/product_TD-1300.jpg" alt="TD-2300三相正弦波逆变功率源" />
 		</td></tr>
 	</table>
 	<?php include("list_power-station.php") ?>

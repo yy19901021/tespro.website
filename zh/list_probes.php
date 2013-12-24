@@ -6,8 +6,9 @@
 				<li><a href="zh/TP-IEC.php">IEC标准常用光电头</a></li>
 				<li><a href="zh/TP-ANSI.php">ANSI标准常用光电头</a></li>
 				<li><a href="zh/TP-USB-IR645.php">DL/T645国家标准光电头</a></li>
-				<li><a href="zh/TP-Handheld.php">PDA手持设备光电头</a></li>
-				<li><a href="zh/TP-BT.php">蓝牙/无线传输光电头</a></li>
+				<li><a href="zh/TP-Handheld.php">HHU/PDA手持设备光电头</a></li>
+				<li><a href="zh/TP-BT.php">蓝牙传输光电头</a></li>
+				<li><a href="zh/TP-RF.php">无线传输光电头</a></li>
 			</ul>
     </div>
     <div class="HalfWidth LeftAligned">

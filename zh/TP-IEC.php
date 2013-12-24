@@ -31,7 +31,8 @@
 				<li>可用于宽温度范围：-15~+80&deg;C；</li>
 			</ul>
 		</td><td class="Right">
-			<img src="images/products/product_TP-IEC.jpg" alt="IEC标准常用读写光电头（国内DL/T645标准兼容）" />
+			<img src="images/products/product_TP-IEC-1.jpg" alt="IEC标准常用读写光电头（国内DL/T645标准兼容）" />
+			<img src="images/products/product_TP-IEC-2.jpg" alt="IEC标准常用读写光电头（国内DL/T645标准兼容）" />
 		</td></tr>
 	</table>
 
