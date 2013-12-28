@@ -11,6 +11,8 @@
 	<h1>IEC标准常用读写光电头（国内DL/T645标准兼容）</h1>
 	<table class="TwoColsLayout">
 		<tr><td class="Left">
+			<p>2002年泰易公司开始提供串口取电的光电头，2005年获批USB光电头专利。通过创新和优化，泰易光电头系列逐渐成为技术成熟、经久耐用、覆盖全面的优秀品牌代表。</p>
+
 			<h3>常用型号有三种接口可选：</h3>
 			<ul>
 				<li>TP-232-IEC： 于2002年首先实现RS232串口取电，免去电池供电；</li>
@@ -31,8 +33,8 @@
 				<li>可用于宽温度范围：-15~+80&deg;C；</li>
 			</ul>
 		</td><td class="Right">
-			<img src="images/products/product_TP-IEC-1.jpg" alt="IEC标准常用读写光电头（国内DL/T645标准兼容）" />
-			<img src="images/products/product_TP-IEC-2.jpg" alt="IEC标准常用读写光电头（国内DL/T645标准兼容）" />
+			<img src="images/products/product_TP-IEC-1.jpg" width="280" alt="IEC标准常用读写光电头（国内DL/T645标准兼容）" />
+			<img src="images/products/product_TP-IEC-2.jpg" width="280" alt="IEC标准常用读写光电头（国内DL/T645标准兼容）" />
 		</td></tr>
 	</table>
 

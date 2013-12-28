@@ -11,6 +11,8 @@
 	<h1>ANSI标准常用读写光电头</h1>
 	<table class="TwoColsLayout">
 		<tr><td class="Left">
+			<p>2002年泰易公司开始提供串口取电的光电头，2005年获批USB光电头专利。通过创新和优化，泰易光电头系列逐渐成为技术成熟、经久耐用、覆盖全面的优秀品牌代表。</p>
+
 			<p>按照ANSI C12.18标准有两种不同通信特性，泰易公司设计有-N，-S，-U三种子型号满足ANSI不同子标准的要求（“xxx”表示通讯接口选项）：</p>
 			<ul>
 				<li>TP-xxx-ANSI-N：C12.18标准常规型， 以GE、Itron电表为代表；</li>
@@ -31,8 +33,8 @@
 				<li>TP-USB-ANSI-x：符合USB 2.0标准，泰易提供的USB驱动支持所有操作系统；</li>
 			</ul>
 		</td><td class="Right">
-				<img src="images/products/product_TP-ANSI-2.jpg" alt="TP-232电表读写光电头" />
-				<img src="images/products/product_TP-ANSI-3.jpg" alt="TP-232电表读写光电头" />
+				<img src="images/products/product_TP-ANSI-2.jpg" width="280" alt="TP-232电表读写光电头" />
+				<img src="images/products/product_TP-ANSI-3.jpg" width="280" alt="TP-232电表读写光电头" />
 
 		</td></tr>
 	</table>

@@ -22,7 +22,7 @@
 						<th>Interface:</th><td>Infrared optical.</td>
 					</tr>
 					<tr>
-						<th>Maximum B.R.:</th><td>Up to 19200bps.</td>
+						<th>Maximum B.R.:</th><td>Up to 38400bps.</td>
 					</tr>
 					<tr>
 						<th>Fastening:</th><td>Strong magnetic adhesion ( specified by IEC 62056-21 ).</td>
@@ -33,7 +33,7 @@
 					<tr>
 						<th>Out Lead:</th><td>2 meters straight cable</td>
 					</tr>
-					<tr><th>Enviroment:</th><td>-10&deg;C ~ 50&deg;C (14&deg;F - 122&deg;F)</td></tr>
+					<tr><th>Enviroment:</th><td>-15&deg;C ~ 80&deg;C (5&deg;F - 176&deg;F)</td></tr>
 					<tr>
 						<th>Color:</th><td>Black</td>
 					</tr>
@@ -44,10 +44,12 @@
 					<col span="1" />
 					<tbody>
 					<tr><th>Outlet Cable:</th><td>3 meters straight cable.</td></tr>
-					<tr><th>Extended Temperature:</th><td>-35&deg;C ~ 65&deg;C (31&deg;F - 149&deg;F)</td></tr>
+					<tr><th>Extended Temperature:</th><td>-35&deg;C ~ 80&deg;C (31&deg;F - 176&deg;F)</td></tr>
 					<tr><th>Color:</th><td>Grey or bluish-grey.</td></tr>
 					</tbody>
 				</table>
+				<h3>Drivers</h3>
+				<a href="en/download/TP-USB.zip">USB driver supports all versions of Windows</a>
 			</td><td class="Right">
 				<img src="images/products/product_TP-USB.jpg" alt="TP-USB-IEC Optical Probe" />
 			</td></tr>

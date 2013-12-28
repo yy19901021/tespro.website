@@ -1,5 +1,5 @@
 <?php 
-	$title = "TesPro: TP-GS08 Versatile Probe Fixture";
+	$title = "TesPro: TP-GS Adjustable probe fixture";
 ?>
 <?php 
 	$BaseUrl = "";
@@ -11,8 +11,14 @@
 	<h1>TP-GS08 Versatile Probe Fixture</h1>
 	<table class="TwoColsLayout">
 		<tr><td class="Left">
-			<p>TP-GS08 Versatile Probe Fixture helps scanning probe to be mounted on meters of all shape, applicable in meter accuracy test.</p>
-			<p>It was originally designed by Tespro Electronics and was upgrated based on TP-GS07 in April 2008. TP-GS08 works well on both mechanical meters and static-state meters.</p>
+			<h3>Application</h3>
+			
+			<ul>
+				<li>TP-GS Adjustable Probe Fixture helps scanning probe attached to the surface</li>
+				<li>of meter during accuracy test. It was originally designed by Tespro.</li>
+				<li>TP-GS is the necessary accessory for TP-17, TP-18 optical scanning probes.</li>
+			</ul>
+			
 			<h3>Features</h3>
 			<ul>
 				<li>Adhesion to meters by two side-plates, shiftable up and down along the meter.</li>

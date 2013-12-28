@@ -11,13 +11,12 @@
 	<h1>校验光电头插头选用表</h1>
 	<p>泰易TP－1x系列电能表校验光电头系列，可以按照客户的要求定制、更换插头、引线，以达到更满意的使用效果。TP-1x系列包含以下型号：</p>
 	<ul>
-		<li><a href="zh/TP-11-14.php">TP-11、TP-14 电表校验光电头</a></li>
+		<li><a href="zh/TP-11.php">TP-11 电表校验光电头</a></li>
+		<li><a href="zh/TP-13.php">TP-13 有功、无功双脉冲电表校验光电头</a></li>
 		<li><a href="zh/TP-15.php">TP-15 双频校验光电头</a></li>
-		<li><a href="zh/TP-16.php">TP-16 PRS进口现校仪光电头</a></li>
-		<li><a href="zh/TP-17.php">TP-17 机械、电子表校验光电头</a></li>
-		<li><a href="zh/TP-17A.php">TP-17A 机械、电子表校验光电头</a></li>		
+		<li><a href="zh/TP-16.php">TP-16 现校仪光电头</a></li>
+		<li><a href="zh/TP-17.php">TP-17 机械/电子表双功能校验光电头</a></li>
 		<li><a href="zh/TP-18.php">TP-18 窄型校验光电头</a></li>
-		<li><a href="zh/TP-11-EMC.php">TP-11-EMC 抗干扰型EMC试验用光电头</a></li>
 	</ul>
 	<h3>校验光电头型号说明（以TP-15-xy为例）：</h3>
 	<table id="ModelNameDesp" class="DataTable">
@@ -41,67 +40,77 @@
 	<table class="DataTable">
 		<thead>
 		<tr>
-			<td>型号定义</td>
-			<td>图例</td>
-			<td>线型</td>
+			<td>选项</td>
+			<td>插头标识</td>
+			<td>插头外观</td>
+			<td>应用参考</td>
 		</tr>
 		</thead>
 		<tbody>
 		<tr>
+			<td>1</td>
 			<td>yy=5a</td>
 			<td><img src="images/products/product_TP1_5a.jpg" /></td>
 			<td>
 			</td>
 		</tr>
 		<tr>
+			<td>2</td>
 			<td>yy=4b</td>
 			<td><img src="images/products/product_TP1_4a.jpg" /></td>
 			<td>
 			</td>
 		</tr>
 		<tr>
+			<td>3</td>
 			<td>yy=6c<br /></td>
 			<td><img src="images/products/product_TP1_6a.jpg" /></td>
 			<td>PS2插头</td>
 		</tr>
 		<tr>
+			<td>4</td>
 			<td>yy=4c<br /></td>
 			<td><img src="images/products/product_TP1_4b.jpg" /></td>
 			<td>S4插头</td>
 		</tr>
 		<tr>
+			<td>5</td>
 			<td>yy=5b</td>
 			<td><img src="images/products/product_TP1_5b.jpg" /></td>
 			<td></td>
 		</tr>
 		<tr>
+			<td>6</td>
 			<td>yy=4d</td>
 			<td><img src="images/products/product_TP1_4c.jpg" /></td>
 			<td>
 			</td>
 		</tr>
 		<tr>
+			<td>7</td>
 			<td>yy=5d</td>
 			<td><img src="images/products/product_TP1_5c.jpg" /></td>
 			<td>
 			</td>
 		</tr>
 		<tr>
+			<td>8</td>
 			<td>yy=5e</td>
 			<td><img src="images/products/product_TP1_5d.jpg" /></td>
-			<td></td>
+			<td>PRS 1.3, PWS 2.3</td>
 		</tr>
 		<tr>
+			<td>9</td>
 			<td>yy=7f</td>
 			<td><img src="images/products/product_TP1_7f.jpg" /></td>
 			<td>
 			</td>
 		</tr>
 		<tr>
+			<td>10</td>
 			<td>yy=3g</td>
 			<td><img src="images/products/product_TP1_3a.jpg" /></td>
-			<td>
-			</td>
+			<td>PRS 1.3</td>
 		</tr>
 		</tbody>
 	</table>

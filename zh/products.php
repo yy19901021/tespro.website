@@ -34,7 +34,6 @@
 		</div>
 		<div class="HalfWidth LeftAligned">
 			<h2>电表通讯光电头</h2>
-			<p>2002年泰易公司开始提供串口取电的光电头，2005年获批USB光电头专利。通过创新和优化，泰易光电头系列逐渐成为技术成熟、经久耐用、覆盖全面的优秀品牌代表。</p>
 			<ul>
 				<li><a href="zh/TP-IEC.php">IEC标准常用光电头</a></li>
 				<li><a href="zh/TP-ANSI.php">ANSI标准常用光电头</a></li>
@@ -51,7 +50,6 @@
 				<li><a href="zh/TP-16.php">TP-16 现校仪光电头</a></li>
 				<li><a href="zh/TP-17.php">TP-17 机械/电子表双功能校验光电头</a></li>
 				<li><a href="zh/TP-18.php">TP-18 窄型校验光电头</a></li>
-				<li><a href="zh/TP-GS.php">TP-GS 通用光电头活动支架</a></li>
 				<li><a href="zh/TP-GS08.php">TP-GS08 通用光电头活动支架</a></li>
 				<!--<li><a href="zh/TP-11-EMC.php">TP-11-EMC 抗扰型EMC实验光电头</a></li>-->
 				<li><a href="zh/TP1_option_table.php">校验光电头插头选用表</a></li>
