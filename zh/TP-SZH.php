@@ -1,4 +1,6 @@
 <?php 
+	header( "HTTP/1.1 302 Moved Permanently" );
+	header('Location: products.php');
 	$title = "泰易电子：TP-SZH 专用适配器";
 ?>
 <?php 

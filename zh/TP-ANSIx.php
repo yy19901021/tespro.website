@@ -1,4 +1,7 @@
 <?php 
+	header( "HTTP/1.1 301 Moved Permanently" );
+	header("Location: TP-ANSI.php");
+	
 	$title = "泰易电子：TP-ANSIx读写光电头";
 ?>
 <?php 

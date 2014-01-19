@@ -1,4 +1,6 @@
 <?php 
+	header( "HTTP/1.1 301 Moved Permanently" );
+	header('Location: TP-USB-IR645.php');
 	$title = "泰易电子：国家标准645调制红外通讯光电头";
 ?>
 <?php 

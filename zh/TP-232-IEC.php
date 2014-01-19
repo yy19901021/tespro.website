@@ -1,4 +1,7 @@
 <?php 
+	header( "HTTP/1.1 301 Moved Permanently" );
+	header("Location: TP-IEC.php");
+	
 	$title = "泰易电子：TP-232-IEC电表读写光电头（RS232接口）";
 ?>
 <?php 

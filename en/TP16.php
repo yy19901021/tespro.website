@@ -1,4 +1,7 @@
 <?php 
+	header( "HTTP/1.1 301 Moved Permanently" );
+	header('Location: TP-16.php');
+
 	$title = "TesPro: TP-16 Optical Probe for Portable Test Instruments.";
 ?>
 <?php 

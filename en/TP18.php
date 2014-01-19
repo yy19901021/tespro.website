@@ -1,4 +1,7 @@
 <?php 
+	header( "HTTP/1.1 301 Moved Permanently" );
+	header('Location: TP-18.php');
+
 	$title = "TesPro: TP-18 Slim Optical Probe";
 ?>
 <?php 

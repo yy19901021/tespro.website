@@ -1,4 +1,7 @@
 <?php 
+	header( "HTTP/1.1 301 Moved Permanently" );
+	header("Location: TP-Handheld.php");
+	
 	$title = "泰易电子：TP-HHU 手抄器光电头";
 ?>
 <?php 

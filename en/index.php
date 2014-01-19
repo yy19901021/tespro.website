@@ -25,7 +25,8 @@
                 alt="China Southern Power Grid" /></a><a href="http://www.landisgyr.com.cn/"><img src="images/logos/landis-gyr.jpg"
                 alt="Landis &amp; Gyr" /></a><a href="http://www.elster.com/"><img src="images/logos/elster.jpg" 
                 alt="Elster" /></a><a href="http://www.itron.com" style="margin: 0 60px;"><img src="images/logos/itron.jpg" alt="Itron" /></a><a href="http://www.edmi-meters.com"><img src="images/logos/edmi.jpg" 
-                alt="EDMI" /></a>
+                alt="EDMI" /></a><a href="http://www.ge.com" style=""><img src="images/logos/ge.png" 
+                alt="GE" style="height: 60px;" /></a>
         </div>
 		<div class="Clear"></div>
 	</div>

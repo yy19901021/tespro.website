@@ -34,7 +34,8 @@
                 alt="Landis &amp; Gyr" /></a><a href="http://www.elster.com/"><img src="images/logos/elster.jpg" 
                 alt="Elster" /></a><a href="http://www.itron.com" style="margin: 0 60px;"><img src="images/logos/itron.jpg" alt="Itron" /></a><a href="http://www.edmi-meters.com"><img src="images/logos/edmi.jpg" 
                 alt="EDMI" /></a><a href="http://www.wasion.com"><img src="images/logos/wasion.jpg" 
-                alt="威胜集团" /></a>
+                alt="威胜集团" /></a><a href="http://www.ge.com" style="margin: 0 60px;"><img src="images/logos/ge.png" 
+                alt="GE" style="height: 60px;" /></a>
             </div>
             <h1>媒体与咨询</h1>
             <div style="margin-top: 10px;">

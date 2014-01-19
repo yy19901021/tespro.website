@@ -1,4 +1,6 @@
 <?php 
+	header( "HTTP/1.1 301 Moved Permanently" );
+	header('Location: TP-IEC.php');
 	$title = "泰易电子：TP-USB-IEC电表读写光电头（USB接口）";
 ?>
 <?php 
