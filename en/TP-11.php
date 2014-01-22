@@ -22,16 +22,16 @@
 						<td>Power supply: </td><td>DC 5V±10%</td>
 					</tr>
 					<tr>
-						<td>Outlet cable: </td><td>Straight-line cable, 55cm in normal</td>
+						<td>Outlet cable: </td><td>Straight-line cable, 55cm</td>
 					</tr>
 					<tr>
-						<td>Fastening:</td><td>Strong magnetic adhesion</td>
+						<td>Fastening:</td><td>Magnetic adhesion</td>
 					</tr>
 					<tr>
 						<td>Mechanical::</td><td>Impact ABS housing</td>
 					</tr>
 					<tr>
-						<td>Probe Fixture:</td><td>TP-GS fixture can be used for probe fixing onto any kind of meters</td>
+						<td>Probe Fixture:</td><td>TP-GS08 fixture can be used for probe fixing onto any kind of meters</td>
 					</tr>
 				</table>
 			</td><td class="Right">

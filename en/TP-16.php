@@ -1,5 +1,5 @@
 <?php 
-	$title = "TesPro: TP-16 Optical Scanning Probe for Portable Accuracy Test Instrument";
+	$title = "TesPro: TP-16 Optical Scanning Probe for Portable Test Instrument";
 ?>
 <?php 
 	$BaseUrl = "";
@@ -8,7 +8,7 @@
 ?>
 <div id="Content"><!--Start of content-->
 	<div class="Products">
-		<h1>TP-16 Optical Scanning Probe for Portable Accuracy Test Instrument</h1>
+		<h1>TP-16 Optical Scanning Probe for Portable Test Instrument</h1>
 		<table class="TwoColsLayout">
 			<tr><td class="Left">
 				<h3>Application:</h3>
@@ -25,19 +25,9 @@ out specs of PRS1.3 & PWS1.3 respectively.</li>
 					<tr><td>Light sense:</td><td>TP-16 optical scanning probe can sense both light and IR pulses emitted by LED, and convert them to electric pulses.</td>
 					<tr><td>Power supply:</td><td>DC 12-24V</td>
 					<tr><td>Output pulse:</td><td>Positive electric pulses</td>
-					<tr><td>Outlet cable:</td><td>Straight cable with 3M in normal</td>
+					<tr><td>Outlet cable:</td><td>Straight cable with 3M</td>
 					<tr><td>Fastening:</td><td>Magnetic adhesion</td>
 					<tr><td>Mechanical:</td><td>Impact ABS housing</td>
-				</table>
-				<h3>Options:</h3>
-				<table id="OptionTable" class="List">
-					<col class="Title" span="1" />
-					<col span="1" />
-					<tbody>
-					<tr><th>Supporter:</th><td>TP-GS08 Versatile Probe Fixture, providing magnetic adhesion for all kinds of meters. Please refer to <a href="en/TP-GS08.php">TP-GS08 Versatile Probe Fixture</a>.</td></tr>
-					<tr><th>Plug adapter:</th><td>TF-L5/Ax for plug adapted from LEMO-5 to Amphenol x-pole.</td></tr>
-					<tr><th>Connectors:</th><td>Any type of connectors is available for ordering. Refer to <a href="en/TP1_option_table.php">Table of plugs for optical probes</a>.</td></tr>
-					</tbody>
 				</table>
 			</td><td class="Right">
 				<img src="images/products/product_TP-16-PRS1.3.jpg" alt="TP-16 Optical Scanning Probe for Portable Accuracy Test Instrument" />

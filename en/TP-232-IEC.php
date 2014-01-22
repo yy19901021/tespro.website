@@ -1,4 +1,7 @@
 <?php 
+	header( "HTTP/1.1 301 Moved Permanently" );
+	header("Location: TP-232.php");
+
 	$title = "TesPro: TP-232-IEC Optical Probe for Meter Communication";
 ?>
 <?php 

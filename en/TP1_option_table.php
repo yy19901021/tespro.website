@@ -10,29 +10,29 @@
 	<div class="Products">
 		<h1>Table of connectors for optical probes</h1>
 		<p>In accuracy test optical scanning probes are connected to the socket on the bench or portable instruments. As the sockets varies from different  brands of test equipments, Tespro provides different connectors for TP11, TP14, TP15, TP16 probes, so as to meet the requirements for all customers.</p>
-		<h3>Take TP15-yx for example:</h3>
+		<h3>Take TP-16-xy for example:</h3>
 		<table id="ModelNameDesp" class="DataTable">
 			<thead>
 			<tr>
-				<td>TP15</td>
+				<td>TP-16</td>
 				<td>Y</td>
 				<td>X</td>
 			</tr>
 			</thead>
 			<tr>
-				<td>Probe model</td>
+				<td>Probe model name</td>
 				<td>Number of pins of the connector</td>
 				<td>Type of connector</td>
 			</tr>
 		</table>
+		<p>For example: for TP-16, if you choose the first connector(5 pins) in the following table, then the full model name is TP-16-5a</p>
 		<h3>Table of connectors for optical probes:</h3>
 		<table class="DataTable">
 			<thead>
 			<tr>
 				<td>Type of connectors</td>
 				<td>Illustration</td>
-				<td>Cable</td>
-				<td>Length (cm)</td>
+				<td>Reference</td>
 			</tr>
 			</thead>
 			<tbody>
@@ -43,67 +43,51 @@
 					<input type="checkbox" />Spiral<br />
 					<input type="checkbox" />Straight
 				</td>
-				<td><input type="text" class="Text" /> CM</td>
 			</tr>
 			<tr>
-				<td>yx=4a</td>
+				<td>yx=4b</td>
 				<td><img src="images/products/product_TP1_4a.jpg" /></td>
-				<td>
-					<input type="checkbox" />Spiral<br />
-					<input type="checkbox" />Straight
-				</td>
-				<td><input type="text" class="Text" /> CM</td>
+				<td></td>
 			</tr>
 			<tr>
-				<td>yx=6a<br />(PS2)</td>
+				<td>yx=6c</td>
 				<td><img src="images/products/product_TP1_6a.jpg" /></td>
-				<td>Straight</td>
-				<td><input type="text" class="Text" /> CM</td>
+				<td>PS2</td>
 			</tr>
 			<tr>
-				<td>yx=4b<br />(S4)</td>
+				<td>yx=4c<br />(S4)</td>
 				<td><img src="images/products/product_TP1_4b.jpg" /></td>
-				<td>Straight</td>
-				<td><input type="text" class="Text" /> CM</td>
+				<td>S4</td>
 			</tr>
 			<tr>
 				<td>yx=5b</td>
 				<td><img src="images/products/product_TP1_5b.jpg" /></td>
-				<td>Straight</td>
-				<td><input type="text" class="Text" /> CM</td>
+				<td></td>
 			</tr>
 			<tr>
-				<td>yx=4c</td>
+				<td>yx=4d</td>
 				<td><img src="images/products/product_TP1_4c.jpg" /></td>
-				<td>
-					<input type="checkbox" />Spiral<br />
-					<input type="checkbox" />Straight
-				</td>
-				<td><input type="text" class="Text" /> CM</td>
+				<td></td>
 			</tr>
 			<tr>
-				<td>yx=5c</td>
+				<td>yx=5d</td>
 				<td><img src="images/products/product_TP1_5c.jpg" /></td>
-				<td>
-					<input type="checkbox" />Spiral<br />
-					<input type="checkbox" />Straight
-				</td>
-				<td><input type="text" class="Text" /> CM</td>
+				<td></td>
 			</tr>
 			<tr>
-				<td>yx=5d<br />(PRS1.3,PWS2.3)</td>
+				<td>yx=5e</td>
 				<td><img src="images/products/product_TP1_5d.jpg" /></td>
-				<td>Straight</td>
-				<td><input type="text" class="Text" /> CM</td>
+				<td>PRS 1.3<br />PWS 2.3</td>
 			</tr>
 			<tr>
-				<td>yx=3a<br />(PWS1.3)</td>
+				<td>yx=7f</td>
+				<td><img src="images/products/product_TP1_7f.jpg" /></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>yx=3g</td>
 				<td><img src="images/products/product_TP1_3a.jpg" /></td>
-				<td>
-					<input type="checkbox" />Spiral<br />
-					<input type="checkbox" />Straight
-				</td>
-				<td><input type="text" class="Text" /> CM</td>
+				<td>PWS 1.3</td>
 			</tr>
 			</tbody>
 		</table>

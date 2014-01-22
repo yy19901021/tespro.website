@@ -1,4 +1,7 @@
 <?php 
+	header( "HTTP/1.1 301 Moved Permanently" );
+	header("Location: TP-USB.php");
+	
 	$title = "TesPro: TP-USB-ANSI Optical Probe for Meter Communication";
 ?>
 <?php 
@@ -10,7 +13,8 @@
 	<div class="Products">
 		<h1>TP-USB-ANSI Optical Probe for Meter Communication</h1>
 		<table class="TwoColsLayout">
-			<tr><td class="Left">				<p>TP-USB-ANSI optical is an optical probe with USB interface, widely applied to meter communication, such as data reading, parameterization, in production line, on-site service. </p>
+			<tr><td class="Left">
+				<p>TP-USB-ANSI optical is an optical probe with USB interface, widely applied to meter communication, such as data reading, parameterization, in production line, on-site service. </p>
 				<h3>Sub-models</h3>
 				<table id="ModelTable" class="List">
 					<col class="Title" span="1" />

@@ -1,5 +1,5 @@
 <?php 
-	$title = "TesPro: TP-12 TP-12 Optical Probe of Pulse Sensing for Energy Meter";
+	$title = "TesPro: TP-12 Optical Pulse Sensing Probe for Energy Monitoring";
 ?>
 <?php 
 	$BaseUrl = "";
@@ -8,44 +8,32 @@
 ?>
 <div id="Content"><!--Start of content-->
 	<div class="Products">
-		<h1>TP-12 TP-12 Optical Probe of Pulse Sensing for Energy Meter</h1>
+		<h1>TP-12 Optical Pulse Sensing Probe for Energy Monitoring</h1>
 		<table class="TwoColsLayout">
 			<tr><td class="Left">
-				<p>TP-12 is a newly developed optical probe supports LED electric pulses sensing of home meters is now released. Please refer to the following descriptions and pictures.
-				<h3>Application</h3>
-				<p>TP-12 can be used as an accessory in detecting electric energy pulses for power monitoring or solar energy application device.</p>
-				<h3>Versions</h3>
-				<table id="ModelTable" class="List">
+				<p>TP-12 is a newly developed optical probe and supports LED optical pulses sensing of energy meters. It can be used as an accessory in detecting optical pulses for power monitoring, or for solar energy system.</p>
+				
+				<h3>Specification</h3>
+				<table id="SpecTable" class="List">
 					<col class="Title" span="1" />
 					<col span="1" />
-					<tr>
-						<td>TP-12S:</td><td>fixed on by Stick-on Strips</td>
-					</tr>
-					<tr>
-						<td>TP-12M:</td><td>fixed on by magnetic force</td>
-					</tr>
+					<tr><td>Size: </td><td>TP-12 is a mini type probe with its diameter of 22mm. </td></tr>
+					<tr><td>Light sense: </td><td>Sensing spectrum covers from IR to light. </td></tr>
+					<tr><td>Power supply: </td><td>Powered by +3.3~5VDC </td></tr>
+					<tr><td>Output:	</td><td>Positive pulses output in TTL, is synchronized with the LED light pulses. </td></tr>
+					<tr><td>Fastening: </td><td>Can be easily attached onto any meter surface by Tespro’s easy stick-on strips, or by magnetic. </td></tr>
+					<tr><td>Indicator: </td><td>An indicator at the top lights up synchronizing with the pulses.</td></tr>
 				</table>
-				<h3>Features:</h3>
-				<ul>
-					<li>TP-12 is a mini type probe with its diameter</li>
-					<li>Powered by +3.3~5VDC</li>
-					<li>Positive pulses output in TTL, synchronized with the LED light pulses of meters</li>
-					<li>Sensing spectrum covers from IR to light</li>
-					<li>Light shielding to prevent the sensor from sun-light disturbance</li>
-					<li>Can be easily attached onto any meter surface by Tespro’s easy stick-on strips and re-useable</li>
-					<li>An indicator at the top lights up synchronizes with the pulses.</li>
-				</ul>
-				<h3>Connector</h3>
-					<p>RJ11 with 4-pin connector is the default</p>
-				<h3>Options</h3>
-				<ul>
-					<li>Magnetic adhesion is available as an option</li>
-					<li>Ear-phone connector or any other connector is available as an option. </li>
-					<li>Customer logo printed on back-top of the probe is optional</li>
-					<li>Customized requirements are acceptable</li>
-				</ul>
+				<h3>Options: </h3>
+				<table id="OptionTable" class="List">
+					<col class="Title" span="1" />
+					<col span="1" />
+					<tr><td>Fastening: </td><td>Easy stick-on strips/ Magnetic adhesion</td></tr>
+					<tr><td>Cable: </td><td>Depends on order</td></tr>
+				</table>
+				
 			</td><td class="Right">
-				<img src="images/products/product_TP-12.jpg" alt="TP-12 TP-12 Optical Probe of Pulse Sensing for Energy Meter" />
+				<img src="images/products/product_TP-12.jpg" alt="TP-12 Optical Pulse Sensing Probe for Energy Monitoring" />
 			</td></tr>
 		</table>		
 		<?php include("list_probes.php") ?>

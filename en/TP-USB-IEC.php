@@ -1,4 +1,7 @@
 <?php 
+	header( "HTTP/1.1 301 Moved Permanently" );
+	header("Location: TP-USB.php");
+
 	$title = "TesPro: TP-USB-IEC Optical Probe for Meter Communication";
 ?>
 <?php 
@@ -10,7 +13,8 @@
 	<div class="Products">
 		<h1>TP-USB-IEC Optical Probe for Meter Communication</h1>
 		<table class="TwoColsLayout">
-			<tr><td class="Left">				<p>TP-USB-IEC optical is an optical probe with USB interface, widely applied to meter communication, such as data reading, parameterization, in production line, on-site service and more. The up-to-date technologies and the general application property make it very unique among the optical probes family. TP-USB-IEC is one of ingenious ones of all.</p>
+			<tr><td class="Left">
+				<p>TP-USB-IEC optical is an optical probe with USB interface, widely applied to meter communication, such as data reading, parameterization, in production line, on-site service and more. The up-to-date technologies and the general application property make it very unique among the optical probes family. TP-USB-IEC is one of ingenious ones of all.</p>
 				<h3>Specifications:</h3>
 				<table id="SpecTable" class="List">
 					<col class="Title" span="1" />
