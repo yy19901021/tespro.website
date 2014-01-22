@@ -21,7 +21,8 @@
 				<li>数十种原创设计电表通讯光电头和校验光电头全系列；</li>
 				<li>三相正弦逆变电源等多种仪用电源产品。</li>
 			</ol>
-			<p>泰易公司获得多项专利，并将以优质服务于电能计量行业。</p>		</div>
+			<p>泰易公司获得多项专利，并将以优质服务于电能计量行业。</p>
+		</div>
 		<style>
 /*			#OurCustomers img{border: 1px solid gray;}*/
 		</style>
@@ -33,14 +34,14 @@
                 alt="南方电网" /></a><a href="http://www.landisgyr.com.cn/"><img src="images/logos/landis-gyr.jpg"
                 alt="Landis &amp; Gyr" /></a><a href="http://www.elster.com/"><img src="images/logos/elster.jpg" 
                 alt="Elster" /></a><a href="http://www.itron.com" style="margin: 0 60px;"><img src="images/logos/itron.jpg" alt="Itron" /></a><a href="http://www.edmi-meters.com"><img src="images/logos/edmi.jpg" 
-                alt="EDMI" /></a><a href="http://www.wasion.com"><img src="images/logos/wasion.jpg" 
-                alt="威胜集团" /></a><a href="http://www.ge.com" style="margin: 0 60px;"><img src="images/logos/ge.png" 
-                alt="GE" style="height: 60px;" /></a>
+                alt="EDMI" /></a><a href="http://www.ge.com"><img src="images/logos/ge.png" 
+                alt="GE" style="height: 60px;" /></a><a href="http://www.wasion.com" style="margin: 0 100px;"><img src="images/logos/wasion.jpg" 
+                alt="威胜集团" /></a>
             </div>
             <h1>媒体与咨询</h1>
             <div style="margin-top: 10px;">
             	<a href="http://www.meteringchina.com/" style="margin-left: 0px;"><img src="images/logos/metering-china.gif" 
-                alt="环球表计" /></a><a href="http://www.gsl-consulting.com" style="margin-left: 50px;"><img src="images/logos/GSL.jpg" alt="金思郎咨询" /></a>
+                alt="环球表计" /></a>
             </div>
         </div>
 		<div class="Clear"></div>

@@ -18,7 +18,7 @@
 		<li><a href="zh/TP-17.php">TP-17 机械/电子表双功能校验光电头</a></li>
 		<li><a href="zh/TP-18.php">TP-18 窄型校验光电头</a></li>
 	</ul>
-	<h3>校验光电头型号说明（以TP-15-xy为例）：</h3>
+	<h3>校验光电头型号说明（以TP-15-yy为例）：</h3>
 	<table id="ModelNameDesp" class="DataTable">
 		<thead>
 		<tr>

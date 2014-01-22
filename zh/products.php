@@ -20,7 +20,7 @@
 			<h2>电能计量测试设备和工装</h2>
 			<ul>
 				<li><a href="zh/TG-MTS-CN.php">TG-MTS-CN 电表测试台</a></li>
-				<li><a href="zh/TG-MS-3P.php">三相表维修测试台</a></li>
+				<li><a href="zh/TG-MS-3P.php">TP-MS-3P 三相表维修测试台工装</a></li>
 				<li><a href="zh/TA-430-460.php">TA-430/460 系列中试综合测试台</a></li>
 				<li><a href="zh/TC-PCB-01.php">TC-PCB-01 半自动PCB测试台</a></li>
 			</ul>
@@ -39,8 +39,8 @@
 				<li><a href="zh/TP-ANSI.php">ANSI标准常用光电头</a></li>
 				<li><a href="zh/TP-USB-IR645.php">DL/T645国家标准光电头</a></li>
 				<li><a href="zh/TP-Handheld.php">HHU/PDA手持设备光电头</a></li>
-				<li><a href="zh/TP-BT.php">蓝牙传输光电头</a></li>
-				<li><a href="zh/TP-RF.php">无线传输光电头</a></li>
+				<li><a href="zh/TP-BT.php">BT蓝牙光电头</a></li>
+				<li><a href="zh/TP-RF.php">RF微功率无线光电头</a></li>
 			</ul>
 			<h2>电表校验光电头</h2>
 			<ul>
