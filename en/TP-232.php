@@ -23,8 +23,8 @@
 				<ul>
 					<li>TP-232-IEC</li>
 					<li>TP-232-ANSI-N: Compatible with ANSI C12.18 (Normal Standard)</li>
-					<li>TP-232-ANSI-N: Compatible with ANSI C12.18 (Siemens Standard)</li>
-					<li>TP-232-ANSI-N: Compatible with ANSI C12.18 (Universal, can be switch between Normal and Siemens standar)</li>
+					<li>TP-232-ANSI-S: Compatible with ANSI C12.18 (Siemens Standard)</li>
+					<li>TP-232-ANSI-U: Compatible with ANSI C12.18 (Universal, can be switch between Normal and Siemens standar)</li>
 				</ul>
 				<p>If you have questions about the difference of the differences, please write to us. </p>
 				<h3>Specifications:</h3>

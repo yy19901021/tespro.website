@@ -64,7 +64,7 @@ h2:first-child,h3:first-child{margin-top:0}
 div.Products{margin:0;padding:0}
 div.Products ul{margin-left:1.5em;padding:0}
 /* -- Images Start -- */
-div.Products img,img.Photos{border:1px solid #333;padding:0.4em;margin:1em}
+div.Products img,img.Photos{border:1px solid #999;padding:0.4em;margin:1em}
 div.Products p img{float:right}
 div.Products img.NoFloat{float:none}
 .TwoColsLayout .Right img{margin-right:0}

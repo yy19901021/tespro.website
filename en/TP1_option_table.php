@@ -15,8 +15,8 @@
 			<thead>
 			<tr>
 				<td>TP-16</td>
-				<td>Y</td>
 				<td>X</td>
+				<td>Y</td>
 			</tr>
 			</thead>
 			<tr>
@@ -25,7 +25,7 @@
 				<td>Type of connector</td>
 			</tr>
 		</table>
-		<p>For example: for TP-16, if you choose the first connector(5 pins) in the following table, then the full model name is TP-16-5a</p>
+		<p>For example: for TP-16, if you choose the first connector(5 pins) in the following table, then the full model name is TP-16-5a.</p>
 		<h3>Table of connectors for optical probes:</h3>
 		<table class="DataTable">
 			<thead>
@@ -37,7 +37,7 @@
 			</thead>
 			<tbody>
 			<tr>
-				<td>yx=5a</td>
+				<td>xy=5a</td>
 				<td><img src="images/products/product_TP1_5a.jpg" /></td>
 				<td>
 					<input type="checkbox" />Spiral<br />
@@ -45,47 +45,47 @@
 				</td>
 			</tr>
 			<tr>
-				<td>yx=4b</td>
+				<td>xy=4b</td>
 				<td><img src="images/products/product_TP1_4a.jpg" /></td>
 				<td></td>
 			</tr>
 			<tr>
-				<td>yx=6c</td>
+				<td>xy=6c</td>
 				<td><img src="images/products/product_TP1_6a.jpg" /></td>
 				<td>PS2</td>
 			</tr>
 			<tr>
-				<td>yx=4c<br />(S4)</td>
+				<td>xy=4c<br />(S4)</td>
 				<td><img src="images/products/product_TP1_4b.jpg" /></td>
 				<td>S4</td>
 			</tr>
 			<tr>
-				<td>yx=5b</td>
+				<td>xy=5b</td>
 				<td><img src="images/products/product_TP1_5b.jpg" /></td>
 				<td></td>
 			</tr>
 			<tr>
-				<td>yx=4d</td>
+				<td>xy=4d</td>
 				<td><img src="images/products/product_TP1_4c.jpg" /></td>
 				<td></td>
 			</tr>
 			<tr>
-				<td>yx=5d</td>
+				<td>xy=5d</td>
 				<td><img src="images/products/product_TP1_5c.jpg" /></td>
 				<td></td>
 			</tr>
 			<tr>
-				<td>yx=5e</td>
+				<td>xy=5e</td>
 				<td><img src="images/products/product_TP1_5d.jpg" /></td>
 				<td>PRS 1.3<br />PWS 2.3</td>
 			</tr>
 			<tr>
-				<td>yx=7f</td>
+				<td>xy=7f</td>
 				<td><img src="images/products/product_TP1_7f.jpg" /></td>
 				<td></td>
 			</tr>
 			<tr>
-				<td>yx=3g</td>
+				<td>xy=3g</td>
 				<td><img src="images/products/product_TP1_3a.jpg" /></td>
 				<td>PWS 1.3</td>
 			</tr>

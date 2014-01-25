@@ -20,7 +20,7 @@
 				<li>TP-xxx-ANSI-U：通用型，通过软件控制切换 -N或 -S。</li>
 			</ul>
 			<h3>主要用途：用于电表数据读出和参数设置</h3>
-			<h3>TP-USB-IEC技术特点：</h3>
+			<h3>TP-ANSI主要特点：</h3>
 			<ul>
 				<li>通讯波特率可达300～38400bps；</li>
 				<li>强磁吸附，使用于较宽的温度范围； -15 ~+80&deg;；</li>
@@ -33,8 +33,9 @@
 				<li>TP-USB-ANSI-x：符合USB 2.0标准，泰易提供的USB驱动支持所有操作系统；</li>
 			</ul>
 		</td><td class="Right">
-				<img src="images/products/product_TP-ANSI-2.jpg" width="280" alt="TP-232电表读写光电头" />
-				<img src="images/products/product_TP-ANSI-3.jpg" width="280" alt="TP-232电表读写光电头" />
+				<img src="images/products/product_TP-ANSI-1.jpg" width="280" alt="TP-ANSI电表读写光电头" />
+				<img src="images/products/product_TP-ANSI-2.jpg" width="280" alt="TP-ANSI电表读写光电头" />
+				<img src="images/products/product_TP-ANSI-3.jpg" width="280" alt="TP-ANSI电表读写光电头" />
 
 		</td></tr>
 	</table>

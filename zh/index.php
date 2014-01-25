@@ -6,7 +6,7 @@
 	include("../includes/universal.php");
 	include("header.php");
 ?>
-<div id="HomepageTitle" class="PageTitle"><div class="PageTitleBrg"><img src="images/home_TP-UsbOpticalProbe_zh.jpg" alt="TP-USB 光电头, IEC 或 ANSI 标准" /></div><div class="Shadow1"></div>
+<div id="HomepageTitle" class="PageTitle"><div class="PageTitleBrg"><img src="images/home_zh_20140125.jpg" alt="TP-USB 光电头, IEC 或 ANSI 标准" /></div><div class="Shadow1"></div>
 	<div class="Shadow2"></div>
 	<div class="Shadow3"></div></div>
 <div id="Content"><!--Start of content-->
@@ -33,9 +33,11 @@
                 alt="国家电网" /></a><a href="http://www.csg.cn" style="margin: 0px 100px;"><img src="images/logos/china-south-grid.jpg" 
                 alt="南方电网" /></a><a href="http://www.landisgyr.com.cn/"><img src="images/logos/landis-gyr.jpg"
                 alt="Landis &amp; Gyr" /></a><a href="http://www.elster.com/"><img src="images/logos/elster.jpg" 
-                alt="Elster" /></a><a href="http://www.itron.com" style="margin: 0 60px;"><img src="images/logos/itron.jpg" alt="Itron" /></a><a href="http://www.edmi-meters.com"><img src="images/logos/edmi.jpg" 
-                alt="EDMI" /></a><a href="http://www.ge.com"><img src="images/logos/ge.png" 
-                alt="GE" style="height: 60px;" /></a><a href="http://www.wasion.com" style="margin: 0 100px;"><img src="images/logos/wasion.jpg" 
+                alt="Elster" /></a><a href="http://www.itron.com" style="margin: 0 60px;"><img src="images/logos/itron.jpg" 
+                alt="Itron" /></a><a href="http://www.ge.com"><img src="images/logos/ge.png" 
+                alt="GE" style="height: 60px;" /><a href="http://www.edmi-meters.com" style="margin: 0;"><img src="images/logos/edmi.jpg" 
+                alt="EDMI" /></a></a><a href="http://www.sensus.com" style="margin: 0 0 0 100px;"><img src="images/logos/sensus.jpg" 
+                alt="SENSUS" /></a><a href="http://www.wasion.com" style="margin: 0 0px;"><img src="images/logos/wasion.jpg" 
                 alt="威胜集团" /></a>
             </div>
             <h1>媒体与咨询</h1>

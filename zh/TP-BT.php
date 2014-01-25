@@ -16,7 +16,6 @@
 				<h3>主要型号：</h3>
 				<ul>
 					<li>TP-BT-IEC：     适合IEC和国内电表应用；</li>
-					<li>TP-BT-IEC：       适用于IEC标准和中国标准电表的读写应用</li>
 					<li>TP-BT-ANSI-N：    适用于ANSI标准电表的读写应用（例如GE、Itron/ABB）</li>
 					<li>TP-BT-ANSI-S：    适用于ANSI标准第二型电表的读写应用（例如西门子电表）</li>
 				</ul>

@@ -30,7 +30,7 @@
 					<col span="1" />
 					<tbody>
 					<tr><th>Power supply:</th><td>5V/12VDC.</td></tr>
-					<tr><th>Connector:</th><td>Optional item from <a href="en/TP1_option_table.php">Table of plugs for optical probes</a></td></tr>
+					<tr><th>Connector:</th><td>Optional item from <a href="en/TP1_option_table.php">Sample List of Connectors for Scanning Probes</a></td></tr>
 					</tbody>
 				</table>
 				<p>Note: Must work with <a href="en/TP-GS08.php">TP-GS08 Versatile Fixture</a> as supporter</p>

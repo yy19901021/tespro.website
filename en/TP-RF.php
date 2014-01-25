@@ -42,7 +42,7 @@
 					</table>
 					
 			</td><td class="Right">
-				<img src="images/products/product_TP-RF.jpg" width="200" alt="TP-HHU ">
+				<img src="images/products/product_TP-RF.jpg" width="350" alt="TP-RF ">
 			</td></tr>
 		</table>
 		<?php include("list_probes.php") ?>
