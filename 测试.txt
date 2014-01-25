@@ -1,7 +1,1 @@
-<<<<<<< .mine
-test=======
-add some text
-19:56
-20:13
-1:17
->>>>>>> .r267
+Jan 25 from Panther
