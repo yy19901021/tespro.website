@@ -30,61 +30,69 @@
 		<table class="DataTable">
 			<thead>
 			<tr>
-				<td>Type of connectors</td>
-				<td>Illustration</td>
+				<td>Item</td>
+				<td>Identifier of the connector</td>
+				<td>Appearance of the plug</td>
 				<td>Reference</td>
 			</tr>
 			</thead>
 			<tbody>
 			<tr>
+				<td>1</td>
 				<td>xy=5a</td>
 				<td><img src="images/products/product_TP1_5a.jpg" /></td>
-				<td>
-					<input type="checkbox" />Spiral<br />
-					<input type="checkbox" />Straight
-				</td>
+				<td>				</td>
 			</tr>
 			<tr>
+				<td>2</td>
 				<td>xy=4b</td>
 				<td><img src="images/products/product_TP1_4a.jpg" /></td>
 				<td></td>
 			</tr>
 			<tr>
+				<td>3</td>
 				<td>xy=6c</td>
 				<td><img src="images/products/product_TP1_6a.jpg" /></td>
 				<td>PS2</td>
 			</tr>
 			<tr>
+				<td>4</td>
 				<td>xy=4c<br />(S4)</td>
 				<td><img src="images/products/product_TP1_4b.jpg" /></td>
 				<td>S4</td>
 			</tr>
 			<tr>
+				<td>5</td>
 				<td>xy=5b</td>
 				<td><img src="images/products/product_TP1_5b.jpg" /></td>
 				<td></td>
 			</tr>
 			<tr>
+				<td>6</td>
 				<td>xy=4d</td>
 				<td><img src="images/products/product_TP1_4c.jpg" /></td>
 				<td></td>
 			</tr>
 			<tr>
+				<td>7</td>
 				<td>xy=5d</td>
 				<td><img src="images/products/product_TP1_5c.jpg" /></td>
 				<td></td>
 			</tr>
 			<tr>
+				<td>8</td>
 				<td>xy=5e</td>
 				<td><img src="images/products/product_TP1_5d.jpg" /></td>
 				<td>PRS 1.3<br />PWS 2.3</td>
 			</tr>
 			<tr>
+				<td>9</td>
 				<td>xy=7f</td>
 				<td><img src="images/products/product_TP1_7f.jpg" /></td>
 				<td></td>
 			</tr>
 			<tr>
+				<td>10</td>
 				<td>xy=3g</td>
 				<td><img src="images/products/product_TP1_3a.jpg" /></td>
 				<td>PWS 1.3</td>
