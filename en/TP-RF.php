@@ -8,9 +8,13 @@
 ?>
 <div id="Content"><!--Start of content-->
 	<div class="Products">
+		<h1>TP-RF Wireless Optical Probe with RF Interface </h1>
+		<?php
+			include("breadcrumnav.php");	
+		?>					
+	
 		<table class="TwoColsLayout">
 			<tr><td class="Left">
-					<h1>TP-RF Wireless Optical Probe with RF Interface </h1>
 					<p>It is a new series of Tespro optical probe family, supporting RF wireless communication for meter reading but cable connection un-reachable. Communication distance is much longer than Bluetooth. </p>
 					<h3>Sub-models</h3>
 					<ul>
@@ -45,8 +49,8 @@
 				<img src="images/products/product_TP-RF.jpg" width="350" alt="TP-RF ">
 			</td></tr>
 		</table>
-		<?php include("list_probes.php") ?>
 	</div>
 </div><!--End of content-->
+<?php include("list_probes.php") ?>
 <?php include("../includes/Google_ProbeAdsTracking.php") ?>
 <?php include("footer.php") ?>

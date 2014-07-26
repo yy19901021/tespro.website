@@ -37,7 +37,7 @@
 			<img src="images/products/product_TP-17.jpg" alt="TP-17 机械/电子表两用校验光电头 " />
 		</td></tr>
 	</table>
-	<?php include("list_probes.php") ?>
 </div>
 </div><!--End of content-->
+<?php include("list_probes.php") ?>
 <?php include("footer.php") ?>

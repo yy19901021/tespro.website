@@ -27,8 +27,7 @@
 			<img src="images/products/product_TA-430-460.jpg" alt="TA-430/460 电表中试综合测试台" />
 		</td></tr>
 	</table>
-	
-	<?php include("list_testing-devices.php") ?>
 </div>
 </div><!--End of content-->
+<?php include("list_testing-devices.php") ?>
 <?php include("footer.php") ?>

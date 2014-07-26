@@ -1,4 +1,4 @@
-<div id="ProductList">
+<div id="ProductList" class="cat-footer">
 <h1 title="便携式仪器系列">便携式仪器系列</h1>
 	<ul>
 				<li><a href="zh/TA-800.php">TA-800 多规约计量数据分析仪</a></li>

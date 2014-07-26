@@ -36,8 +36,8 @@
 				<img src="images/products/product_TP-15.jpg" alt="TP-15 Dual-frequency optical scanning probe for accuracy test" />
 			</td></tr>
 		</table>
-		<?php include("list_probes.php") ?>
 	</div>
 </div><!--End of content-->
+<?php include("list_probes.php") ?>
 <?php include("../includes/Google_ProbeAdsTracking.php") ?>
 <?php include("footer.php") ?>

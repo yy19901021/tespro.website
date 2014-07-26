@@ -35,8 +35,8 @@
 		<div class="HalfWidth LeftAligned">
 			<h2>电表通讯光电头</h2>
 			<ul>
-				<li><a href="zh/TP-USB.php">TP-USB USB接口标准光电头</a></li>
-				<li><a href="zh/TP-232.php">TP-232 232接口标准光电头</a></li>
+				<li><a href="zh/TP-USB.php">TP-USB 标准光电头（USB接口）</a></li>
+				<li><a href="zh/TP-232.php">TP-232 标准光电头（RS-232接口）</a></li>
 				<li><a href="zh/TP-USB-IR645.php">DL/T645 国家标准光电头</a></li>
 				<li><a href="zh/TP-PDA.php">TP-PDA 手持设备光电头</a></li>
 				<li><a href="zh/TP-BT.php">TP-BT 蓝牙光电头</a></li>

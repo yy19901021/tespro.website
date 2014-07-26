@@ -54,6 +54,11 @@
 				</div>
 				<div class="CurrentTab">
 					<div class="Outer">
+						<a href="zh/clients.php">全球客户</a>
+					</div>
+				</div>
+				<div class="CurrentTab">
+					<div class="Outer">
 						<a href="zh/download.php">下载</a>
 					</div>
 				</div>

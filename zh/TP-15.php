@@ -34,7 +34,7 @@
 			<img src="images/products/product_TP-15.jpg" alt="TP-15 双频校验光电头" />
 		</td></tr>
 	</table>
-	<?php include("list_probes.php") ?>
 </div>
 </div><!--End of content-->
+<?php include("list_probes.php") ?>
 <?php include("footer.php") ?>

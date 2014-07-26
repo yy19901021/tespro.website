@@ -119,4 +119,5 @@
 	</table>
 </div>
 </div><!--End of content-->
+<?php include("list_probes.php") ?>
 <?php include("footer.php") ?>

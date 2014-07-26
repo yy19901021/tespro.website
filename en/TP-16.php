@@ -37,8 +37,8 @@ out specs of PRS1.3 & PWS1.3 respectively.</li>
 				<img src="images/products/product_TP-16-PRS_02.jpg" alt="Optical Scanning Probe for Portable Accuracy Test Instrument" />
 			</td></tr>
 		</table>
-		<?php include("list_probes.php") ?>
 	</div>
 </div><!--End of content-->
+<?php include("list_probes.php") ?>
 <?php include("../includes/Google_ProbeAdsTracking.php") ?>
 <?php include("footer.php") ?>

@@ -31,7 +31,7 @@
 			<img src="images/products/product_TP-16-2.jpg" alt="TP-16-PR-x S进口现校仪校验光电头 " />
 		</td></tr>
 	</table>
-	<?php include("list_probes.php") ?>
 </div>
 </div><!--End of content-->
+<?php include("list_probes.php") ?>
 <?php include("footer.php") ?>

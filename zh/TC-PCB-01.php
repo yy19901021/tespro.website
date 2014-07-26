@@ -30,8 +30,7 @@
 			<img src="images/products/product_TC-PCB-01.jpg" alt="TC-PCB-01 半自动PCB测试台" />
 		</td></tr>
 	</table>
-	
-	<?php include("list_testing-devices.php") ?>
 </div>
 </div><!--End of content-->
+<?php include("list_testing-devices.php") ?>
 <?php include("footer.php") ?>

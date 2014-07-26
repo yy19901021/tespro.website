@@ -1,14 +1,13 @@
-<h1 title="光电头及其配件">全部光电头产品</h1>
-<div id="ProductList">
+<div id="ProductList" class="cat-footer">
     <div class="HalfWidth LeftAligned">
 		<h4>电表通讯光电头</h4>
 			<ul>
-				<li><a href="zh/TP-IEC.php">IEC标准常用光电头</a></li>
-				<li><a href="zh/TP-ANSI.php">ANSI标准常用光电头</a></li>
-				<li><a href="zh/TP-USB-IR645.php">DL/T645国家标准光电头</a></li>
-				<li><a href="zh/TP-Handheld.php">HHU/PDA手持设备光电头</a></li>
-				<li><a href="zh/TP-BT.php">BT蓝牙光电头</a></li>
-				<li><a href="zh/TP-RF.php">RF微功率无线光电头</a></li>
+				<li><a href="zh/TP-USB.php">TP-USB 标准光电头（USB接口）</a></li>
+				<li><a href="zh/TP-232.php">TP-232 标准光电头（RS-232接口）</a></li>
+				<li><a href="zh/TP-USB-IR645.php">DL/T645 国家标准光电头</a></li>
+				<li><a href="zh/TP-PDA.php">TP-PDA 手持设备光电头</a></li>
+				<li><a href="zh/TP-BT.php">TP-BT 蓝牙光电头</a></li>
+				<li><a href="zh/TP-RF.php">TP-RF 微功率无线光电头</a></li>
 			</ul>
     </div>
     <div class="HalfWidth LeftAligned">

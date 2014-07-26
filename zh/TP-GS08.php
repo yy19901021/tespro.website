@@ -36,11 +36,10 @@
 			
 		</td><td class="Right">
 			<img src="images/products/product_TP-GS08.jpg" alt="TP-GS07光电头通用适配器" />
-			<img src="images/products/product_TP-GS08_2.jpg" alt="TP-GS07光电头通用适配器" />
+			<img src="images/products/product_TP-GS08_demo.jpg" alt="TP-GS07光电头通用适配器" />
 		</td></tr>
 	</table>
-
-	<?php include("list_probes.php") ?>
 </div>
 </div><!--End of content-->
+<?php include("list_probes.php") ?>
 <?php include("footer.php") ?>

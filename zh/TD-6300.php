@@ -57,7 +57,7 @@
 			<img src="images/products/product_TD-6300-2.jpg" alt="TD-6300 三相逆变校表功率源 " />
 		</td></tr>
 	</table>
-	<?php include("list_power-station.php") ?>
 </div>
 </div><!--End of content-->
+<?php include("list_power-station.php") ?>
 <?php include("footer.php") ?>

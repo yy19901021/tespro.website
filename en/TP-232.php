@@ -74,13 +74,12 @@
 				<h3>Drivers</h3>
 				<a href="en/download/TP-USB.zip">Download the USB driver for Windows</a>
 			</td><td class="Right">
-				<img src="images/products/product_TP-ANSI-1.jpg" width="300" alt="TP-232 Optical Probe" />
-				<img src="images/products/product_TP-ANSI-3.jpg" width="300" alt="TP-232 Optical Probe" />
+				<img src="images/products/product_TP-232-IEC.jpg" width="300" alt="TP-232 Optical Probe" />
+				<img src="images/products/product_TP-232-ANSI_demo.jpg" width="300" alt="TP-232 Optical Probe" />
 			</td></tr>
 		</table>
-		
-		<?php include("list_probes.php") ?>
 	</div>
 </div><!--End of content-->
+<?php include("list_probes.php") ?>
 <?php include("../includes/Google_ProbeAdsTracking.php") ?>
 <?php include("footer.php") ?> 

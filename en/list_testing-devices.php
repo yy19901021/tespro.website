@@ -1,4 +1,4 @@
-<div id="ProductList">
+<div id="ProductList" class="cat-footer">
 <h1>Meter Test Stations</h1>
 	<div class="Products">
 		<dl>

@@ -41,8 +41,8 @@
 				<img src="images/products/product_TP-17.jpg" alt="TP-17 Optical Scanning Probe with Duplex-function" />
 			</td></tr>
 		</table>
-		<?php include("list_probes.php") ?>
 	</div>
 </div><!--End of content-->
+<?php include("list_probes.php") ?>
 <?php include("../includes/Google_ProbeAdsTracking.php") ?>
 <?php include("footer.php") ?>

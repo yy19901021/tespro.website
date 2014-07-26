@@ -12,14 +12,9 @@
 		<?php
 			include("breadcrumnav.php");	
 		?>
+	<table class="TwoColsLayout">
+		<tr><td class="Left">
 		<p>TG-MTS is a multi-purpose Meter Test Station, applicable for the test of almost all square-shaped power energy meters, including Landis+Gyr, EDMI, ELSTER and ISKRA, etc.</p>
-		<div>
-			<img style="" src="images/products/product_TG-MTS_Wasion.jpg" alt="TG-MTS Meter Test Station for Wasion " />
-			<img style="margin-left: 0;" src="images/products/product_TG-MTS_EDMI.jpg" alt="TG-MTS Meter Test Station for EDMI" />
-			<img style="margin-left: 0;" src="images/products/product_TG-MTS_Halley.jpg" alt="TG-MTS Meter Test Station for Halley" />
-			<img style="margin-left: 0; margin-right: 0;" src="images/products/product_TG-MTS_ISKRA.jpg" alt="TG-MTS Meter Test Station for ISKRA" />
-			<div class="Clear"></div>
-		</div>
 		<h3>Applications</h3>
 		<p>It is designed for the use of:</p>
 		<ul>
@@ -40,6 +35,20 @@
     		<li>Support power shut-down of every single phase for meter functionality test.</li>
     		<li>Support current shut-down of every single phase for meter functionality test.</li>
 		</ul>
+		</td><td class="Right">
+			<img src="images/products/product_TG-MTS.jpg" alt="TG-MTS Meter Test Station" />
+			<img src="images/products/product_TG-MTS_demo.jpg" alt="TG-MTS Meter Test Station" />
+		</td></tr>
+	</table>
+
+		
+		<div>
+			<img style="" src="images/products/product_TG-MTS_Wasion.jpg" alt="TG-MTS Meter Test Station for Wasion " />
+			<img style="margin-left: 0;" src="images/products/product_TG-MTS_EDMI.jpg" alt="TG-MTS Meter Test Station for EDMI" />
+			<img style="margin-left: 0;" src="images/products/product_TG-MTS_Halley.jpg" alt="TG-MTS Meter Test Station for Halley" />
+			<img style="margin-left: 0; margin-right: 0;" src="images/products/product_TG-MTS_ISKRA.jpg" alt="TG-MTS Meter Test Station for ISKRA" />
+			<div class="Clear"></div>
+		</div>
 	</div>
 </div><!--End of content-->
 <?php include("footer.php") ?>

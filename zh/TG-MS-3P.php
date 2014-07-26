@@ -32,7 +32,7 @@
 			<img src="images/products/product_TG-MS-3P-3.jpg" alt="TG-MS-3P 三相电表维修测试台" />
 		</td></tr>
 	</table>
-	<?php include("list_testing-devices.php") ?>
 </div>
 </div><!--End of content-->
+<?php include("list_testing-devices.php") ?>
 <?php include("footer.php") ?>

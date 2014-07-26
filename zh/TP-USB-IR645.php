@@ -27,10 +27,10 @@
 					<li>双色LED动态指示通讯状态。</li>
 				</ul>
 			</td><td class="Right">
-				<img src="images/products/product_TP-IR645.jpg" alt="TP-USB-IR645红外通讯光电头"/>
+				<img src="images/products/product_TP-USB-IR645.jpg" alt="TP-USB-IR645红外通讯光电头"/>
 			</td></tr>
 		</table>
-	<?php include("list_probes.php") ?>
 </div>
 </div><!--End of content-->
+<?php include("list_probes.php") ?>
 <?php include("footer.php") ?>

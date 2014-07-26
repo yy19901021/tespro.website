@@ -15,7 +15,13 @@
 	<table class="TwoColsLayout">
 		<tr><td class="Left">
 			<p>2002年泰易公司开始提供串口取电的光电头，2005年获批USB光电头专利。通过创新和优化，泰易光电头系列逐渐成为技术成熟、经久耐用、覆盖全面的优秀品牌代表。</p>
-
+			<h3>子型号</h3>
+			<ul>
+				<li>TP-232-IEC</li>
+				<li>TP-232-ANSI-N: Compatible with ANSI C12.18 (Normal Standard)</li>
+				<li>TP-232-ANSI-S: Compatible with ANSI C12.18 (Siemens Standard)</li>
+				<li>TP-232-ANSI-U: Compatible with ANSI C12.18 (Universal, can be switch between Normal and Siemens standar)</li>
+			</ul>
 			<p>按照ANSI C12.18标准有两种不同通信特性，泰易公司设计有-N，-S，-U三种子型号满足ANSI不同子标准的要求（“xxx”表示通讯接口选项）：</p>
 			<ul>
 				<li>TP-xxx-ANSI-N：C12.18标准常规型， 以GE、Itron电表为代表；</li>

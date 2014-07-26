@@ -35,7 +35,7 @@
 			<img src="images/products/product_TA-261_02.jpg" alt="TA-261电表通讯接口测试器" />
 		</td></tr>
 	</table>
-	<?php include("list_handheld-devices.php") ?>
 </div>
 </div><!--End of content-->
+<?php include("list_handheld-devices.php") ?>
 <?php include("footer.php") ?>

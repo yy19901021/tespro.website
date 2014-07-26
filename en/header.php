@@ -54,6 +54,11 @@
 				</div>
 				<div class="CurrentTab">
 					<div class="Outer">
+						<a href="en/clients.php">Customers</a>
+					</div>
+				</div>
+				<div class="CurrentTab">
+					<div class="Outer">
 						<a href="en/download.php">Download</a>
 					</div>
 				</div>

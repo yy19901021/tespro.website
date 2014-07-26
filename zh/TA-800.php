@@ -37,7 +37,8 @@
 		</td></tr>
 	</table>
 	
-	<?php include("list_handheld-devices.php") ?>
+
 </div>
 </div><!--End of content-->
+<?php include("list_handheld-devices.php") ?>
 <?php include("footer.php") ?>

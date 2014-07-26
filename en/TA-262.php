@@ -8,7 +8,7 @@
 ?>
 <div id="Content"><!--Start of content-->
 	<div class="Products">
-		<h1>TA-262 Meter Communication Port Tester<br /> - The &ldquo;Meter Almighty&rdquo; in AMR applications (Patented product)</h1>
+		<h1>TA-262 Meter Communication Port Tester</h1>
 		<?php
 			include("breadcrumnav.php");	
 		?>
@@ -37,7 +37,7 @@
 				<p class="HighLight">English Version of Program TATESTxx will be available upon order.</p>
 				<p class="HighLight">TA-261 is originally designed and manufactured by Tespro Electronics Co., Ltd.</p>
 			</td><td class="Right">
-				<img src="images/products/product_TA-261.jpg" alt="TA-261 Communication Port Tester" />
+				<img src="images/products/product_TA-262_zh.png" alt="TA-262 Communication Port Tester" />
 			</td></tr>
 		</table>
 		

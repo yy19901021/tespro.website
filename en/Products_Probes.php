@@ -12,6 +12,11 @@
 	<div class="Shadow2"></div>
 	<div class="Shadow3"></div>
 </div>
+<style>
+#Clients td{border: 1px solid silver; padding: 38px;}
+#Clients td img{width: 150px; height: 150px;}
+#Clients a:link{border: 0;}
+</style>
 <div id="Content"><!--Start of content-->
 	<div class="Products">
 		<div>We have the most comprehensive range of optical probes for any electricity meter. We accept OEM and customization orders.</div>
@@ -41,15 +46,20 @@
 	</div>
 	<div id="OurCustomers">
 		<h1>Our Customers</h1>
-		<div>
-			<a href="http://www.landisgyr.com/"><img src="images/customers_landisgyr.jpg" alt="Landis &amp; Gyr" /></a>
-			<a href="http://www.sgcc.com.cn/ywlm/"><img src="images/customers_stategrid.jpg" alt="State Grid" /></a>
-			<a href="http://www.actaris.com/"><img src="images/customers_actaris.jpg" alt="Actaris" /></a>
-			<a href="http://www.edmi-meters.com/"><img src="images/customers_edmi.jpg" alt="China South Grid" /></a>
-			<a href="http://www.elster.com/"><img src="images/customers_elster.jpg" alt="Elster" /></a>
-			<a href="http://www.ge.com"><img src="images/logos/ge.png" 
-                alt="GE" style="height: 80px;" /></a>
-		</div>
+		<table id="Clients">
+			<tr>
+				<td><a href="http://www.ge.com"><img src="images/clients/ge.png" alt="GE"></a></td>
+				<td><a href="http://www.csg.cn"><img src="images/clients/south_grid.png" alt="南方电网"></a></td>
+				<td><a href=""><img src="images/clients/elster.png" alt="ELSTER"></a></td>
+				<td><a href=""><img src="images/clients/sensus.png" alt="SENSUS"></a></td>
+			</tr>
+			<tr>
+				<td><a href="http://www.itron.com/"><img src="images/clients/itron.png" alt="Itron"></a></td>
+				<td><a href="http://www.landisgyr.com/"><img src="images/clients/landis_gyr.png" alt="兰吉尔"></a></td>
+				<td><a href="http://www.sgcc.com.cn"><img src="images/clients/state_grid.png" alt="国家电网"></a></td>
+				<td><a href="http://www.edmi-meters.com/"><img src="images/clients/edmi.png" alt="EDMI"></a></td>
+			</tr>
+		</table>
 	</div>
 </div><!--End of content-->
 <?php include("footer.php") ?> 

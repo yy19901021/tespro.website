@@ -41,8 +41,8 @@
 				<img src="images/products/product_TP-11.jpg" alt="TP-11 Optical Scanning Probe for Test-bench Assembled" />
 			</td></tr>
 		</table>		
-		<?php include("list_probes.php") ?>
 	</div>
 </div><!--End of content-->
+<?php include("list_probes.php") ?>
 <?php include("../includes/Google_ProbeAdsTracking.php") ?>
 <?php include("footer.php") ?>

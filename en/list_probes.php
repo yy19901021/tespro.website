@@ -1,5 +1,4 @@
-<div id="ProductList">
-<h1>Optical Probes</h1>
+<div id="ProductList" class="cat-footer">
 	<div class="Products">
 		<div class="HalfWidth LeftAligned">
 			<h4 title="Optical probe for communication">Optical Probes for Meter Communication</h4>
@@ -24,7 +23,7 @@
 		</div>
 		<div class="Clear"></div>
 		<div class="HalfWidth LeftAligned">
-			<h2 title="Testing Devices">Accesory for Optical Probes</h2>
+			<h4 title="Testing Devices">Accesory for Optical Probes</h2>
 			<ul>
 				<li><a href="en/TP-GS08.php">TP-GS08 Versatile Probe Fixture</a></li>
 				<li><a href="en/TP1_option_table.php">Sample List of Connectors of Optical Scanning Probes</a></li>

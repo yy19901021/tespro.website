@@ -33,7 +33,8 @@
 				<img src="images/products/product_TP-BT.jpg" width="250" alt="蓝牙通讯光电头"/>
 			</td></tr>
 		</table>
-	<?php include("list_probes.php") ?>
+
 </div>
 </div><!--End of content-->
+<?php include("list_probes.php") ?>
 <?php include("footer.php") ?>

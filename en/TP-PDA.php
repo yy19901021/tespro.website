@@ -8,12 +8,12 @@
 ?>
 <div id="Content"><!--Start of content-->
 	<div class="Products">
+		<h1>TP-PDA Optical Probe for Hand Held Devices</h1>
+		<?php
+			include("breadcrumnav.php");	
+		?>					
 		<table class="TwoColsLayout">
 			<tr><td class="Left">
-					<h1>TP-PDA Optical Probe for Hand Held Devices</h1>
-					<?php
-						include("breadcrumnav.php");	
-					?>					
 					<p>TP-PDA is design to work with a wide range popular hand-held devices. 
 						With 9 years of history, it's been developed to support more devices, 
 						and widely used in on-site meter reading.</p>
@@ -42,8 +42,8 @@
 				<img src="images/products/product_TP-Handheld.jpg" alt="TP-HHU/PDA Optical Probe">
 			</td></tr>
 		</table>
-		<?php include("list_probes.php") ?>
 	</div>
 </div><!--End of content-->
+<?php include("list_probes.php") ?>
 <?php include("../includes/Google_ProbeAdsTracking.php") ?>
 <?php include("footer.php") ?>

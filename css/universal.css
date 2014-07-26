@@ -69,11 +69,19 @@ h2:first-child,h3:first-child{margin-top:0}
 div.Products{margin:0;padding:0}
 div.Products ul{margin-left:1.5em;padding:0}
 /* -- Images Start -- */
-div.Products img,img.Photos{border:1px solid #999;padding:0.4em;margin:1em}
+div.Products img,img.Photos{border:1px solid #999;padding:0.4em;margin:1em; }
+div.Products td.Right img{width: 300px;}
 div.Products p img{float:right}
 div.Products img.NoFloat{float:none}
 .TwoColsLayout .Right img{margin-right:0}
-/*** End ***/
+
+/* category footer */
+.cat-footer {background-color: #536d7f; padding: 18px; }
+.cat-footer h1 { color: white; }
+.cat-footer, .cat-footer a, .cat-footer a:hover, .cat-footer a:visited { color: white; font-size: 12px;}
+
+
+/*** /Page Content Sytle End ***/
 
 /*** Form Elements Style***/
 Input.TallBox{font-size: 20px;}

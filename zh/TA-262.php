@@ -6,9 +6,6 @@
 	include("../includes/universal.php");
 	include("header.php");
 ?>
-<div class="product-banner">
-	<img src="images/products/product_TA-262-2.jpg" alt="TA-800 多规约计量数据分析仪" />
-</div>
 <div id="Content"><!--Start of content-->
 <div class="Products">
 	<h1>TA-262 计量通信故障综合测试仪”</h1>
@@ -35,11 +32,10 @@
 			</ul>
 			<p>始于2005年原创设计的多功能通讯测试仪，是TA-261的升级版，性能更加完善。</p>
 		</td><td class="Right">
-			<img src="images/products/product_TA-262-1.jpg" alt="TA-261电表通讯接口测试器" />
+			<img src="images/products/product_TA-262_zh.png" alt="TA-261电表通讯接口测试器" />
 		</td></tr>
 	</table>
-	
-	<?php include("list_handheld-devices.php") ?>
 </div>
 </div><!--End of content-->
+<?php include("list_handheld-devices.php") ?>
 <?php include("footer.php") ?>

@@ -15,7 +15,6 @@
 		<table class="TwoColsLayout">
 			<tr><td class="Left">
 				<h3>Applications</h3>
-				<ul>
 				<p>TP-USB optical probe is designed by Tespro in 2005. 
 					With years of optimization, it's been proven to be reliable in application. 
 					It is widely used in the electric energy meter parameterization and data reading, 
@@ -75,12 +74,12 @@
 				<a href="en/download/TP-USB.zip">Download the USB driver for Windows</a>
 			</td><td class="Right">
 				<img src="images/products/product_TP-USB.jpg" alt="TP-USB-IEC Optical Probe" />
-				<img src="images/products/product_TP-ANSI-3.jpg" alt="TP-USB-IEC Optical Probe" />
+				<img src="images/products/product_TP-USB-ANSI-N.jpg" alt="TP-USB-IEC Optical Probe" />
+				<img src="images/products/product_TP-USB-ANSI_demo.jpg" alt="TP-USB-IEC Optical Probe" />
 			</td></tr>
 		</table>
-		
-		<?php include("list_probes.php") ?>
 	</div>
 </div><!--End of content-->
+<?php include("list_probes.php") ?>
 <?php include("../includes/Google_ProbeAdsTracking.php") ?>
 <?php include("footer.php") ?> 

@@ -8,12 +8,12 @@
 ?>
 <div id="Content"><!--Start of content-->
 	<div class="Products">
+	<h1>TP-BT Bluetooth Optical Probe</h1>
+	<?php
+		include("breadcrumnav.php");	
+	?>
 		<table class="TwoColsLayout">
 			<tr><td class="Left">
-					<h1>TP-BT Bluetooth Optical Probe</h1>
-					<?php
-						include("breadcrumnav.php");	
-					?>
 					<h3>Application</h3>
 					<p>TP-BT is a new series of Tespro optical probe family. It work with all Bluetooth enabled devices.</p>
 					<h3>Sub-models</h3>
@@ -44,8 +44,8 @@
 				<img src="images/products/product_TP-BT.jpg" width="250" alt="TP-BT-IEC/ANSI Bluetooth Optical Probe ">
 			</td></tr>
 		</table>
-		<?php include("list_probes.php") ?>
 	</div>
 </div><!--End of content-->
+<?php include("list_probes.php") ?>
 <?php include("../includes/Google_ProbeAdsTracking.php") ?>
 <?php include("footer.php") ?>

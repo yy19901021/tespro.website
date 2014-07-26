@@ -1,4 +1,4 @@
-<div id="ProductList">
+<div id="ProductList" class="cat-footer">
 <h1 title="电能计量测试设备">电能计量测试设备</h1>
 	<ul>
 				<li><a href="zh/TG-MTS-CN.php">TG-MTS-CN电表测试台</a></li>

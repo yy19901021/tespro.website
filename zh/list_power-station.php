@@ -1,4 +1,4 @@
-<div id="ProductList">
+<div id="ProductList" class="cat-footer">
 <h1 title="逆变电源设备">逆变电源设备</h1>
 	<ul>
 		<li><a href="zh/TD-1300.php">TD-1300 单三相逆变电源</a></li>

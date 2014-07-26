@@ -32,12 +32,11 @@
 			<li>台体绝缘性能好，便携轻便。</li>
 		</ul>
 		</td><td class="Right">
-			<img src="images/products/product_TG-MTS-CN.jpg" alt="TG-MS-3P 三相电表维修测试台" />
+			<img src="images/products/product_TG-MTS.jpg" alt="TG-MTS-CN 三相电表维修测试台" />
+			<img src="images/products/product_TG-MTS_demo.jpg" alt="TG-MTS-CN 三相电表维修测试台" />
 		</td></tr>
 	</table>
-	
-
-	<?php include("list_testing-devices.php") ?>
 </div>
 </div><!--End of content-->
+<?php include("list_testing-devices.php") ?>
 <?php include("footer.php") ?>

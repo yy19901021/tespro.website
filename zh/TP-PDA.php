@@ -27,7 +27,7 @@
 				<img src="images/products/product_TP-Handheld.jpg" alt="蓝牙通讯光电头"/>
 			</td></tr>
 		</table>
-	<?php include("list_probes.php") ?>
 </div>
 </div><!--End of content-->
+<?php include("list_probes.php") ?>
 <?php include("footer.php") ?>

@@ -23,7 +23,7 @@
 		<div class="HalfWidth LeftAligned">
 			<h2 title="Testing Devices">Testing Instruments</h2>
 			<ul>
-				<li>TA-262 Portable Tester for Meter Com-port failure</li>
+				<li><a href="en/TA-262.php">TA-262 Portable Tester for Meter Com-port failure</a></li>
 			</ul>
 		</div>
 		<div class="Clear"></div>

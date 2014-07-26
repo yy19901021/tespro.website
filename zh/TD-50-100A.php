@@ -29,7 +29,7 @@
 			<img src="images/products/product_TD-50-100A.jpg" alt="TD-50-100A 大电流电表负载特性测试仪 " />
 		</td></tr>
 	</table>
-	<?php include("list_power-station.php") ?>
 </div>
 </div><!--End of content-->
+<?php include("list_power-station.php") ?>
 <?php include("footer.php") ?>

@@ -28,12 +28,11 @@
 			</ul>
 		</td><td class="Right">
 			<img src="images/products/product_TP-GS08.jpg" alt="TP-GS08 Versatile Probe Fixture" />
-			<img src="images/products/product_TP-GS08_2.jpg" alt="TP-GS08 Versatile Probe Fixture" />
+			<img src="images/products/product_TP-GS08_demo.jpg" alt="TP-GS08 Versatile Probe Fixture" />
 		</td></tr>
 	</table>
-	
-	<?php include("list_probes.php") ?>
 </div>
 </div>
+<?php include("list_probes.php") ?>
 <?php include("../includes/Google_ProbeAdsTracking.php") ?>
 <!--End of content--><?php include("footer.php") ?>
