@@ -1,5 +1,5 @@
 <?php 
-	$title = "泰易电子：ANSI标准常用读写光电头";
+	$title = "ANSI标准常用读写光电头";
 ?>
 <?php 
 	$BaseUrl = "";
@@ -9,6 +9,9 @@
 <div id="Content"><!--Start of content-->
 <div class="Products">
 	<h1>ANSI标准常用读写光电头</h1>
+	<?php
+		include("breadcrumnav.php");	
+	?>
 	<table class="TwoColsLayout">
 		<tr><td class="Left">
 			<p>2002年泰易公司开始提供串口取电的光电头，2005年获批USB光电头专利。通过创新和优化，泰易光电头系列逐渐成为技术成熟、经久耐用、覆盖全面的优秀品牌代表。</p>

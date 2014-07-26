@@ -1,5 +1,5 @@
 <?php 
-	$title = "泰易电子：TP-11、TP-14 电表校验光电头";
+	$title = "TP-11、TP-14 电表校验光电头";
 ?>
 <?php 
 	$BaseUrl = "";
@@ -9,6 +9,9 @@
 <div id="Content"><!--Start of content-->
 <div class="Products">
 	<h1>TP-11、TP-14电表校验光电头</h1>
+	<?php
+		include("breadcrumnav.php");	
+	?>
 	<table class="TwoColsLayout">
 		<tr><td class="Left">
 			<h3>用途：</h3>

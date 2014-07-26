@@ -1,5 +1,5 @@
 <?php 
-	$title = "泰易电子：TF-USB485转换测试线";
+	$title = "TF-USB485转换测试线";
 ?>
 <?php 
 	$BaseUrl = "";
@@ -9,6 +9,9 @@
 <div id="Content"><!--Start of content-->
 <div class="Products">
 	<h1>TF-USB485转换测试线</h1>
+	<?php
+		include("breadcrumnav.php");	
+	?>
 	<table class="TwoColsLayout">
 		<tr><td class="Left">
 			<p></p>

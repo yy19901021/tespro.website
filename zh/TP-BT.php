@@ -1,5 +1,5 @@
 <?php 
-	$title = "泰易电子：BT蓝牙光电头";
+	$title = "BT蓝牙光电头";
 ?>
 <?php 
 	$BaseUrl = "";
@@ -9,6 +9,9 @@
 <div id="Content"><!--Start of content-->
 <div class="Products">
 	<h1>BT蓝牙光电头</h1>
+	<?php
+		include("breadcrumnav.php");	
+	?>
 		<table class="TwoColsLayout">
 			<tr><td class="Left">
 				<h3>主要用途：</h3>

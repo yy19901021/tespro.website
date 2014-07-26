@@ -1,5 +1,5 @@
 <?php 
-	$title = "泰易电子：校验光电头插头选用表";
+	$title = "校验光电头插头选用表";
 ?>
 <?php 
 	$BaseUrl = "";
@@ -9,6 +9,9 @@
 <div id="Content"><!--Start of content-->
 <div class="Products">
 	<h1>校验光电头插头选用表</h1>
+	<?php
+		include("breadcrumnav.php");	
+	?>
 	<p>泰易TP－1x系列电能表校验光电头系列，可以按照客户的要求定制、更换插头、引线，以达到更满意的使用效果。TP-1x系列包含以下型号：</p>
 	<ul>
 		<li><a href="zh/TP-11.php">TP-11 电表校验光电头</a></li>

@@ -1,5 +1,5 @@
 <?php 
-	$title = "泰易电子：TA-420 通用电表仿真测试平台";
+	$title = "TA-420 通用电表仿真测试平台";
 ?>
 <?php 
 	$BaseUrl = "";
@@ -9,6 +9,9 @@
 <div id="Content"><!--Start of content-->
 <div class="Products">
 	<h1>TA-420 通用电表仿真测试平台</h1>
+	<?php
+		include("breadcrumnav.php");	
+	?>
 	<table class="TwoColsLayout">
 		<tr><td class="Left">
 			<p>《TA-420通用电表仿真测试平台》是由珠海泰易自动化设备有限公司创新推出的设备。2008年推出的已经是第2代产品。 TA-420通用电表仿真测试平台是从事电表类产品开发的有力工具,可以缩短产品研发周期，提升系列化产品研发效率。</p>

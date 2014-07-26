@@ -2,7 +2,7 @@
 	header( "HTTP/1.1 301 Moved Permanently" );
 	header("Location: TP-Handheld.php");
 	
-	$title = "泰易电子：TP-HHTP 振中型手抄器光电头";
+	$title = "TP-HHTP 振中型手抄器光电头";
 ?>
 <?php 
 	$BaseUrl = "";
@@ -12,6 +12,9 @@
 <div id="Content"><!--Start of content-->
 <div class="Products">
 	<h1>TP-HHTP 振中型手抄器光电头</h1>
+	<?php
+		include("breadcrumnav.php");	
+	?>
 		<table class="TwoColsLayout">
 			<tr><td class="Left">
 				<p>TP-HHTP型光电头是为振中800型掌上电脑配套设计的一款产品。</p>

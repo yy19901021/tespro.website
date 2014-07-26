@@ -2,7 +2,7 @@
 	header( "HTTP/1.1 301 Moved Permanently" );
 	header("Location: TP-ANSI.php");
 	
-	$title = "泰易电子：TP-232-ANSI电表读写光电头（RS232接口）";
+	$title = "TP-232-ANSI电表读写光电头（RS232接口）";
 ?>
 <?php 
 	$BaseUrl = "";
@@ -12,6 +12,9 @@
 <div id="Content"><!--Start of content-->
 <div class="Products">
 	<h1>TP-232-ANSI电表读写光电头（RS232接口）</h1>
+	<?php
+		include("breadcrumnav.php");	
+	?>
 		<table class="TwoColsLayout">
 			<tr><td class="Left">
 				<p>TP-232-ANSI 电表光电头是我公司设计并生产历史比较久远产品，2002年最早开创从RS232取电，免电池的光电读写头。</p>

@@ -1,5 +1,5 @@
 <?php 
-	$title = "泰易电子：TP-CS485接口转换器";
+	$title = "TP-CS485接口转换器";
 ?>
 <?php 
 	$BaseUrl = "";
@@ -9,6 +9,9 @@
 <div id="Content"><!--Start of content-->
 <div class="Products">
 	<h1>TP-CS485接口转换器</h1>
+	<?php
+		include("breadcrumnav.php");	
+	?>
 	<table class="TwoColsLayout">
 		<tr><td class="Left">
 			<p>珠海泰易电子研制TP-CS485接口转换器已有5年历史。现在可以提供两种版本：</p>

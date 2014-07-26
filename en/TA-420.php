@@ -1,5 +1,5 @@
 <?php 
-	$title = "TesPro: TA-420 Meter Simulation Test Platform";
+	$title = "TA-420 Meter Simulation Test Platform";
 ?>
 <?php 
 	$BaseUrl = "";
@@ -9,6 +9,9 @@
 <div id="Content"><!--Start of content-->
 	<div class="Products">
 		<h1>TA-420 Meter Simulation Test Platform</h1>
+		<?php
+			include("breadcrumnav.php");	
+		?>
 		<table class="TwoColsLayout">
 			<tr><td class="Left">
 				<p>TA-420 Meter Simulation Test Platform has been developed and put into practice for years.  It has been proved that TA-420 is a very useful tool for meter R&D and test department. </p>

@@ -9,6 +9,9 @@
 <div id="Content"><!--Start of content-->
 	<div class="Products">
 		<h1>TF-USB232转换测试线</h1>
+		<?php
+			include("breadcrumnav.php");	
+		?>
 		<p><img src="images/product_TF-USB232.jpg" alt="TF-USB232转换测试线"></p>
 		<h3>功能特点： </h3>
 		<ul>

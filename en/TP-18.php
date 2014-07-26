@@ -1,5 +1,5 @@
 <?php 
-	$title = "TesPro: TP-18 Slim Optical Scanning Probe";
+	$title = "TP-18 Slim Optical Scanning Probe";
 ?>
 <?php 
 	$BaseUrl = "";
@@ -12,6 +12,9 @@
 <div id="Content"><!--Start of content-->
 	<div class="Products">
 		<h1>TP-18 Slim Optical Scanning Probe</h1>
+		<?php
+			include("breadcrumnav.php");	
+		?>
 		<table class="TwoColsLayout">
 			<tr><td class="Left">
 				<p>TP-18 Slim Optical Probe was designed for meter active and reactive accuracy testing at the same time. </p>

@@ -1,5 +1,5 @@
 <?php 
-	$title = "泰易电子：TG-MTS-CS 标准端口电能表测试台";
+	$title = "TG-MTS-CS 标准端口电能表测试台";
 ?>
 <?php 
 	$BaseUrl = "";
@@ -9,6 +9,9 @@
 <div id="Content"><!--Start of content-->
 <div class="Products">
 	<h1>TG-MTS-CS 标准端口电能表测试台</h1>
+	<?php
+		include("breadcrumnav.php");	
+	?>
 	<table class="TwoColsLayout">
 		<tr><td class="Left">
 			<p>TG-MTS-CS 是一种多功能智能电表测试设备，其端口设计是符合2009年最新标准的互感器式智能电能表。因此TG-MTS-CS可用于符合这一标准的各种电表，通用性强，对智能表开发和检测具备普遍应用性。</p>

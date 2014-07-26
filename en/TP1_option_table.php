@@ -1,5 +1,5 @@
 <?php 
-	$title = "TesPro: Table of connectors for optical probes";
+	$title = "Table of connectors for optical probes";
 ?>
 <?php 
 	$BaseUrl = "";
@@ -9,6 +9,9 @@
 <div id="Content"><!--Start of content-->
 	<div class="Products">
 		<h1>Table of connectors for optical probes</h1>
+		<?php
+			include("breadcrumnav.php");	
+		?>
 		<p>In accuracy test optical scanning probes are connected to the socket on the bench or portable instruments. As the sockets varies from different  brands of test equipments, Tespro provides different connectors for TP11, TP14, TP15, TP16 probes, so as to meet the requirements for all customers.</p>
 		<h3>Take TP-16-xy for example:</h3>
 		<table id="ModelNameDesp" class="DataTable">

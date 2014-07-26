@@ -1,5 +1,5 @@
 <?php 
-	$title = "TesPro: TP-12 Optical Pulse Sensing Probe for Energy Monitoring";
+	$title = "TP-12 Optical Pulse Sensing Probe for Energy Monitoring";
 ?>
 <?php 
 	$BaseUrl = "";
@@ -9,6 +9,9 @@
 <div id="Content"><!--Start of content-->
 	<div class="Products">
 		<h1>TP-12 Optical Pulse Sensing Probe for Energy Monitoring</h1>
+		<?php
+			include("breadcrumnav.php");	
+		?>
 		<table class="TwoColsLayout">
 			<tr><td class="Left">
 				<p>TP-12 is a newly developed optical probe and supports LED optical pulses sensing of energy meters. It can be used as an accessory in detecting optical pulses for power monitoring, or for solar energy system.</p>

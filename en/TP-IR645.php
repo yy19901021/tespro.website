@@ -1,5 +1,5 @@
 <?php 
-	$title = "";
+	$title = "TP-IR645红外通讯光电头";
 ?>
 <?php 
 	$BaseUrl = "";
@@ -9,6 +9,9 @@
 <div id="Content"><!--Start of content-->
 	<div class="Products">
 		<h1>TP-IR645红外通讯光电头</h1>
+		<?php
+			include("breadcrumnav.php");	
+		?>
 		<p><img src="images/product_TP-IR645.jpg" alt="TP-IR645红外通讯光电头">泰易TP-IR645红外通讯光电头是泰易电子的最新产品，主要用于所有需要38kC调制红外通讯的电表通讯。</p>
 		<h3>应用特点：</h3>
 		<ul>

@@ -5,6 +5,8 @@
 	<meta name="keywords" content="optical probe,optical head,scanning probe,scanning head,meter communication,power measurement, AMR, meter test, meter reading, landys+gyr,IEC 61007,IEC standard,ANSI standard,smart metering,IEC 1107,optical ports,ANSI C12.18,meter parameterization,ferraris meter,solid-state meter,faradized meter,static meter,Meter Communication Port" />
 	<meta name="description" content="Tespro Electronics Co.,Ltd is a professional supplier in power metering fields, providing testing instruments and equipment for meter production line. Tespro is also engaged in providing manufacturers and power utilities with supporting parts and communication accessories for meter application and AMR system." />
 <?php
+	$CorpName = "泰易电子";
+	
 	if ($BaseUrl == $LiveBaseUrl){
 ?>
 	<script type="text/javascript">
@@ -27,7 +29,7 @@
 	<title>
 	<?php 
 		if ($title){
-			echo $title;
+			echo $CorpName . " - " . $title;
 		}
 		else{
 			echo 'Tespro Electronics';
@@ -48,11 +50,6 @@
 				<div class="CurrentTab">
 					<div class="Outer">
 						<a href="en/products.php">Products</a>
-					</div>
-				</div>
-				<div class="CurrentTab">
-					<div class="Outer">
-						<a href="en/newproduct.php">New Products</a>
 					</div>
 				</div>
 				<div class="CurrentTab">

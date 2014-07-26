@@ -1,5 +1,5 @@
 <?php 
-	$title = "TesPro: TP-USB Optical Probe for Meter Communication";
+	$title = "TP-USB Optical Probe for Meter Communication";
 ?>
 <?php 
 	$BaseUrl = "";
@@ -9,6 +9,9 @@
 <div id="Content"><!--Start of content-->
 	<div class="Products">
 		<h1>TP-USB Optical Probe for Meter Communication</h1>
+		<?php
+			include("breadcrumnav.php");	
+		?>
 		<table class="TwoColsLayout">
 			<tr><td class="Left">
 				<h3>Applications</h3>
@@ -72,7 +75,7 @@
 				<a href="en/download/TP-USB.zip">Download the USB driver for Windows</a>
 			</td><td class="Right">
 				<img src="images/products/product_TP-USB.jpg" alt="TP-USB-IEC Optical Probe" />
-				<img src="images/products/product_TP-ANSI-2.jpg" alt="TP-USB-IEC Optical Probe" />
+				<img src="images/products/product_TP-ANSI-3.jpg" alt="TP-USB-IEC Optical Probe" />
 			</td></tr>
 		</table>
 		

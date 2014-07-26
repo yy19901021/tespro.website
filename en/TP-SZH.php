@@ -1,5 +1,5 @@
 <?php 
-	$title = "TesPro: ";
+	$title = "";
 ?>
 <?php 
 	$BaseUrl = "";

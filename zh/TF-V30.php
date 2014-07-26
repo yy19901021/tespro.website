@@ -1,5 +1,5 @@
 <?php 
-	$title = "泰易电子：TF-V30 AMR专用调制解调器";
+	$title = "TF-V30 AMR专用调制解调器";
 ?>
 <?php 
 	$BaseUrl = "";
@@ -9,6 +9,9 @@
 <div id="Content"><!--Start of content-->
 <div class="Products">
 	<h1>TF-V30 AMR专用调制解调器</h1>
+	<?php
+		include("breadcrumnav.php");	
+	?>
 	<table class="TwoColsLayout">
 		<tr><td class="Left">
 			<p>TF-V30 调制解调器是为AMR应用而开发，采用调制解调芯片和微处理器设计。可以方便地通过市话网或内部电话专线实现远程数据传输和测控功能。经实践证明TF-V30 可以取代进口产品从而降低成本，产品如下图。</p>

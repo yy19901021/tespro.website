@@ -1,5 +1,5 @@
 <?php 
-	$title = "泰易电子：TC-AN1100 新标准单相表自动测试单元 ";
+	$title = "TC-AN1100 新标准单相表自动测试单元 ";
 ?>
 <?php 
 	$BaseUrl = "";
@@ -9,6 +9,9 @@
 <div id="Content"><!--Start of content-->
 <div class="Products">
 	<h1>TC-AN1100 新标准单相表自动测试单元 </h1>
+	<?php
+		include("breadcrumnav.php");	
+	?>
 	<table class="TwoColsLayout">
 		<tr><td class="Left">
 			<h3>应用特点：</h3>

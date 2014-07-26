@@ -2,7 +2,7 @@
 	header( "HTTP/1.1 301 Moved Permanently" );
 	header("Location: TP-USB.php");
 
-	$title = "TesPro: TP-USB-IEC Optical Probe for Meter Communication";
+	$title = "TP-USB-IEC Optical Probe for Meter Communication";
 ?>
 <?php 
 	$BaseUrl = "";

@@ -1,5 +1,5 @@
 <?php 
-	$title = "泰易电子：TA-320 型电源中断特性测试仪";
+	$title = "TA-320 型电源中断特性测试仪";
 ?>
 <?php 
 	$BaseUrl = "";
@@ -9,6 +9,9 @@
 <div id="Content"><!--Start of content-->
 <div class="Products">
 	<h1>TA-320 型电源中断特性测试仪</h1>
+	<?php
+		include("breadcrumnav.php");	
+	?>
 	<table class="TwoColsLayout">
 		<tr><td class="Left">
 			<p>《TA-320型电源中断特性测试仪》是用于研究设备对电源瞬间断电适应能力的分析仪器。该设备能够模拟瞬间断电的各种特性，尤其适合电能表的电源中断特性及数据安全性试验，符合DL/T614标准要求。</p>

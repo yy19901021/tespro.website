@@ -1,5 +1,5 @@
 <?php 
-	$title = "泰易电子：RF微功率无线光电头";
+	$title = "RF微功率无线光电头";
 ?>
 <?php 
 	$BaseUrl = "";
@@ -9,6 +9,9 @@
 <div id="Content"><!--Start of content-->
 <div class="Products">
 	<h1>RF微功率无线光电头</h1>
+	<?php
+		include("breadcrumnav.php");	
+	?>
 		<table class="TwoColsLayout">
 			<tr><td class="Left">
 				<h3>主要用途：</h3>

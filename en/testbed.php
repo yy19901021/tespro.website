@@ -1,5 +1,5 @@
 <?php 
-	$title = "TesPro: Test Stations";
+	$title = "Test Stations";
 ?>
 <?php include("header.php") ?>
 <div id="Content"><!--Start of content-->

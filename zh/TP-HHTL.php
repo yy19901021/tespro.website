@@ -12,6 +12,9 @@
 <div id="Content"><!--Start of content-->
 <div class="Products">
 	<h1>TP-HHTL 兰德型手抄器光电头</h1>
+	<?php
+		include("breadcrumnav.php");	
+	?>
 		<table class="TwoColsLayout">
 			<tr><td class="Left">
 				<p>TP-HHTL型光电头是特地为兰德2800型掌上电脑配套设计的专用产品。</p>

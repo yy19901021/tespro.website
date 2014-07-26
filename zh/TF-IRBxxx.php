@@ -1,5 +1,5 @@
 <?php 
-	$title = "泰易电子：TF-IRBxxx 电表红外机顶盒";
+	$title = "TF-IRBxxx 电表红外机顶盒";
 ?>
 <?php 
 	$BaseUrl = "";
@@ -9,6 +9,9 @@
 <div id="Content"><!--Start of content-->
 <div class="Products">
 	<h1>TF-IRBxxx 电表红外机顶盒</h1>
+	<?php
+		include("breadcrumnav.php");	
+	?>
 	<table class="TwoColsLayout">
 		<tr><td class="Left">
 			<p>TF-IRBxxx 电表红外机顶盒是为多功能电表扩展红外通讯功能而开发的产品。在对电表不作任何改装的情况下，本装置为电表提供了一种简单可行的红外抄表通讯口。采用机顶盒以后可以用手持抄表器对计量柜内的电表进行不接触抄表而不需要打开机柜铅封。</p>

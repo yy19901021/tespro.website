@@ -1,5 +1,5 @@
 <?php 
-	$title = "TesPro: TP-RF Wireless Optical Probe with RF Interface ";
+	$title = "TP-RF Wireless Optical Probe with RF Interface ";
 ?>
 <?php 
 	$BaseUrl = "";

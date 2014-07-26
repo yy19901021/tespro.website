@@ -35,12 +35,12 @@
 		<div class="HalfWidth LeftAligned">
 			<h2>电表通讯光电头</h2>
 			<ul>
-				<li><a href="zh/TP-IEC.php">IEC标准常用光电头</a></li>
-				<li><a href="zh/TP-ANSI.php">ANSI标准常用光电头</a></li>
-				<li><a href="zh/TP-USB-IR645.php">DL/T645国家标准光电头</a></li>
-				<li><a href="zh/TP-Handheld.php">HHU/PDA手持设备光电头</a></li>
-				<li><a href="zh/TP-BT.php">BT蓝牙光电头</a></li>
-				<li><a href="zh/TP-RF.php">RF微功率无线光电头</a></li>
+				<li><a href="zh/TP-USB.php">TP-USB USB接口标准光电头</a></li>
+				<li><a href="zh/TP-232.php">TP-232 232接口标准光电头</a></li>
+				<li><a href="zh/TP-USB-IR645.php">DL/T645 国家标准光电头</a></li>
+				<li><a href="zh/TP-PDA.php">TP-PDA 手持设备光电头</a></li>
+				<li><a href="zh/TP-BT.php">TP-BT 蓝牙光电头</a></li>
+				<li><a href="zh/TP-RF.php">TP-RF 微功率无线光电头</a></li>
 			</ul>
 			<h2>电表校验光电头</h2>
 			<ul>

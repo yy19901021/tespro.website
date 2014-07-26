@@ -2,7 +2,7 @@
 	header( "HTTP/1.1 301 Moved Permanently" );
 	header('Location: TP-17.php');
 
-	$title = "TesPro: TP-17A multi-function probe for Meter Accuracy Test";
+	$title = "TP-17A multi-function probe for Meter Accuracy Test";
 ?>
 <?php 
 	$BaseUrl = "";
@@ -19,7 +19,11 @@
 				<h3>Features:</h3>
 				
 				<ul>
-					<li>Can be used for Ferraris meter accuracy testing, functions change by switching. </li>					<li>Can be used for static meter accuracy testing, functions change by switching.</li>					<li>Power supply 5VDC, 40mA</li>					<li>Attached: Mechanical </li>					<li>Supported by TP-GS08 Versatile Probe Fixture. (Please refer to <TP-GS08 Versatile Probe Fixture> datasheet from Tespro web-site.)</li>
+					<li>Can be used for Ferraris meter accuracy testing, functions change by switching. </li>
+					<li>Can be used for static meter accuracy testing, functions change by switching.</li>
+					<li>Power supply 5VDC, 40mA</li>
+					<li>Attached: Mechanical </li>
+					<li>Supported by TP-GS08 Versatile Probe Fixture. (Please refer to <TP-GS08 Versatile Probe Fixture> datasheet from Tespro web-site.)</li>
 				</ul>
 				
 				<h3>Options</h3>

@@ -1,5 +1,5 @@
 <?php 
-	$title = "泰易电子：TD-6200 三相逆变程控电源";
+	$title = "TD-6200 三相逆变程控电源";
 ?>
 <?php 
 	$BaseUrl = "";
@@ -9,12 +9,17 @@
 <div id="Content"><!--Start of content-->
 <div class="Products">
 	<h1>TD-6200 三相逆变程控电源</h1>
+	<?php
+		include("breadcrumnav.php");	
+	?>
 	<table class="TwoColsLayout">
 		<tr><td class="Left">
 			<p>TD-6200是采用数字、模拟电路和微型计算机等技术开发的小功率程控功率源，主要适合负载功率不大的测试应用领域。装置设计为19吋标准机箱或仪器机箱，可灵活方便地组合于系统之中。</p>
 			<h3>主要用途：</h3>
 			<ul>
-				<li>电能表维修校验和功能试验</li>				<li>泰易TA-400系列电表测试台专用程控电源</li>				<li>电表研发用工作电源</li>
+				<li>电能表维修校验和功能试验</li>
+				<li>泰易TA-400系列电表测试台专用程控电源</li>
+				<li>电表研发用工作电源</li>
 			</ul>
 			
 			<h3>主要技术指标：</h3>

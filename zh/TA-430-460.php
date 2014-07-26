@@ -1,5 +1,5 @@
 ﻿<?php 
-	$title = "泰易电子：TA-430/460 电表中试综合测试台";
+	$title = "TA-430/460 电表中试综合测试台";
 ?>
 <?php 
 	$BaseUrl = "";
@@ -9,6 +9,9 @@
 <div id="Content"><!--Start of content-->
 <div class="Products">
 	<h1>TA-430/460 电表中试综合测试台</h1>
+	<?php
+		include("breadcrumnav.php");	
+	?>
 	<table class="TwoColsLayout">
 		<tr><td class="Left">
 			<p>电能表中试阶段专用测试设备，电表类产品开发的有力工具，提升产品研发水平和效率</p>

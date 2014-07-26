@@ -1,5 +1,5 @@
 <?php 
-	$title = "泰易电子：TC-AN6100 三相电能表、负控终端自动上电器";
+	$title = "TC-AN6100 三相电能表、负控终端自动上电器";
 ?>
 <?php 
 	$BaseUrl = "";
@@ -9,6 +9,9 @@
 <div id="Content"><!--Start of content-->
 <div class="Products">
 	<h1>TC-AN6100 三相电能表、负控终端自动上电器</h1>
+	<?php
+		include("breadcrumnav.php");	
+	?>
 	<table class="TwoColsLayout">
 		<tr><td class="Left">
 			<h3>主要特点和应用：</h3>

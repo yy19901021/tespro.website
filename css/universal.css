@@ -17,7 +17,7 @@ table{clear:both;border:none;border-spacing:0;border-collapse:collapse}
 #Header .Logo{border-width:0;font-size:18px}
 #Header .Logo a,#Header .Logo a:visited,#Header .Logo a:hover{font-size:18px}
 #NavigationTabs{font-size:14px}
-#Content{clear:both;padding:18px 10px 18px 10px;width:expression(document.documentElement.clientWidth < 760 && navigator.userAgent.indexOf("msie 6.") ? "760px":"auto" );width:expression(document.documentElement.clientWidth > 960 && navigator.userAgent.indexOf("msie 6.") ? "960px":"auto" );font-size:14px;min-width:740px;max-width:960px}
+#Content{clear:both;padding:18px 10px 18px 10px;width:expression(document.documentElement.clientWidth < 760 && navigator.userAgent.indexOf("msie 6.") ? "760px":"auto" );width:expression(document.documentElement.clientWidth > 960 && navigator.userAgent.indexOf("msie 6.") ? "960px":"auto" );font-size:14px;min-width:740px;max-width:960px;}
 #Footer{padding:1em 2em 1em 2em;color:silver;background:#32434F;text-align:left;line-height:normal;position:relative}
 #Footer a{border:0;color:silver}
 #LanguageBar{width:15em;color:#ccc;font-size:12px;text-align:right;position:absolute;top:1.5em;right:1em}
@@ -49,7 +49,12 @@ table.TwoColsLayout{border-width:1;border-collapse:collapse}
 table.TwoColsLayout td{border-width:1;vertical-align:top}
 table.TwoColsLayout td.Left h3{margin-top:1em}
 table.TwoColsLayout .Left{width:100%}
-h1{clear:both;padding-bottom:0.3em;border-bottom:1px solid #999999;margin:0;padding-top:0.5em;color:#32536e;font-size:18px;font-weight:bold}
+
+h1{clear:both;padding-bottom:0.3em;margin:0;padding-top:0.5em;color:#32536e;font-size:22px;font-weight:bold}
+.bdnav{border-bottom:1px solid #999999;}
+.bdnav a{border-bottom: none;}
+
+
 h2{border-bottom:1px solid #999999;padding-bottom:0.2em;color:#32536e;font-size:14px;font-weight:bold;text-align:left}
 h3{color:#32536e;font-size:14px;font-weight:bold}
 p{margin-top:1em;margin-bottom:1em}

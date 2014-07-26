@@ -2,7 +2,7 @@
 	header( "HTTP/1.1 301 Moved Permanently" );
 	header("Location: TP-GS08.php");
 
-	$title = "TesPro: TP-GS07";
+	$title = "TP-GS07";
 ?>
 <?php 
 	$BaseUrl = "";

@@ -1,5 +1,5 @@
 <?php 
-	$title = "TesPro: TD-6200 Programable Power Invertor";
+	$title = "TD-6200 Programable Power Invertor";
 ?>
 <?php 
 	$BaseUrl = "";
@@ -9,6 +9,9 @@
 <div id="Content"><!--Start of content-->
 	<div class="Products">
 		<h1>TD-6200 Programable Power Invertor</h1>
+		<?php
+			include("breadcrumnav.php");	
+		?>
 		<table class="TwoColsLayout">
 			<tr><td class="Left">
 				<p>TD-P6200 is a 3-phase programmable-controled power supply, designed in 4U of 19-ines rack frame</p>

@@ -1,5 +1,5 @@
 <?php 
-	$title = "TesPro: TF-USB485L 2 Outlets Converter Integrated";
+	$title = "TF-USB485L 2 Outlets Converter Integrated";
 ?>
 <?php 
 	$BaseUrl = "";
@@ -9,6 +9,9 @@
 <div id="Content"><!--Start of content-->
 	<div class="Products">
 		<h1>TF-USB485L 2</h1>
+		<?php
+			include("breadcrumnav.php");	
+		?>
 		<p><img src="images/product_TF-USB485L.jpg" alt="TF-USB485L 2 Outlets Converter Integrated"></p>
 		<h3>Features:</h3>
 		<ul>

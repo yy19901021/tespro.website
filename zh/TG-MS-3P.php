@@ -1,5 +1,5 @@
 <?php 
-	$title = "泰易电子：TG-MS-3P 三相表维修测试台工装";
+	$title = "TG-MS-3P 三相表维修测试台工装";
 ?>
 <?php 
 	$BaseUrl = "";
@@ -9,6 +9,9 @@
 <div id="Content"><!--Start of content-->
 <div class="Products">
 	<h1>TP-MS-3P 三相表维修测试台工装</h1>
+	<?php
+		include("breadcrumnav.php");	
+	?>
 	<table class="TwoColsLayout">
 		<tr><td class="Left">
 			<h3>主要用途：</h3>

@@ -1,5 +1,5 @@
 <?php 
-	$title = "泰易电子：TP-GS07 光电头活动支架";
+	$title = "TP-GS07 光电头活动支架";
 ?>
 <?php 
 	$BaseUrl = "";
@@ -9,6 +9,9 @@
 <div id="Content"><!--Start of content-->
 <div class="Products">
 	<h1>TP-GS07 光电头活动支架</h1>
+	<?php
+		include("breadcrumnav.php");	
+	?>
 	<p><img src="images/product_TP-GS07.jpg" alt="TP-GS07光电头通用适配器">作为校验光电头固定在电表上的支持配件，可用于电表台、现场校验仪应用。</p>
 	<p>可以适用于长方形、圆形、柱面型电表。配合以适当的光电头既可以用于电子型、也可以用于机械性电表的校验。</p>
 	<h3>技术特点和服务：</h3>

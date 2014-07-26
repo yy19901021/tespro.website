@@ -5,6 +5,8 @@
 	<meta name="keywords" content="光电头,电能计量,自动抄表系统,AMR,测试仪器,测试台,USB光电头,USB转换器,电表通讯,电表通讯口测试器,电表测试,兰吉尔,红相,三相表,单相表,抄表器,ANSI,IEC 61007,电表通讯故障,IEC1107+,DLMS,威胜,科陆" />
 	<meta name="description" content="泰易电子为电能计量领域提供各种测试仪器和生产线测试设备，为电表和计费系统提供配套产品、通讯组件和解决方案。" />
 <?php
+	$CorpName = "泰易电子";
+	
 	if ($BaseUrl == $LiveBaseUrl){
 ?>
 	<script type="text/javascript">
@@ -27,7 +29,7 @@
 	<title>
 	<?php 
 		if ($title){
-			echo $title;
+			echo $CorpName . " - " . $title;
 		}
 		else{
 			echo '泰易电子';
@@ -48,11 +50,6 @@
 				<div class="CurrentTab">
 					<div class="Outer">
 						<a href="zh/products.php">产品</a>
-					</div>
-				</div>
-				<div class="CurrentTab">
-					<div class="Outer">
-						<a href="zh/newproduct.php">新产品</a>
 					</div>
 				</div>
 				<div class="CurrentTab">

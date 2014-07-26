@@ -1,5 +1,5 @@
 <?php 
-	$title = "泰易电子：TA-161（V3.0-09版）简易型电表通讯口测试器";
+	$title = "TA-161（V3.0-09版）简易型电表通讯口测试器";
 ?>
 <?php 
 	$BaseUrl = "";
@@ -9,6 +9,9 @@
 <div id="Content"><!--Start of content-->
 <div class="Products">
 	<h1>TA-161（V3.0-09版）简易型电表通讯口测试器</h1>
+	<?php
+		include("breadcrumnav.php");	
+	?>
 	<table class="TwoColsLayout">
 		<tr><td class="Left">
 			<p>2009年推出的TA-161电表通讯接口测试器是建立在振中型掌上电脑平台上的实用新型产品，和TA-261属于同一系列。可用来可快速判断电表通讯口的好坏，探测电表通讯口的波特率和地址，从而显著地提高工作效率。</p>

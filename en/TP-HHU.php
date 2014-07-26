@@ -2,7 +2,7 @@
 	header( "HTTP/1.1 301 Moved Permanently" );
 	header("Location: TP-PDA.php");
 
-	$title = "TesPro: TP-HHU Optical Probe for Hand Held Unit";
+	$title = "TP-HHU Optical Probe for Hand Held Unit";
 ?>
 <?php 
 	$BaseUrl = "";
@@ -14,6 +14,9 @@
 		<table class="TwoColsLayout">
 			<tr><td class="Left">
 					<h1>TP-HHU Optical Probe for Hand Held Unit</h1>
+					<?php
+						include("breadcrumnav.php");	
+					?>
 					<h3>Application</h3>
 					<p>Explore wide application as meter reading appliance or on-site applications for HHU/PDA.</p>
 					<h3>Models</h3>

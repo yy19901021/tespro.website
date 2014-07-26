@@ -1,5 +1,5 @@
 <?php 
-	$title = "TesPro: TD-300 series Three-phase Meter Mini Power Supply";
+	$title = "TD-300 series Three-phase Meter Mini Power Supply";
 ?>
 <?php 
 	$BaseUrl = "";
@@ -9,6 +9,9 @@
 <div id="Content"><!--Start of content-->
 	<div class="Products">
 		<h1>TD-300 Series Three-phase Meter Mini Power Supply</h1>
+		<?php
+			include("breadcrumnav.php");	
+		?>
 		<table class="TwoColsLayout">
 			<tr><td class="Left">
 				<p>TD-300 Series Three-phase Meter Mini Power Supply is a newly released device, designed and manufactured by Tespro. The Main applications are for meter R&D, production & maintenance, and meter functional testing.</p>

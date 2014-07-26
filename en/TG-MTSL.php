@@ -1,5 +1,5 @@
 <?php 
-	$title = "TesPro: TG-MTSL Energy Meter Test Station";
+	$title = "TG-MTSL Energy Meter Test Station";
 ?>
 <?php 
 	$BaseUrl = "";
@@ -9,6 +9,9 @@
 <div id="Content"><!--Start of content-->
 	<div class="Products">
 		<h1>TG-MTSL Energy Meter Test Station</h1>
+		<?php
+			include("breadcrumnav.php");	
+		?>
 		<table class="TwoColsLayout">
 			<tr><td class="Left">
 				<p>TG-MTSL test station is a dedicated test device for Landis+Gyr polyphase energy meters. It is designed and has been used for ZB, ZD, ZH, FOX, ZQ meters.</p>

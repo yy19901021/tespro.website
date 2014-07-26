@@ -1,5 +1,5 @@
 <?php 
-	$title = "泰易电子：TG-ALMT 生产线专用测试设备";
+	$title = "TG-ALMT 生产线专用测试设备";
 ?>
 <?php 
 	$BaseUrl = "";
@@ -9,6 +9,9 @@
 <div id="Content"><!--Start of content-->
 <div class="Products">
 	<h1>TG-ALMT 生产线专用测试设备</h1>
+	<?php
+		include("breadcrumnav.php");	
+	?>
 	<table class="TwoColsLayout">
 		<tr><td class="Left">
 			<h3>功能说明：</h3>

@@ -1,5 +1,5 @@
 <?php 
-	$title = "TesPro: TA-262 Meter Communication Port Tester";
+	$title = "TA-262 Meter Communication Port Tester";
 ?>
 <?php 
 	$BaseUrl = "";
@@ -9,6 +9,9 @@
 <div id="Content"><!--Start of content-->
 	<div class="Products">
 		<h1>TA-262 Meter Communication Port Tester<br /> - The &ldquo;Meter Almighty&rdquo; in AMR applications (Patented product)</h1>
+		<?php
+			include("breadcrumnav.php");	
+		?>
 		<table class="TwoColsLayout">
 			<tr><td class="Left">
 				<p>In Automatic Meter Reading (AMR) applications, if the readout operation can not be finished properly, it is always challenging to diagnose the root cause. Does the problem come from the interface? Or the communication cable. With our patented TA-261 Meter Communication Port Tester, functionality of communication port can immediately be determinded by detection of meter communication address and baud rate. Operation efficiency greatly improved by this &ldquo;meter almighty&rdquo;.</p>

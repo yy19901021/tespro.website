@@ -1,5 +1,5 @@
 <?php 
-	$title = "TesPro: TP-17 Optical Scanning Probe with Duplex-function ";
+	$title = "TP-17 Optical Scanning Probe with Duplex-function ";
 ?>
 <?php 
 	$BaseUrl = "";
@@ -9,6 +9,9 @@
 <div id="Content"><!--Start of content-->
 	<div class="Products">
 		<h1>TP-17 Optical Scanning Probe with Duplex-function </h1>
+		<?php
+			include("breadcrumnav.php");	
+		?>
 		<table class="TwoColsLayout">
 			<tr><td class="Left">
 				<p>TP-17A Multi-function Optical Probe has been designed for accuracy testing of both Ferraris and static meters.</p>

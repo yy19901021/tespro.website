@@ -1,5 +1,5 @@
 <?php 
-	$title = "泰易电子：TP-IRTXT红外报文探测光电头";
+	$title = "TP-IRTXT红外报文探测光电头";
 ?>
 <?php 
 	$BaseUrl = "";
@@ -9,6 +9,9 @@
 <div id="Content"><!--Start of content-->
 <div class="Products">
 	<h1>TP-IRTXT红外报文探测光电头</h1>
+	<?php
+		include("breadcrumnav.php");	
+	?>
 	<table class="TwoColsLayout">
 		<tr><td class="Left">
 			<p>泰易TP-IRTXT红外报文探测电头是泰易电子的最新产品，主要用于DL/T645调制红外通讯开发过程，作为报文探测器。TP-IRTXT是由报文探测光电头、底座、接口插头所组成。 </p>

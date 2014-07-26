@@ -20,7 +20,111 @@
 		<br />电子邮件：<a href="m&#97;ilto:&#116;&#97;&#105;&#121;&#105;&#64;&#116;&#101;&#115;&#112;&#114;&#111;&#46;&#99;&#111;&#109;&#46;&#99;&#110;" title="Contact Tespro">&#116;&#97;&#105;&#121;&#105;&#64;&#116;&#101;&#115;&#112;&#114;&#111;&#46;&#99;&#111;&#109;&#46;&#99;&#110;</a>
 		</p>
 			</td><td>		
-<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://ditu.google.cn/maps?f=q&amp;source=s_q&amp;hl=zh-CN&amp;geocode=&amp;q=%E5%B9%BF%E4%B8%9C%E7%9C%81+%E7%8F%A0%E6%B5%B7%E5%B8%82+%E5%90%89%E5%A4%A7+%E7%99%BD%E8%8E%B2%E8%B7%AF184%E5%8F%B7+%E7%AB%8B%E4%BD%93%E7%A7%91%E6%8A%80%E5%A4%A7%E5%8E%A6&amp;aq=&amp;sll=22.246423,113.568935&amp;sspn=0.012989,0.012338&amp;brcurrent=3,0x34017c8d7dd4a47d:0x6a09789eb067997e,0,0x34015b5b18d5e3c1:0x2b79d5a99412f1e2%3B5,0,0&amp;ie=UTF8&amp;hq=%E5%B9%BF%E4%B8%9C%E7%9C%81+%E7%8F%A0%E6%B5%B7%E5%B8%82+%E5%90%89%E5%A4%A7+%E7%99%BD%E8%8E%B2%E8%B7%AF184%E5%8F%B7+%E7%AB%8B%E4%BD%93%E7%A7%91%E6%8A%80%E5%A4%A7%E5%8E%A6&amp;hnear=&amp;radius=15000&amp;t=m&amp;z=13&amp;iwloc=A&amp;cid=2383751972637125291&amp;ll=22.248471,113.568603&amp;output=embed"></iframe><br /><small><a href="http://ditu.google.cn/maps?f=q&amp;source=embed&amp;hl=zh-CN&amp;geocode=&amp;q=%E5%B9%BF%E4%B8%9C%E7%9C%81+%E7%8F%A0%E6%B5%B7%E5%B8%82+%E5%90%89%E5%A4%A7+%E7%99%BD%E8%8E%B2%E8%B7%AF184%E5%8F%B7+%E7%AB%8B%E4%BD%93%E7%A7%91%E6%8A%80%E5%A4%A7%E5%8E%A6&amp;aq=&amp;sll=22.246423,113.568935&amp;sspn=0.012989,0.012338&amp;brcurrent=3,0x34017c8d7dd4a47d:0x6a09789eb067997e,0,0x34015b5b18d5e3c1:0x2b79d5a99412f1e2%3B5,0,0&amp;ie=UTF8&amp;hq=%E5%B9%BF%E4%B8%9C%E7%9C%81+%E7%8F%A0%E6%B5%B7%E5%B8%82+%E5%90%89%E5%A4%A7+%E7%99%BD%E8%8E%B2%E8%B7%AF184%E5%8F%B7+%E7%AB%8B%E4%BD%93%E7%A7%91%E6%8A%80%E5%A4%A7%E5%8E%A6&amp;hnear=&amp;radius=15000&amp;t=m&amp;z=13&amp;iwloc=A&amp;cid=2383751972637125291&amp;ll=22.248471,113.568603" style="color:#0000FF;text-align:left">查看大图</a></small>
+
+<!--引用百度地图API-->
+<style type="text/css">
+    html,body{margin:0;padding:0;}
+    .iw_poi_title {color:#CC5522;font-size:14px;font-weight:bold;overflow:hidden;padding-right:13px;white-space:nowrap}
+    .iw_poi_content {font:12px arial,sans-serif;overflow:visible;padding-top:4px;white-space:-moz-pre-wrap;word-wrap:break-word}
+</style>
+<script type="text/javascript" src="http://api.map.baidu.com/api?key=&v=1.1&services=true"></script>
+<!--百度地图容器-->
+<div style="width:425px;height:350px;border:#ccc solid 1px;" id="dituContent"></div>
+<script type="text/javascript">
+    //创建和初始化地图函数：
+    function initMap(){
+        createMap();//创建地图
+        setMapEvent();//设置地图事件
+        addMapControl();//向地图添加控件
+        addMarker();//向地图中添加marker
+    }
+    
+    //创建地图函数：
+    function createMap(){
+        var map = new BMap.Map("dituContent");//在百度地图容器中创建一个地图
+        var point = new BMap.Point(113.572153,22.252788);//定义一个中心点坐标
+        map.centerAndZoom(point,14);//设定地图的中心点和坐标并将地图显示在地图容器中
+        window.map = map;//将map变量存储在全局
+    }
+    
+    //地图事件设置函数：
+    function setMapEvent(){
+        map.enableDragging();//启用地图拖拽事件，默认启用(可不写)
+        map.enableScrollWheelZoom();//启用地图滚轮放大缩小
+        map.enableDoubleClickZoom();//启用鼠标双击放大，默认启用(可不写)
+        map.enableKeyboard();//启用键盘上下左右键移动地图
+    }
+    
+    //地图控件添加函数：
+    function addMapControl(){
+        //向地图中添加缩放控件
+	var ctrl_nav = new BMap.NavigationControl({anchor:BMAP_ANCHOR_TOP_LEFT,type:BMAP_NAVIGATION_CONTROL_SMALL});
+	map.addControl(ctrl_nav);
+                //向地图中添加比例尺控件
+	var ctrl_sca = new BMap.ScaleControl({anchor:BMAP_ANCHOR_BOTTOM_LEFT});
+	map.addControl(ctrl_sca);
+    }
+    
+    //标注点数组
+    var markerArr = [{title:"珠海泰易自动化设备有限公司",content:"广东省&nbsp;珠海市&nbsp;吉大&nbsp;白莲路184号&nbsp;立体科技大厦二楼",point:"113.575|22.254259",isOpen:0,icon:{w:21,h:21,l:0,t:0,x:6,lb:5}}
+		 ];
+    //创建marker
+    function addMarker(){
+        for(var i=0;i<markerArr.length;i++){
+            var json = markerArr[i];
+            var p0 = json.point.split("|")[0];
+            var p1 = json.point.split("|")[1];
+            var point = new BMap.Point(p0,p1);
+			var iconImg = createIcon(json.icon);
+            var marker = new BMap.Marker(point,{icon:iconImg});
+			var iw = createInfoWindow(i);
+			var label = new BMap.Label(json.title,{"offset":new BMap.Size(json.icon.lb-json.icon.x+10,-20)});
+			marker.setLabel(label);
+            map.addOverlay(marker);
+            label.setStyle({
+                        borderColor:"#808080",
+                        color:"#333",
+                        cursor:"pointer"
+            });
+			
+			(function(){
+				var index = i;
+				var _iw = createInfoWindow(i);
+				var _marker = marker;
+				_marker.addEventListener("click",function(){
+				    this.openInfoWindow(_iw);
+			    });
+			    _iw.addEventListener("open",function(){
+				    _marker.getLabel().hide();
+			    })
+			    _iw.addEventListener("close",function(){
+				    _marker.getLabel().show();
+			    })
+				label.addEventListener("click",function(){
+				    _marker.openInfoWindow(_iw);
+			    })
+				if(!!json.isOpen){
+					label.hide();
+					_marker.openInfoWindow(_iw);
+				}
+			})()
+        }
+    }
+    //创建InfoWindow
+    function createInfoWindow(i){
+        var json = markerArr[i];
+        var iw = new BMap.InfoWindow("<b class='iw_poi_title' title='" + json.title + "'>" + json.title + "</b><div class='iw_poi_content'>"+json.content+"</div>");
+        return iw;
+    }
+    //创建一个Icon
+    function createIcon(json){
+        var icon = new BMap.Icon("http://app.baidu.com/map/images/us_mk_icon.png", new BMap.Size(json.w,json.h),{imageOffset: new BMap.Size(-json.l,-json.t),infoWindowOffset:new BMap.Size(json.lb+5,1),offset:new BMap.Size(json.x,json.h)})
+        return icon;
+    }
+    
+    initMap();//创建和初始化地图
+</script>
+
 		</td></tr>
 	</table>
 </div><!--End of content-->

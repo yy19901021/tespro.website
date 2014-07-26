@@ -1,5 +1,5 @@
 <?php 
-	$title = "泰易电子：TG-MTSL兰吉尔电能表测试台";
+	$title = "TG-MTSL兰吉尔电能表测试台";
 ?>
 <?php 
 	$BaseUrl = "";
@@ -9,6 +9,9 @@
 <div id="Content"><!--Start of content-->
 <div class="Products">
 	<h1>TG-MTSL兰吉尔电能表测试台</h1>
+	<?php
+		include("breadcrumnav.php");	
+	?>
 	<table class="TwoColsLayout">
 		<tr><td class="Left">
 			<p>TG-MTSL电表测试台是一种多功能电表测试设备，本款式适合于兰吉尔ZB、ZD、ZH、ZQ等多种型号电能表。其专业化的设计美观而又实用，实践中可发挥显著作用。</p>

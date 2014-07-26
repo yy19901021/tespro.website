@@ -1,5 +1,5 @@
 <?php 
-	$title = "TesPro: TP-11 Optical Scanning Probe for Test-bench Assembled";
+	$title = "TP-11 Optical Scanning Probe for Test-bench Assembled";
 ?>
 <?php 
 	$BaseUrl = "";
@@ -9,6 +9,9 @@
 <div id="Content"><!--Start of content-->
 	<div class="Products">
 		<h1>TP-11 Optical Scanning Probe for Test-bench Assembled</h1>
+		<?php
+			include("breadcrumnav.php");	
+		?>
 		<table class="TwoColsLayout">
 			<tr><td class="Left">
 				<h3>Application</h3>

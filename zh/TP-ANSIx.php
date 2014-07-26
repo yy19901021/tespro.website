@@ -2,7 +2,7 @@
 	header( "HTTP/1.1 301 Moved Permanently" );
 	header("Location: TP-ANSI.php");
 	
-	$title = "泰易电子：TP-ANSIx读写光电头";
+	$title = "TP-ANSIx读写光电头";
 ?>
 <?php 
 	$BaseUrl = "";
@@ -12,6 +12,9 @@
 <div id="Content"><!--Start of content-->
 <div class="Products">
 	<h1>TP-ANSIx读写光电头</h1>
+	<?php
+		include("breadcrumnav.php");	
+	?>
 		<table class="TwoColsLayout">
 			<tr><td class="Left">
 				<p>TP-ANSIx光电头是泰易电子技术有限公司的新进推出光电头系列产品。该光电头集我公司对光电头的专有技术而设计，主要用于电能表参数读写、电表数据采集，有两种型号：

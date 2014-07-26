@@ -1,5 +1,5 @@
 <?php 
-	$title = "TesPro: TP-PDA Optical Probe for Hand Held Unit";
+	$title = "TP-PDA Optical Probe for Hand Held Unit";
 ?>
 <?php 
 	$BaseUrl = "";
@@ -11,6 +11,9 @@
 		<table class="TwoColsLayout">
 			<tr><td class="Left">
 					<h1>TP-PDA Optical Probe for Hand Held Devices</h1>
+					<?php
+						include("breadcrumnav.php");	
+					?>					
 					<p>TP-PDA is design to work with a wide range popular hand-held devices. 
 						With 9 years of history, it's been developed to support more devices, 
 						and widely used in on-site meter reading.</p>

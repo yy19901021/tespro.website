@@ -1,5 +1,5 @@
 <?php 
-	$title = "TesPro: TP-GS08 Versatile Probe Fixture";
+	$title = "TP-GS08 Versatile Probe Fixture";
 ?>
 <?php 
 	$BaseUrl = "";
@@ -9,6 +9,9 @@
 <div id="Content"><!--Start of content-->
 <div class="Products">
 	<h1>TP-GS08 Versatile Probe Fixture</h1>
+	<?php
+		include("breadcrumnav.php");	
+	?>
 	<table class="TwoColsLayout">
 		<tr><td class="Left">
 			<p>TP-GS08 Versatile Probe Fixture is used for scanning probe fastening onto energy meters. it was invented by Tespro and can be widely used in accuracy test for both Ferraris and electronics meters.</p>

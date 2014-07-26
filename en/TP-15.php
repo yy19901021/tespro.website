@@ -1,5 +1,5 @@
 <?php 
-	$title = "TesPro: TP-15 Dual-frequency optical scanning probe for accuracy test";
+	$title = "TP-15 Dual-frequency optical scanning probe for accuracy test";
 ?>
 <?php 
 	$BaseUrl = "";
@@ -9,6 +9,9 @@
 <div id="Content"><!--Start of content-->
 	<div class="Products">
 		<h1>TP-15 Dual-frequency optical scanning probe for accuracy test</h1>
+		<?php
+			include("breadcrumnav.php");	
+		?>
 		<table class="TwoColsLayout">
 			<tr><td class="Left">
 				

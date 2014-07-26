@@ -2,7 +2,7 @@
 	header( "HTTP/1.1 301 Moved Permanently" );
 	header("Location: TP-USB.php");
 
-	$title = "TesPro: TP-ANSIx Optical Probe for Communication ( ANSI Standard )";
+	$title = "TP-ANSIx Optical Probe for Communication ( ANSI Standard )";
 ?>
 <?php 
 	$BaseUrl = "";
