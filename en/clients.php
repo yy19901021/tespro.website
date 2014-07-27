@@ -1,35 +1,42 @@
 <?php 
-	$title = "Tespro's Worldwild Clients";
+	$title = "Tespro's Worldwide Clients";
 ?>
 <?php 
 	$BaseUrl = "";
 	include("../includes/universal.php");
+	$CurrentTab = 2;
 	include("header.php");
 ?>
 
-<div id="DownloadTitle" class="PageTitle"><div class="PageTitleBrg"><img src="images/Clients_Title_en.png" alt="Everything meters want" /></div></div><div class="Shadow1"></div><div class="Shadow2"></div><div class="Shadow3"></div>
-<div id="Content"><!--Start of content-->
-<style>
-#Clients td{border: 1px solid silver; padding: 38px;}
-#Clients td img{width: 150px; height: 150px;}
-#Clients a:link{border: 0;}
-</style>
+<div id="ClientsPageTitle" class="PageTitle ">
+	<div class="PageTitleBrg container">
+	
+		<div id="tp-intro" class="row">
+		  <div class="col-md-7">
+			<h1>Customers from the World</h1>
+			<p></p>	  
+		  </div>
+		  <div class="col-md-4">
+<!-- 		  	<img src="images/banners/reading-meter.png" class="pull-right" style="margin-top: 50px; width: 340px;" /> -->
+		  </div>
+		</div>		
+	</div>
+</div>
 
-	<table id="Clients">
-		<tr>
-			<td><a href="http://www.ge.com"><img src="images/clients/ge.png" alt="GE"></a></td>
-			<td><a href="http://www.csg.cn"><img src="images/clients/south_grid.png" alt="China Southern Grid"></a></td>
-			<td><a href=""><img src="images/clients/elster.png" alt="ELSTER"></a></td>
-			<td><a href=""><img src="images/clients/sensus.png" alt="SENSUS"></a></td>
-		</tr>
-		<tr>
-			<td><a href="http://www.itron.com/"><img src="images/clients/itron.png" alt="Itron"></a></td>
-			<td><a href="http://www.landisgyr.com/"><img src="images/clients/landis_gyr.png" alt="Landis & Gyr"></a></td>
-			<td><a href="http://www.sgcc.com.cn"><img src="images/clients/state_grid.png" alt="China State Grid"></a></td>
-			<td><a href="http://www.edmi-meters.com/"><img src="images/clients/edmi.png" alt="EDMI"></a></td>
-		</tr>
-	</table>
-
+<!--Start of content-->
+<div id="Content">
+	<div class="container">
+		<ul id="client-list" class="row">
+			<li><a href="http://www.ge.com"><img src="images/clients/ge.png" alt="GE"></a></li>
+			<li><a href="http://www.csg.cn"><img src="images/clients/south_grid.png" alt="China Southern Grid"></a></li>
+			<li><a href=""><img src="images/clients/elster.png" alt="ELSTER"></a></li>
+			<li><a href=""><img src="images/clients/sensus.png" alt="SENSUS"></a></li>
+			<li><a href="http://www.itron.com/"><img src="images/clients/itron.png" alt="Itron"></a></li>
+			<li><a href="http://www.landisgyr.com/"><img src="images/clients/landis_gyr.png" alt="Landis & Gyr"></a></li>
+			<li><a href="http://www.sgcc.com.cn"><img src="images/clients/state_grid.png" alt="China State Grid"></a></li>
+			<li><a href="http://www.edmi-meters.com/"><img src="images/clients/edmi.png" alt="EDMI"></a></li>
+		</ul>
+	</div>
 </div><!--End of content-->
 
 <?php include("footer.php") ?>

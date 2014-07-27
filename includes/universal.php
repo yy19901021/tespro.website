@@ -1,6 +1,8 @@
 <?php
   $LiveBaseUrl = "http://www.tespro.com.cn";
   $BaseUrl = "http://localhost/tespro/";
+  $CurrentTab = 1;
+  $CurrentTabString = "class='active'";
   // find out the domain:
   /*
   $domain = $_SERVER['HTTP_HOST'];
