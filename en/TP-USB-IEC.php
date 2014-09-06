@@ -62,5 +62,5 @@
 		<?php include("list_probes.php") ?>
 	</div>
 </div><!--End of content-->
-<?php include("../includes/Google_ProbeAdsTracking.php") ?>
 <?php include("footer.php") ?> 
+<?php include("../includes/Google_ProbeAdsTracking.php") ?>
