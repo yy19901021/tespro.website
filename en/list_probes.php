@@ -3,8 +3,8 @@
 		<div class="HalfWidth LeftAligned">
 			<h4 title="Optical probe for communication">Optical Probes for Meter Communication</h4>
 			<ul>
-				<li><a href="en/TP-USB.php">TP-USB Optical Probe</a></li>
 				<li><a href="en/TP-232.php">TP-232 Optical Probe</a></li>
+				<li><a href="en/TP-USB.php">TP-USB Optical Probe</a></li>
 				<li><a href="en/TP-PDA.php">TP-PDA Optical Probe for Handheld Devices</a></li>
 				<li><a href="en/TP-BT.php">TP-BT Bluetooth Optical Probe</a></li>
 				<li><a href="en/TP-RF.php">TP-RF Wireless Optical Probe with RF Interface</a></li>

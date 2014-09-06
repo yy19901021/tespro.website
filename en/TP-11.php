@@ -36,6 +36,7 @@
 					<tr>
 						<td>Probe Fixture:</td><td>TP-GS08 fixture can be used for probe fixing onto any kind of meters</td>
 					</tr>
+					<tr><td>Connector:</td><td>Optional item from <a href="en/TP1_option_table.php">Sample List of Connectors for Optical Scanning Probes</a></td>
 				</table>
 			</td><td class="Right">
 				<img src="images/products/product_TP-11.jpg" alt="TP-11 Optical Scanning Probe for Test-bench Assembled" />

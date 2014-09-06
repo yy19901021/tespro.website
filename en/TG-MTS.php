@@ -14,12 +14,12 @@
 		?>
 	<table class="TwoColsLayout">
 		<tr><td class="Left">
-		<p>TG-MTS is a multi-purpose Meter Test Station, applicable for the test of almost all square-shaped power energy meters, including Landis+Gyr, EDMI, ELSTER and ISKRA, etc.</p>
+		<p>TG-MTS is a multi-purpose Meter Test Station, applicable for the test of almost all square-shaped electric energy meters, patented in 2005 by Tespro.</p>
 		<h3>Applications</h3>
 		<p>It is designed for the use of:</p>
 		<ul>
 			<li>Meter prototype test and operation.</li>
-    		<li>Quick power on, for example, meter programming and functionality test in production line. Productivity and efficiency will be significantly improved with TG-MTS.</li>
+    		<li>Quick power on, for example, meter programming and functionality test.</li>
     		<li>Meter functionality demonstration for customers and visitors.</li>
     		<li>Meter test-run for tariff or parameters.</li>
     		<li>Customer training and service center may also find it applicable.</li>
@@ -30,10 +30,12 @@
     		<li>TG-MTS is made of insulation materials, glabrous and safe.</li>
     		<li>Support 3p4w(58V&times;3, 220V&times;3), and 3p3w(phase to phase 100V) network, controlled by switch.</li>
     		<li>Support 58V, 100V and 220V, controlled by switch.</li>
-    		<li>Single phase power operation.</li>
-    		<li>Operation with load current: 4A/2A, controlled by switch.</li>
+    		<li>Single phase power source operation.</li>
+    		<li>Operation with load current: 5A/1A, controlled by switch.</li>
     		<li>Support power shut-down of every single phase for meter functionality test.</li>
     		<li>Support current shut-down of every single phase for meter functionality test.</li>
+    		<li>Support communication port on and line-out (Option).</li>
+    		<li>On customization requirement welcome</li>
 		</ul>
 		</td><td class="Right">
 			<img src="images/products/product_TG-MTS.jpg" alt="TG-MTS Meter Test Station" />
