@@ -15,7 +15,7 @@
 	
 		<table class="TwoColsLayout">
 			<tr><td class="Left">
-					<p>It is a new series of Tespro optical probe family, supporting RF wireless communication for meter reading when cable connection un-reachable. Communication distance is much longer than Bluetooth. </p>
+					<p>It is a new series of Tespro optical probe family, supporting RF wireless communication for meter reading in case cable connection un-reachable. Communication distance is much longer than Bluetooth. </p>
 					<h3>Sub-models</h3>
 					<ul>
 						<li>TP-RF-IEC:      Compliant with IEC 62056-21 standard</li>
@@ -33,7 +33,7 @@
 						<tbody>
 							<tr><th>Max	communication distance: </th><td>300 meters</td></tr>
 							<tr><th>Radio frequency: </th><td>400MHz/900MHz/2.4GHz available</td></tr>
-							<tr><th>Battery life: </th><td>Up to 24 hours with every fully charged</td></tr>
+							<tr><th>Battery life: </th><td>Up to 24 hours when battery in full</td></tr>
 							<tr><th>Indicators: </td>
 								<td>
 									<ul>

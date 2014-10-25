@@ -30,7 +30,7 @@
 							<tr><th>Bluetooth Standard: </td><td>Complied with 4.0/ 2.1</td></tr>
 							<tr><th>Meter protocol standard: </td><td>Complied with IEC62056-21 or ANSI C12.18</td></tr>
 							<tr><th>Max distance of communication: </td><td>10 Meters</td></tr>
-							<tr><th>Battery: </td><td>Up to 24 hours with every fully charged</td></tr>
+							<tr><th>Battery: </td><td>Up to 24 hours when battery in full.</td></tr>
 							<tr><th>Indicators: </td>
 								<td>
 									<ul>

@@ -1,5 +1,5 @@
 <?php 
-	$title = "TG-MTS Meter Test Station";
+	$title = "TG-MTS Meter Test Stand";
 ?>
 <?php 
 	$BaseUrl = "";
@@ -8,13 +8,13 @@
 ?>
 <div id="Content"><!--Start of content-->
 	<div class="Products">
-		<h1>TG-MTS Meter Test Station</h1>
+		<h1><?php echo $title ?></h1>
 		<?php
 			include("breadcrumnav.php");	
 		?>
 	<table class="TwoColsLayout">
 		<tr><td class="Left">
-		<p>TG-MTS is a multi-purpose Meter Test Station, applicable for the test of almost all square-shaped electric energy meters, patented in 2005 by Tespro.</p>
+		<p>TG-MTS is a multi-purpose Meter Test Station, applicable for the test of almost all square-shaped power energy meters, patented in 2005 by Tespro.</p>
 		<h3>Applications</h3>
 		<p>It is designed for the use of:</p>
 		<ul>
@@ -35,7 +35,7 @@
     		<li>Support power shut-down of every single phase for meter functionality test.</li>
     		<li>Support current shut-down of every single phase for meter functionality test.</li>
     		<li>Support communication port on and line-out (Option).</li>
-    		<li>On customization requirement welcome</li>
+    		<li>Accept customization request.</li>
 		</ul>
 		</td><td class="Right">
 			<img src="images/products/product_TG-MTS.jpg" alt="TG-MTS Meter Test Station" />
