@@ -134,3 +134,8 @@ table.List col.Title{width:11em;font-weight:bold}
 #OurCustomers img{float:none;border:0;margin: 10px 0;padding:0}
 #OurCustomers a:link,#OurCustomers a:visited{border:0;margin-top: 10px;}
 #OurCustomers img{border: 0;}
+
+/*全球客户页*/
+#Clients td{border: 1px solid silver; padding: 38px;}
+#Clients td img{width: 120px; height: 120px;}
+#Clients a:link{border: 0;}

@@ -17,7 +17,7 @@
 				<h3>Applications</h3>
 				<p>TP-USB optical probe is designed by Tespro in 2005. 
 					With years of optimization, it's been proved to be reliable in application. 
-					It is widely used in the electric energy meter parameterization and data reading, 
+					It is widely used in electric energy meter parameterization and data reading, 
 					proved to be an ideal tool for both utilities and manufacturers.
 				</p>
 				<p>It works  with gas meter and thermal meter. </p>
@@ -28,7 +28,7 @@
 					<li>TP-USB-ANSI-S: Compatible with ANSI C12.18-2007 type two protocol (Siemens meters).</li>
 					<li>TP-USB-ANSI-U: Compatible with ANSI C12.18 (Universal, can be switch between Normal and ANSI C12.18-2007 type two protocol (by RS232-DTR).</li>
 				</ul>
-				<p>If you have any questions about the difference of the differences, please <a href="m&#97;ilto:&#105;&#110;&#102;&#111;&#64;&#116;&#101;&#115;&#112;&#114;&#111;&#46;&#99;&#111;&#109;&#46;&#99;&#110;" title="Contact Tespro">write to us</a>.</p>
+				<p>If you have any questions about the difference, please <a href="m&#97;ilto:&#105;&#110;&#102;&#111;&#64;&#116;&#101;&#115;&#112;&#114;&#111;&#46;&#99;&#111;&#109;&#46;&#99;&#110;" title="Contact Tespro">write to us</a>.</p>
 				<h3>Specifications:</h3>
 				<table id="SpecTable" class="List">
 					<col class="Title" span="1" />

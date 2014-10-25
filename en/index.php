@@ -15,7 +15,7 @@
 	<div class="Products">
 		<div class="HalfWidth LeftAligned">
 			<h1>What We Do</h1>
-			<p>Founded in 2002 Tespro has been the expert in providing meter testing instruments and equipment and all series of optical probes for both utilities and meter manufacturers. Based on 11 years’ experience and fruits Tespro will continue to make its efforts on metering and AMR/AMI applications.</p>
+			<p>Founded in 2002 Tespro has been an expert in providing meter testing instruments and equipment and all series of optical probes for both utilities and meter manufacturers. Based on 11 years’ experience and fruits Tespro will continue to make its efforts on metering and AMR/AMI applications.</p>
 			<p>&nbsp;</p><p>&nbsp;</p>
 		</div>
         <div id="OurCustomers" class="HalfWidth LeftAligned">

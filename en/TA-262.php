@@ -14,7 +14,7 @@
 		?>
 		<table class="TwoColsLayout">
 			<tr><td class="Left">
-				<p>In Automatic Meter Reading (AMR) applications, if the readout operation can not be finished properly, it is always challenging to diagnose the root cause. Does the problem come from the interface or the communication cable. With our patented TA-261 Meter Communication Port Tester, functionality of communication port can immediately be determinded by detection of meter communication address and baud rate. Operation efficiency greatly improved by this &ldquo;meter almighty&rdquo;.</p>
+				<p>In Automatic Meter Reading (AMR) applications, if the readout operation cannot be finished properly, it is always a challenge to diagnose the root cause. Does the problem come from the interface or the communication cable？ By using our patented TA-262 Meter Communication Port Tester an operator can test the com-port of a meter easily and quickly, then the problem can be immediately determined. Please see the detailed introduction of TA-262. </p>
 				<h3>Applications</h3>
 				<ul>
 					<li>The TA-262 tester can be used for communication port functionality test.</li>
