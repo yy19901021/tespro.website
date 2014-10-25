@@ -9,6 +9,9 @@
 <div id="Content"><!--Start of content-->
 <div id="product-detail" class="Products">
 	<h1>TP-USB 电表光电头（USB接口）</h1>
+	<?php
+		include("breadcrumnav.php");	
+	?>
 	<table class="TwoColsLayout">
 		<tr><td class="Left">
 			<p>TP-USB-IEC 电表光电头是集我公司对光电头的专有技术而设计的一款新产品，2005年已获得国家专利。本型号产品设计了一体化USB接口，以配合笔记本电脑应用为主，具备美观实用及连接方便等特点。本型号产品适用于各种类型的电能表，是光电头系列产品中的精品。</p>

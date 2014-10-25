@@ -16,7 +16,7 @@
 			<tr><td class="Left">
 				<h3>Applications</h3>
 				<ul>
-				<p>TP-232 optical probe is designed by Tespro in 2005. 
+				<p>TP-232 optical probe is designed to be powered from RS232 by Tespro in 2002.  
 					With years of optimization, it's been proven to be reliable in application. 
 					It is widely used in the electric energy meter parameterization and data reading, 
 					proven to be an ideal tool for both utilities and manufacturers.
@@ -81,5 +81,5 @@
 	</div>
 </div><!--End of content-->
 <?php include("list_probes.php") ?>
-<?php include("../includes/Google_ProbeAdsTracking.php") ?>
 <?php include("footer.php") ?> 
+<?php include("../includes/Google_ProbeAdsTracking.php") ?>

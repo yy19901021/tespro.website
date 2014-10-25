@@ -34,5 +34,5 @@
 </div>
 </div>
 <?php include("list_probes.php") ?>
-<?php include("../includes/Google_ProbeAdsTracking.php") ?>
 <!--End of content--><?php include("footer.php") ?>
+<?php include("../includes/Google_ProbeAdsTracking.php") ?>

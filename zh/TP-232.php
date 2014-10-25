@@ -9,6 +9,9 @@
 <div id="Content"><!--Start of content-->
 <div class="Products">
 	<h1>TP-232 电表光电头（232接口）</h1>
+	<?php
+		include("breadcrumnav.php");	
+	?>
 	<table class="TwoColsLayout">
 		<tr><td class="Left">
 			<h3>主要用途：</h3>

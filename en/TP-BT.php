@@ -15,7 +15,7 @@
 		<table class="TwoColsLayout">
 			<tr><td class="Left">
 					<h3>Application</h3>
-					<p>TP-BT is a new series of Tespro optical probe family. It work with all Bluetooth enabled devices.</p>
+					<p>TP-BT is a new series of Tespro optical probe family. It works with all Bluetooth enabled devices.</p>
 					<h3>Sub-models</h3>
 					<ul>
 						<li>TP-BT-IEC: Complied with IEC62056-21 standard</li>
@@ -27,14 +27,15 @@
 						<col class="Title" span="1" />
 						<col span="1" />
 						<tbody>
-							<tr><th>Bluetooth Standard: </td><td>Complied with IEC62056-21 standard</td></tr>
+							<tr><th>Bluetooth Standard: </td><td>Complied with 4.0/2.1</td></tr>
+							<tr><th>Meter protocol standard: </td><td>Complied with IEC62056-21 or ANSI C12.18</td></tr>
 							<tr><th>Max distance of communication: </td><td>10 Meters</td></tr>
-							<tr><th>Battery: </td><td>Up to 24 hours with every fully charged</td></tr>
+							<tr><th>Battery: </td><td>Up to 24 hours when battery in full.</td></tr>
 							<tr><th>Indicators: </td>
 								<td>
 									<ul>
-										<li>Remaining battery</li>
-										<li>Communication states</li>
+										<li>LED green/red: indicating power on/off and remaining battery life</li>
+										<li>LED blue: indicating communication states</li>
 									</ul>
 								</td>
 							</tr>
@@ -47,5 +48,5 @@
 	</div>
 </div><!--End of content-->
 <?php include("list_probes.php") ?>
-<?php include("../includes/Google_ProbeAdsTracking.php") ?>
 <?php include("footer.php") ?>
+<?php include("../includes/Google_ProbeAdsTracking.php") ?>

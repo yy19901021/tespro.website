@@ -10,9 +10,14 @@
 <div id="Content"><!--Start of content-->
 	<div class="HalfWidth">
 		<h3>泰易TP-USB光电头驱动程序</h3>
-		<p>珠海泰易对本公司生产的所有USB接口产品提供USB驱动支持，使用标准USB2.0，本驱动支持Windows 所有版本。如需要，请在此下载驱动程序。压缩文件包内包含中文安装说明书以供参考。</p>
-		<p>系统要求：Windows 2000, Windows XP, Windows Vista, Windows 7.
-		<p><a href="zh/download/TP-USB.zip">下载 TP-USB.zip</a></p>
+		<p>珠海泰易对本公司生产的所有USB接口产品提供USB驱动支持，并支持所有主流操作系统。</p>
+		<ul>
+			<li><a href="zh/download/TP-USB-Windows.zip">下载 Windows 驱动程序</a></li>
+			<li><a href="zh/download/TP-USB-MacOSX.zip">下载 Mac OS X 驱动程序</a></li>
+			<li><a href="zh/download/TP-USB-Linux.zip">下载 Linux 驱动程序</a></li>
+			<li><a href="zh/download/TP-USB-WinCE.zip">下载 Windows CE 驱动程序</a></li>
+			<li><a href="zh/download/TP-USB-Android.zip">下载 Android 驱动程序</a></li>
+		</ul>
 	</div>
 </div><!--End of content-->
 <?php include("footer.php") ?>

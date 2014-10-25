@@ -9,12 +9,6 @@
 
 <div id="DownloadTitle" class="PageTitle"><div class="PageTitleBrg"><img src="images/Clients_Title_zh.png" alt="Everything meters want" /></div></div><div class="Shadow1"></div><div class="Shadow2"></div><div class="Shadow3"></div>
 <div id="Content"><!--Start of content-->
-<style>
-#Clients td{border: 1px solid silver; padding: 38px;}
-#Clients td img{width: 150px; height: 150px;}
-#Clients a:link{border: 0;}
-</style>
-
 	<table id="Clients">
 		<tr>
 			<td><a href="http://www.ge.com"><img src="images/clients/ge.png" alt="GE"></a></td>
