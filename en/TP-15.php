@@ -29,7 +29,7 @@
 					<tr><td>Power supply:	</td><td>DC 5V±10%</td></tr>
 					<tr><td>Cable:	</td><td>Straight-line cable, 55cm in normal</td></tr>
 					<tr><td>Fastening:	</td><td>Magnetic adhesion</td></tr>
-					<tr><td>Connector:	</td><td>Optional item from <a href="en/TP1_option_table.php">Sample List of Connectors for Optical Scanning Probes</a>. </td></tr>
+					<tr><td>Connector:	</td><td>Optional item from <a href="en/TP1_option_table.php">Table of Connectors for Optical Scanning Probes</a>. </td></tr>
 					<tr><td>Probe Fixture:	</td><td>TP-GS08 Fixture can be used for probe fastening onto any type of meters.</td></tr>
 				</table>
 			</td><td class="Right">

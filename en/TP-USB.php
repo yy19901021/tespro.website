@@ -15,18 +15,14 @@
 		<table class="TwoColsLayout">
 			<tr><td class="Left">
 				<h3>Applications</h3>
-				<p>TP-USB optical probe is designed by Tespro in 2005. 
-					With years of optimization, it's been proved to be reliable in application. 
-					It is widely used in electric energy meter parameterization and data reading, 
-					proved to be an ideal tool for both utilities and manufacturers.
-				</p>
+				<p>TP-USB optical probe is designed by Tespro in 2005 and got patented. With years of optimization, it's been proved to be reliable in application. It is widely used in electric energy meter parameterization and data reading, proved to be an ideal tool for both utilities and manufacturers.</p>
 				<p>It works  with gas meter and thermal meter. </p>
 				<h3>Sub-models</h3>
 				<ul>
 					<li>TP-USB-IEC</li>
-					<li>TP-USB-ANSI-N: Compatible with ANSI C12.18 (Normal Standard).</li>
-					<li>TP-USB-ANSI-S: Compatible with ANSI C12.18-2007 type two protocol (Siemens meters).</li>
-					<li>TP-USB-ANSI-U: Compatible with ANSI C12.18 (Universal, can be switch between Normal and ANSI C12.18-2007 type two protocol (by RS232-DTR).</li>
+					<li>TP-USB-ANSI-N: Compatible with ANSI C12.18 (Normal Standard)</li>
+					<li>TP-USB-ANSI-S: Compatible with ANSI C12.18 type two, 2007(Sub-standard)</li>
+					<li>TP-USB-ANSI-U: Compatible with ANSI C12.18 (Universal, can be switch between N and S)</li>
 				</ul>
 				<p>If you have any questions about the difference, please <a href="m&#97;ilto:&#105;&#110;&#102;&#111;&#64;&#116;&#101;&#115;&#112;&#114;&#111;&#46;&#99;&#111;&#109;&#46;&#99;&#110;" title="Contact Tespro">write to us</a>.</p>
 				<h3>Specifications:</h3>
@@ -38,7 +34,7 @@
 						<td>
 							<ul>
 								<li>IEC 62056-21 standard.</li>
-								<li>ANSI C12.18-1996 & 2007 standard.</li>
+								<li>ANSI C12.18-1996 & ANSI C12.18 type two-2007 standard.</li>
 						</td>
 					</tr>
 					<tr>
@@ -66,7 +62,7 @@
 					<col class="Title" span="1" />
 					<col span="1" />
 					<tbody>
-					<tr><th>Extended Temperature:</th><td>-35&deg;C ~ 80&deg;C (-31&deg;F - 176&deg;F)</td></tr>
+					<tr><th>Extended Temp. Cable:</th><td>-35&deg;C ~ 80&deg;C (31&deg;F - 176&deg;F)<br />Spiral cable is available.</td></tr>
 					<tr><th>Cable:</th><td>Extended length upon request.</td></tr>
 					</tbody>
 				</table>

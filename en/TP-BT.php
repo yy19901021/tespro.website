@@ -30,11 +30,11 @@
 							<tr><th>Bluetooth Standard: </td><td>Complied with 4.0/2.1</td></tr>
 							<tr><th>Meter protocol standard: </td><td>Complied with IEC62056-21 or ANSI C12.18</td></tr>
 							<tr><th>Max distance of communication: </td><td>10 Meters</td></tr>
-							<tr><th>Battery: </td><td>Up to 24 hours when battery in full.</td></tr>
+							<tr><th>Battery: </td><td>Support 24 hours operation when battery in full.</td></tr>
 							<tr><th>Indicators: </td>
 								<td>
 									<ul>
-										<li>LED green/red: indicating power on/off and remaining battery life</li>
+										<li>LED green/red: indicating power on/off; flashing: indicating energy available in battery.</li>
 										<li>LED blue: indicating communication states</li>
 									</ul>
 								</td>

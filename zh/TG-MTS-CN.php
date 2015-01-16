@@ -8,7 +8,7 @@
 ?>
 <div id="Content"><!--Start of content-->
 <div class="Products">
-	<h1>TG-MTS-CN电表测试台（专利号ZL2007 3 0059901.9）</h1>
+	<h1>TG-MTS-CN电表测试台</h1>
 	<?php
 		include("breadcrumnav.php");	
 	?>

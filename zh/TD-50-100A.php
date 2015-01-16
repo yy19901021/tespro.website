@@ -1,5 +1,5 @@
 ﻿<?php 
-	$title = "TD-50-100A 电表负载特性测试仪";
+	$title = "TD-50-100A 电表负载特性测试电流源";
 ?>
 <?php 
 	$BaseUrl = "";
@@ -8,7 +8,7 @@
 ?>
 <div id="Content"><!--Start of content-->
 <div class="Products">
-	<h1>TD-50-100A 电表负载特性测试仪</h1>
+	<h1>TD-50-100A 电表负载特性测试电流源</h1>
 	<?php
 		include("breadcrumnav.php");	
 	?>

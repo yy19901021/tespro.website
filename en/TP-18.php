@@ -1,5 +1,5 @@
 <?php 
-	$title = "TP-18 Slim Optical Scanning Probe";
+	$title = "TP-18 Active/Reactive paired Optical Scanning Probes";
 ?>
 <?php 
 	$BaseUrl = "";
@@ -11,7 +11,7 @@
 <div class="Shadow3"></div>
 <div id="Content"><!--Start of content-->
 	<div class="Products">
-		<h1>TP-18 Slim Optical Scanning Probe</h1>
+		<h1>TP-18 Active/Reactive paired Optical Scanning Probes</h1>
 		<?php
 			include("breadcrumnav.php");	
 		?>
@@ -22,7 +22,8 @@
 				<ul>
 					<li>Can be used when active/reactive pulse sources in a short distance of 10mm.</li>
 					<li>High optical sensitivity.</li>
-					<li>Can be used for meter test-bench or portable test instrument.</li>
+					<li>Can be used to sense Active/Reactive-pulse-sources for calibrating A/R energy at the same time.</li>
+					<li>To shield background light better. </li>
 				</ul>
 				<h3>Technical Specifications:</h3>
 					<table id="SpecTable" class="List">

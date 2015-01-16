@@ -55,7 +55,7 @@
 					<col class="Title" span="1" />
 					<col span="1" />
 					<tbody>
-					<tr><th>Supporter:</th><td>TP-GS08 Versatile Probe Fixture, providing magnetic adhesion for all kinds of meters. Please refer to <a href="en/TP-GS08.php">TP-GS08 Versatile Probe Fixture</a>.</td></tr>
+					<tr><th>Supporter:</th><td>TP-GS Versatile Probe Fixture, providing magnetic adhesion for all kinds of meters. Please refer to <a href="en/TP-GS08.php">TP-GS Versatile Probe Fixture</a>.</td></tr>
 					<tr><th>Plug adapter:</th><td>TF-L5/Ax for plug adapted from LEMO-5 to Amphenol x-pole.</td></tr>
 					<tr><th>Connectors:</th><td>Any type of connectors is available for ordering. Refer to <a href="en/TP1_option_table.php">Table of plugs for optical probes</a>.
 </td></tr>

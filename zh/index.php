@@ -36,13 +36,12 @@
                 alt="Elster" /></a><a href="http://www.itron.com" style="margin: 0 60px;"><img src="images/logos/itron.jpg" 
                 alt="Itron" /></a><a href="http://www.ge.com"><img src="images/logos/ge.png" 
                 alt="GE" style="height: 60px;" />
-                
-                <!--
+                                
                 <a href="http://www.edmi-meters.com" style="margin: 0;"><img src="images/logos/edmi.jpg" 
                 alt="EDMI" /></a></a><a href="http://www.sensus.com" style="margin: 0 0 0 100px;"><img src="images/logos/sensus.jpg" 
-                alt="SENSUS" /></a><a href="http://www.wasion.com" style="margin: 0 0px;"><img src="images/logos/wasion.jpg" 
-                alt="威胜集团" /></a>
-                -->
+                alt="SENSUS" /></a><!-- <a href="http://www.wasion.com" style="margin: 0 0px;"><img src="images/logos/wasion.jpg" 
+                alt="威胜集团" /></a> -->
+                
             </div>
             	<!--
             <h1>媒体与咨询</h1>

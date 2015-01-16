@@ -14,9 +14,7 @@
 		?>					
 		<table class="TwoColsLayout">
 			<tr><td class="Left">
-					<p>TP-PDA is design to work with a wide range popular hand-held devices. 
-						With 9 years of history, it's been developed to support more devices, 
-						and widely used in on-site meter reading.</p>
+					<p>TP-PDA is a series of probes designed with special connectors, able to work with all popular hand-held digital devices. It is widely used in on-site meter reading.</p>
 					<h3>Models</h3>
 					<table id="ModelTable" class="List">
 						<col class="Title" span="1" />
@@ -27,6 +25,9 @@
 							<tr><th>TP-PDA-IEC-T </th><td>for Tespro TA-262</td></tr>
 							<tr><th>TP-HTTP  </th><td>for Zhenzhong HHU Model 900</td></tr>
 							<tr><th>TP-HTTJ</th><td>for JieBao HHU Model 9800/A188</td></tr>
+							<tr><th>TP-PDA-ANSI-D9700</th><td></td></tr>
+							<tr><th>TP-PDA-IEC-MC75xx</th><td></td></tr>
+							<tr><th>TP-PDA-IEC-iPad</th><td></td></tr>
 						</tbody>
 					</table>
 					<h3>Specifications:</h3>

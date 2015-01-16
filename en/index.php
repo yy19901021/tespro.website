@@ -15,7 +15,7 @@
 	<div class="Products">
 		<div class="HalfWidth LeftAligned">
 			<h1>What We Do</h1>
-			<p>Founded in 2002 Tespro has been an expert in providing meter testing instruments and equipment and all series of optical probes for both utilities and meter manufacturers. Based on 11 years’ experience and fruits Tespro will continue to make its efforts on metering and AMR/AMI applications.</p>
+			<p>Founded in 2002 Tespro has been an expert in providing meter testing instruments, equipment and all series of optical probes for both utilities and meter manufacturers. Based on 14 years’ experience and fruits Tespro will continue to make its efforts on metering and AMR/AMI applications.</p>
 			<p>&nbsp;</p><p>&nbsp;</p>
 		</div>
         <div id="OurCustomers" class="HalfWidth LeftAligned">
@@ -23,11 +23,11 @@
 				<a href="http://www.sgcc.com.cn/"><img src="images/logos/state-grid.jpg"
                 alt="State Grid" /></a><a href="http://www.csg.cn" style="margin: 0px 100px;"><img src="images/logos/china-south-grid.jpg" 
                 alt="China Southern Power Grid" /></a><a href="http://www.landisgyr.com.cn/"><img src="images/logos/landis-gyr.jpg"
-                alt="Landis &amp; Gyr" /></a><a href="http://www.elster.com/"><img src="images/logos/elster.jpg" 
-                alt="Elster" /></a><a href="http://www.itron.com" style="margin: 0 70px;"><img src="images/logos/itron.jpg" 
-                alt="Itron" /></a><a href="http://www.ge.com"><img src="images/logos/ge.png" 
-                alt="GE" style="height: 60px;" /></a><a href="http://www.edmi-meters.com"><img src="images/logos/edmi.jpg" 
-                alt="EDMI" /></a>
+                alt="Landis &amp; Gyr" /></a><a href="http://www.itron.com" style="margin: 0 70px 0 0;"><img src="images/logos/itron.jpg" 
+                alt="Itron" /></a><a href="http://www.edmi-meters.com"><img src="images/logos/edmi.jpg" 
+                alt="EDMI" /></a><a href="http://www.elster.com/"><img src="images/logos/elster.jpg" 
+                alt="Elster" style="margin: 0 70px 0 0;" /></a><a href="http://www.ge.com"><img src="images/logos/ge.png" 
+                alt="GE" style="height: 60px;" /></a>
         </div>
 		<div class="Clear"></div>
 	</div>

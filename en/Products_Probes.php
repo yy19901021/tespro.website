@@ -39,7 +39,7 @@
 				<li><a href="en/TP-15.php">TP-15 Dual-frequency Optical Scanning Probe for Accuracy Test</a></li>
 				<li><a href="en/TP-16.php">TP-16 Optical Scanning Probe for Portable Accuracy Test Instrument</a></li>
 				<li><a href="en/TP-17.php">TP-17 Optical Scanning Probe with Duplex-function</a></li>
-				<li><a href="en/TP-18.php">TP-18 Slim Optical Scanning Probe</a></li>
+				<li><a href="en/TP-18.php">TP-18 Active/Reactive paired Optical Scanning Probes</a></li>
 			</ul>
 		</div>
 		<div class="Clear"></div>

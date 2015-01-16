@@ -1,5 +1,5 @@
 <?php 
-	$title = "手持设备光电头";
+	$title = "TP-PDA手持设备光电头";
 ?>
 <?php 
 	$BaseUrl = "";
@@ -8,7 +8,7 @@
 ?>
 <div id="Content"><!--Start of content-->
 <div class="Products">
-	<h1>手持设备光电头</h1>
+	<h1>TP-PDA手持设备光电头</h1>
 	<?php
 		include("breadcrumnav.php");	
 	?>

@@ -19,7 +19,7 @@
 			<ul>
 				<li>TP-17A</li>
 				<li>TP-17B 可调灵敏度</li>
-				<li>TP-17C 可调灵敏度2013版</li>
+				<li>TP-17C 2015版，适配TP-GS2</li>
 			</ul>	
 			<h3>主要用途：</h3>
 			<ul>

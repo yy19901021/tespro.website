@@ -16,8 +16,7 @@
 			<tr><td class="Left">
 				<h3>Application:</h3>
 				<ul>
-				<li>TP-16 is specially designed as accessory for portable test instrument, with on-site
-and sunshine environment applications.</li>
+				<li>TP-16 is specially designed for portable test instrument, can be used on-site or under sunshine environment. </li>
 				<li>TP-16-PRS and TP-16-PWS are designed with dedicated connector to comply with the pin-
 out specs of PRS1.3 & PWS1.3 respectively.</li>
 				</ul>
@@ -31,7 +30,7 @@ out specs of PRS1.3 & PWS1.3 respectively.</li>
 					<tr><td>Outlet cable:</td><td>Straight cable with 3M</td>
 					<tr><td>Fastening:</td><td>Magnetic adhesion</td>
 					<tr><td>Mechanical:</td><td>Impact ABS housing</td>
-					<tr><td>Connector:</td><td>Optional item from <a href="en/TP1_option_table.php">Sample List of Connectors for Optical Scanning Probes</a></td>
+					<tr><td>Connector:</td><td>Optional item from <a href="en/TP1_option_table.php">Table of Connectors for Optical Scanning Probes</a></td>
 				</table>
 			</td><td class="Right">
 				<img src="images/products/product_TP-16-PRS1.3.jpg" alt="TP-16 Optical Scanning Probe for Portable Accuracy Test Instrument" />

@@ -16,18 +16,14 @@
 			<tr><td class="Left">
 				<h3>Applications</h3>
 				<ul>
-				<p>TP-232 optical probe is designed to be powered from RS232 by Tespro in 2002.  
-					With years of optimization, it's been proven to be reliable in application. 
-					It is widely used in the electric energy meter parameterization and data reading, 
-					proven to be an ideal tool for both utilities and manufacturers.
-				</p>
+				<p>Tespro redesigned TP-232 optical probe to be powered from interface RS232 by eliminating battery as power in 2002. With years of optimization, Tespro TP-232 has been proven to be reliable in application. It is widely used in the electric energy meter parameterization and data reading, proven to be an ideal tool for both utilities and manufacturers.</p>
 				<p>It works  with gas meter and thermal meter. </p>
 				<h3>Sub-models</h3>
 				<ul>
 					<li>TP-232-IEC</li>
 					<li>TP-232-ANSI-N: Compatible with ANSI C12.18 (Normal Standard)</li>
-					<li>TP-232-ANSI-S: Compatible with ANSI C12.18 (Siemens Standard)</li>
-					<li>TP-232-ANSI-U: Compatible with ANSI C12.18 (Universal, can be switch between Normal and Siemens standar)</li>
+					<li>TP-232-ANSI-S: Compatible with ANSI C12.18 type two, 2007(Sub-standard)</li>
+					<li>TP-232-ANSI-U: Compatible with ANSI C12.18 (Universal, can be switch between N and S)</li>
 				</ul>
 				<p>If you have questions about the difference of the differences, please write to us. </p>
 				<h3>Specifications:</h3>
@@ -46,7 +42,7 @@
 						<th>Interface:</th><td>Infrared optical.</td>
 					</tr>
 					<tr>
-						<th>Connector:</th><td>232 connector</td>
+						<th>Connector:</th><td>232-DB9 connector</td>
 					</tr>
 					<tr>
 						<th>Power:</th><td>From the 232 port, no battery required.</td>
@@ -67,12 +63,10 @@
 					<col class="Title" span="1" />
 					<col span="1" />
 					<tbody>
-					<tr><th>Extended Temperature:</th><td>-35&deg;C ~ 80&deg;C (31&deg;F - 176&deg;F)</td></tr>
+					<tr><th>Extended Temp. Cable:</th><td>-35&deg;C ~ 80&deg;C (31&deg;F - 176&deg;F)<br />Spiral cable is available.</td></tr>
 					<tr><th>Cable:</th><td>Extended length upon request.</td></tr>
 					</tbody>
 				</table>
-				<h3>Drivers</h3>
-				<a href="en/download/TP-USB.zip">Download the USB driver for Windows</a>
 			</td><td class="Right">
 				<img src="images/products/product_TP-232-IEC.jpg" width="300" alt="TP-232 Optical Probe" />
 				<img src="images/products/product_TP-232-ANSI_demo.jpg" width="300" alt="TP-232 Optical Probe" />

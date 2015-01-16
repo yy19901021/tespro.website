@@ -18,15 +18,15 @@
 				<li><a href="en/TP-15.php">TP-15 Dual-frequency Optical Scanning Probe for Accuracy Test</a></li>
 				<li><a href="en/TP-16.php">TP-16 Optical Scanning Probe for Portable Accuracy Test Instrument</a></li>
 				<li><a href="en/TP-17.php">TP-17 Optical Scanning Probe with Duplex-function</a></li>
-				<li><a href="en/TP-18.php">TP-18 Slim Optical Scanning Probe</a></li>
+				<li><a href="en/TP-18.php">TP-18 Active/Reactive paired Optical Scanning Probes</a></li>
 			</ul>
 		</div>
 		<div class="Clear"></div>
 		<div class="HalfWidth LeftAligned">
 			<h4 title="Testing Devices">Accesory for Optical Probes</h2>
 			<ul>
-				<li><a href="en/TP-GS08.php">TP-GS08 Versatile Probe Fixture</a></li>
-				<li><a href="en/TP1_option_table.php">Sample List of Connectors of Optical Scanning Probes</a></li>
+				<li><a href="en/TP-GS08.php">TP-GS Versatile Probe Fixture</a></li>
+				<li><a href="en/TP1_option_table.php">Table of Connectors for Optical Scanning Probes</a></li>
 			</ul>
 		</div>
 		<div class="Clear"></div>

@@ -1,5 +1,5 @@
 <?php 
-	$title = "Table of connectors for optical probes";
+	$title = "Table of Connectors for Optical Scanning Probes";
 ?>
 <?php 
 	$BaseUrl = "";
@@ -8,7 +8,7 @@
 ?>
 <div id="Content"><!--Start of content-->
 	<div class="Products">
-		<h1>Table of connectors for optical probes</h1>
+		<h1>Table of Connectors for Optical Scanning Probes</h1>
 		<?php
 			include("breadcrumnav.php");	
 		?>

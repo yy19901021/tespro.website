@@ -1,5 +1,5 @@
 <?php 
-	$title = "TP-GS08 Versatile Probe Fixture";
+	$title = "TP-GS Versatile Probe Fixture";
 ?>
 <?php 
 	$BaseUrl = "";
@@ -8,14 +8,13 @@
 ?>
 <div id="Content"><!--Start of content-->
 <div class="Products">
-	<h1>TP-GS08 Versatile Probe Fixture</h1>
+	<h1>TP-GS Versatile Probe Fixture</h1>
 	<?php
 		include("breadcrumnav.php");	
 	?>
 	<table class="TwoColsLayout">
 		<tr><td class="Left">
-			<p>TP-GS08 Versatile Probe Fixture is used for scanning probe fastening onto energy meters. it was invented by Tespro and can be widely used in accuracy test for both Ferraris and electronics meters.</p>
-			
+			<p>TP-GS Versatile Probe Fixture is used for scanning probe fastening onto energy meters. TP-GS was invented by Tespro and can be widely used in accuracy test for both Ferraris and electronics meters.</p>			
 			<h3>Features</h3>
 			<ul>
 				<li>Fastening to meter by two side-plates, it can be moved up and down along the meter</li>
@@ -27,8 +26,8 @@
 				<li>Made of insulation material, which ensures safety and portability</li>
 			</ul>
 		</td><td class="Right">
-			<img src="images/products/product_TP-GS08.jpg" alt="TP-GS08 Versatile Probe Fixture" />
-			<img src="images/products/product_TP-GS08_demo.jpg" alt="TP-GS08 Versatile Probe Fixture" />
+			<img src="images/products/product_TP-GS08.jpg" alt="TP-GS Versatile Probe Fixture" />
+			<img src="images/products/product_TP-GS08_demo.jpg" alt="TP-GS Versatile Probe Fixture" />
 		</td></tr>
 	</table>
 </div>

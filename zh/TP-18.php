@@ -1,5 +1,5 @@
 <?php 
-	$title = "TP-18 窄距式校验光电头";
+	$title = "TP-18 有功/无功双校验光电头";
 ?>
 <?php 
 	$BaseUrl = "";
@@ -8,7 +8,7 @@
 ?>
 <div id="Content"><!--Start of content-->
 <div class="Products">
-	<h1>TP-18 窄距式校验光电头</h1>
+	<h1>TP-18 有功/无功双校验光电头</h1>
 	<?php
 		include("breadcrumnav.php");	
 	?>

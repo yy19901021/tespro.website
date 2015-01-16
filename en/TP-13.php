@@ -25,7 +25,7 @@
 					<li>LED indicators of active and reactive flicker synchronously with the pulses.</li>
 					<li>Two transmitting channels of bench are required for active and reactive pulses transmitting simultaneously.</li>
 					<li>Distance of front side of scanning probe to LED pulse source is 25mm±10mm.</li>
-					<li>Any kind of plugs are available for ordering, refer to Sample List of Connectors for Optical Scanning Probes > from Tespro web-site.</li>
+					<li>Any kind of plugs are available for ordering, refer to Table of Connectors for Optical Scanning Probes > from Tespro web-site.</li>
 				</ul>
 
 

@@ -20,14 +20,13 @@
 				<table id="SpecTable" class="List">
 					<col class="Title" span="1" />
 					<col span="1" />
-					<tr><td>Size: </td><td>TP-12 is a mini type probe with its diameter of 22mm. </td></tr>
+					<tr><td>Size: </td><td>TP-12 is a mini type probe.</td></tr>
 					<tr><td>Connector:</td><td>on customization</a></td>
 					<tr><td>Light sense: </td><td>Sensing spectrum covers from IR to light. </td></tr>
 					<tr><td>Power supply: </td><td>Powered by +3.3~5VDC </td></tr>
 					<tr><td>Output:	</td><td>Positive pulses output in TTL, is synchronized with the LED light pulses. </td></tr>
 					<tr><td>Fastening: </td><td>Can be easily attached onto any meter surface by Tespro’s easy stick-on strips, or by magnetic. </td></tr>
 					<tr><td>Indicator: </td><td>An indicator at the top lights up synchronizing with the pulses.</td></tr>
-					<tr><td>Connector:</td><td>on customization</a></td>
 				</table>
 				<h3>Options: </h3>
 				<table id="OptionTable" class="List">
