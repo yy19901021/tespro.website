@@ -31,16 +31,22 @@
 						<col class="Title" span="1" />
 						<col span="1" />
 						<tbody>
-							<tr><th>Max	communication distance: </th><td>300 meters</td></tr>
+							<tr><th>Max	com-distance: </th><td>300 meters</td></tr>
 							<tr><th>Radio frequency: </th><td>400MHz/900MHz/2.4GHz available</td></tr>
 							<tr><th>Battery life: </th><td>Up to 24 hours when battery in full</td></tr>
 							<tr><th>Indicators: </td>
 								<td>
 									<ul>
-										<li>LED green/red: indicating power on/off and remaining battery life</li>
-										<li>LED blue: indicating communication states</li>
+										<li>LED red: Indicating battery in charging</li>
+										<li>LED green: Indicating power on and the energy available in battery</li>
 									</ul>
 								</td>
+							</tr>
+							<tr>
+								<th>Maximum B.R.:</th><td>Up to 38400bps</td>
+							</tr>
+							<tr>
+								<th>Fastening:</th><td>Strong magnetic adhesion complied with IEC62056-21 or ANSI C12.18</td>
 							</tr>
 						</tbody>
 					</table>

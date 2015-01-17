@@ -16,7 +16,7 @@
 			<tr><td class="Left">
 				<h3>Applications</h3>
 				<ul>
-				<p>Tespro redesigned TP-232 optical probe to be powered from interface RS232 by eliminating battery as power in 2002. With years of optimization, Tespro TP-232 has been proven to be reliable in application. It is widely used in the electric energy meter parameterization and data reading, proven to be an ideal tool for both utilities and manufacturers.</p>
+				<p>Tespro designed TP-232 optical probe to be powered from interface RS232 in 2002, eliminating battery as power. With years’ optimization, Tespro TP-232 has been proven to be reliable in application. It is widely used in meter parameterization and data reading, to be an ideal device for both utilities and manufacturers.</p>
 				<p>It works  with gas meter and thermal meter. </p>
 				<h3>Sub-models</h3>
 				<ul>
@@ -25,7 +25,6 @@
 					<li>TP-232-ANSI-S: Compatible with ANSI C12.18 type two, 2007(Sub-standard)</li>
 					<li>TP-232-ANSI-U: Compatible with ANSI C12.18 (Universal, can be switch between N and S)</li>
 				</ul>
-				<p>If you have questions about the difference of the differences, please write to us. </p>
 				<h3>Specifications:</h3>
 				<table id="SpecTable" class="List">
 					<col class="Title" span="1" />
@@ -34,24 +33,24 @@
 						<th>Standard:</th>
 						<td>
 							<ul>
-								<li>IEC 62056-21 standard.</li>
-								<li>ANSI C12.18-1996 & 2007 standard.</li>
+								<li>IEC 62056-21 standard</li>
+								<li>ANSI C12.18-1996 & 2007 standard</li>
 						</td>
 					</tr>
 					<tr>
-						<th>Interface:</th><td>Infrared optical.</td>
+						<th>Interface:</th><td>Infrared optical</td>
 					</tr>
 					<tr>
 						<th>Connector:</th><td>232-DB9 connector</td>
 					</tr>
 					<tr>
-						<th>Power:</th><td>From the 232 port, no battery required.</td>
+						<th>Power:</th><td>From the 232 port, no battery required</td>
 					</tr>
 					<tr>
-						<th>Maximum B.R.:</th><td>Up to 38400bps.</td>
+						<th>Maximum B.R.:</th><td>Up to 38400bps</td>
 					</tr>
 					<tr>
-						<th>Fastening:</th><td>Strong magnetic adhesion ( specified by IEC 62056-21 ).</td>
+						<th>Fastening:</th><td>Strong magnetic adhesion complied with IEC62056-21 or ANSI C12.18</td>
 					</tr>
 					<tr>
 						<th>Cable:</th><td>2 meters straight cable</td>

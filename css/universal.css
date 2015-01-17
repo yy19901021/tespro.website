@@ -111,11 +111,12 @@ table.DataTable td input.Text{width:3em}
 /* -- DataTable Ends -- */
 /* -- Specification Table -- */
 table.List{width:100%}
-table.List th{padding:4px; font-weight: normal; text-align: left;}
+table.List th{padding:4px; font-weight: normal; text-align: left; vertical-align: top;}
 table.List td{padding:4px}
 table.List tr.even{background-color: #fff;} /* Not used by scripts for now */
 table.List tr.odd{background-color: #dde4e9;} /* Not used by scripts for now */
 table.List col.Title{width:11em;font-weight:bold}
+table.List ul{margin: 0;}
 /* -- Specification Table Ends -- */
 /* -- Probe Option Table -- */
 #ModelNameDesp thead{font-size:18px}

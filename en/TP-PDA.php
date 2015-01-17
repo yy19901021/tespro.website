@@ -38,6 +38,12 @@
 						<tr><td>Powered: </td><td>From PDA terminal port</td></tr>
 						<tr><td>Cable: </td><td>1.5m</td></tr>
 						<tr><td>Environment: </td><td>Operating temperature: -15℃~80℃ (5°F ~ 176°F) </td></tr>
+						<tr>
+							<th>Maximum B.R.:</th><td>Up to 38400bps</td>
+						</tr>
+						<tr>
+							<th>Fastening:</th><td>Strong magnetic adhesion complied with IEC62056-21 or ANSI C12.18</td>
+						</tr>
 					</table>
 			</td><td class="Right">
 				<img src="images/products/product_TP-Handheld.jpg" alt="TP-HHU/PDA Optical Probe">

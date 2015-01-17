@@ -19,7 +19,7 @@
 </style>
 <div id="Content"><!--Start of content-->
 	<div class="Products">
-		<div>We have the most comprehensive range of optical probes for any electricity meter. We accept OEM and customization orders.</div>
+		<div>With 14 years of experience Tespro supply a full-range of optical probes for both meter communication and accurate testing purposes. The products series support both IEC and ANSI standards. Customers from any part of the world can find one from Tespro optical probe family to comply with its applications purpose, or a customized one to meet its specific requirement. </div>
 		<div class="HalfWidth LeftAligned">
 			<h1 title="Optical probe for communication">For Communication</h1>
 			<ul>

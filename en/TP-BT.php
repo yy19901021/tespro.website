@@ -34,10 +34,16 @@
 							<tr><th>Indicators: </td>
 								<td>
 									<ul>
-										<li>LED green/red: indicating power on/off; flashing: indicating energy available in battery.</li>
-										<li>LED blue: indicating communication states</li>
+										<li>LED red: Indicating battery in charging</li>
+										<li>LED green: Indicating power on and the energy available in battery</li>
 									</ul>
 								</td>
+							</tr>
+							<tr>
+								<th>Maximum B.R.:</th><td>Up to 38400bps</td>
+							</tr>
+							<tr>
+								<th>Fastening:</th><td>Strong magnetic adhesion complied with IEC62056-21 or ANSI C12.18</td>
 							</tr>
 						</tbody>
 					</table>
