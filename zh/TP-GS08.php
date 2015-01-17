@@ -1,4 +1,10 @@
 <?php 
+	header( "HTTP/1.1 301 Moved Permanently" );
+	header("Location: TP-GS.php");
+
+	$title = "TP-GS08";
+?>
+<?php 
 	$title = "TP-GS 通用光电头活动支架（国家发明专利）";
 ?>
 <?php 

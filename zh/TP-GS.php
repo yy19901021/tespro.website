@@ -37,11 +37,12 @@
 				
 			</td>
 			<td class="Right">
-				<img src="images/products/product_TP-GS.jpg" alt="TP-GS 通用光电头活动支架" />
+				<img src="images/products/product_TP-GS08.jpg" alt="TP-GS 通用光电头活动支架" />
+				<img src="images/products/product_TP-GS08_demo.jpg" alt="TP-GS 通用光电头活动支架" />
 			</td>
 		</tr>
 	</table>
-	<?php include("list_probes.php") ?>
 </div>
 </div><!--End of content-->
+<?php include("list_probes.php") ?>
 <?php include("footer.php") ?>

@@ -25,7 +25,7 @@
 		<div class="HalfWidth LeftAligned">
 			<h4 title="Testing Devices">Accesory for Optical Probes</h2>
 			<ul>
-				<li><a href="en/TP-GS08.php">TP-GS Versatile Probe Fixture</a></li>
+				<li><a href="en/TP-GS.php">TP-GS Versatile Probe Fixture</a></li>
 				<li><a href="en/TP1_option_table.php">Table of Connectors for Optical Scanning Probes</a></li>
 			</ul>
 		</div>

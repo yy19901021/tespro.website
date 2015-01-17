@@ -36,7 +36,7 @@
 					<tr><th>Connector:</th><td>Optional item from <a href="en/TP1_option_table.php">Sample List of Connectors for Scanning Probes</a></td></tr>
 					</tbody>
 				</table>
-				<p>Note: Note: All TP-17x must work with <a href="en/TP-GS08.php">TP-GS08</a> or TP-GS2 Versatile Fixture as supporter. Must work with <a href="en/TP-GS08.php">TP-GS08 Versatile Fixture</a> as supporter</p>
+				<p>Note: Note: All TP-17x must work with <a href="en/TP-GS.php">TP-GS</a> or TP-GS2 Versatile Fixture as supporter. Must work with <a href="en/TP-GS.php">TP-GS08 Versatile Fixture</a> as supporter</p>
 			</td><td class="Right">
 				<img src="images/products/product_TP-17.jpg" alt="TP-17 Optical Scanning Probe with Duplex-function" />
 			</td></tr>

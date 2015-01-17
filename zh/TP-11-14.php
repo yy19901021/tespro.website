@@ -29,7 +29,7 @@
 			<h3>子型号与选配件：</h3>
 			<ul>
 				<li>适配任何校表台接口：请参照《<a href="zh/TP1_option_table.php">校验光电头插头选用表</a>》选用插头型号。</li>
-				<li>为了固定在电表上可使用<a href="zh/TP-GS08.php">TP-GS08</a>光电头活动支架。</li>
+				<li>为了固定在电表上可使用<a href="zh/TP-GS.php">TP-GS08</a>光电头活动支架。</li>
 				<!--<li>用于兰吉尔电表校验可使用<a href="zh/TP-SZD.php">TP-SZD</a>或<a href="zh/TP-SZH.php">TP-SZH</a>专用适配器。</li>-->
 			</ul>
 		</td><td class="Right">
