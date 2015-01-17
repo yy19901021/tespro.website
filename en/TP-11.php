@@ -34,7 +34,7 @@
 						<td>Mechanical::</td><td>Impact ABS housing</td>
 					</tr>
 					<tr>
-						<td>Probe Fixture:</td><td>TP-GS08 fixture can be used for probe fixing onto any kind of meters</td>
+						<td>Probe Fixture:</td><td>TP-GS fixture can be used for probe fixing onto any kind of meters</td>
 					</tr>
 					<tr><td>Connector:</td><td>Optional item from <a href="en/TP1_option_table.php">Table of Connectors for Optical Scanning Probes</a></td>
 				</table>

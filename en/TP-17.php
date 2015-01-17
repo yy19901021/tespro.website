@@ -20,7 +20,7 @@
 					<li>TP-17A Normal version</li>
 					<li>TP-17B with sensitivity adjustment</li>
 				</ul>
-				<p>TP-17C is a new version released in 2014 with sensitive adjust knob, and attached to the new fixture of TP-GS2.</p>
+				<p>TP-17C is a new version released in 2015 with sensitive adjust knob, and attached to the new fixture of TP-GS2.</p>
 				<h3>Application: </h3>
 				<ul>
 					<li>Can be used for both Ferraris and statistics meters accuracy testing, functions switching by push button.</li>
@@ -36,7 +36,7 @@
 					<tr><th>Connector:</th><td>Optional item from <a href="en/TP1_option_table.php">Sample List of Connectors for Scanning Probes</a></td></tr>
 					</tbody>
 				</table>
-				<p>Note: Note: All TP-17x must work with <a href="en/TP-GS.php">TP-GS</a> or TP-GS2 Versatile Fixture as supporter. Must work with <a href="en/TP-GS.php">TP-GS08 Versatile Fixture</a> as supporter</p>
+				<p>Note: All TP-17x must work with <a href="en/TP-GS.php">TP-GS</a> Versatile Fixture as supporter.</p>
 			</td><td class="Right">
 				<img src="images/products/product_TP-17.jpg" alt="TP-17 Optical Scanning Probe with Duplex-function" />
 			</td></tr>

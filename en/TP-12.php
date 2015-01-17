@@ -14,7 +14,7 @@
 		?>
 		<table class="TwoColsLayout">
 			<tr><td class="Left">
-				<p>TP-12 is a newly developed optical probe and supports LED optical pulses sensing of energy meters. It can be used as an accessory in detecting optical pulses for power monitoring, or for solar energy system.</p>
+				<p>TP-12 is a newly developed optical probe which can be used for meter optical pulses sensing in power monitoring system.</p>
 				
 				<h3>Specification</h3>
 				<table id="SpecTable" class="List">

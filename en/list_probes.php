@@ -1,15 +1,6 @@
 <div id="ProductList" class="cat-footer">
 	<div class="Products">
-		<div class="HalfWidth LeftAligned">
-			<h4 title="Optical probe for communication">Optical Probes for Meter Communication</h4>
-			<ul>
-				<li><a href="en/TP-232.php">TP-232 Optical Probe</a></li>
-				<li><a href="en/TP-USB.php">TP-USB Optical Probe</a></li>
-				<li><a href="en/TP-PDA.php">TP-PDA Optical Probe for Handheld Devices</a></li>
-				<li><a href="en/TP-BT.php">TP-BT Bluetooth Optical Probe</a></li>
-				<li><a href="en/TP-RF.php">TP-RF Wireless Optical Probe with RF Interface</a></li>
-			</ul>
-		</div>
+		
 		<div class="HalfWidth LeftAligned">
 			<h4 title="Optical Scanning Probes for Meter Accuracy Testing">Optical Scanning Probes for Meter Accuracy Testing</h4>
 			<ul>
@@ -21,6 +12,16 @@
 				<li><a href="en/TP-18.php">TP-18 Active/Reactive paired Optical Scanning Probes</a></li>
 			</ul>
 		</div>
+		<div class="HalfWidth LeftAligned">
+			<h4 title="Optical probe for communication">Optical Probes for Meter Communication</h4>
+			<ul>
+				<li><a href="en/TP-232.php">TP-232 Optical Probe</a></li>
+				<li><a href="en/TP-USB.php">TP-USB Optical Probe</a></li>
+				<li><a href="en/TP-PDA.php">TP-PDA Optical Probe for Handheld Devices</a></li>
+				<li><a href="en/TP-BT.php">TP-BT Bluetooth Optical Probe</a></li>
+				<li><a href="en/TP-RF.php">TP-RF Wireless Optical Probe with RF Interface</a></li>
+			</ul>
+		</div>
 		<div class="Clear"></div>
 		<div class="HalfWidth LeftAligned">
 			<h4 title="Testing Devices">Accesory for Optical Probes</h2>
@@ -30,5 +31,6 @@
 			</ul>
 		</div>
 		<div class="Clear"></div>
+		
 	</div>
 </div>

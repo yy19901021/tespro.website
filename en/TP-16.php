@@ -31,6 +31,13 @@ out specs of PRS1.3 & PWS1.3 respectively.</li>
 					<tr><td>Fastening:</td><td>Magnetic adhesion</td>
 					<tr><td>Mechanical:</td><td>Impact ABS housing</td>
 					<tr><td>Connector:</td><td>Optional item from <a href="en/TP1_option_table.php">Table of Connectors for Optical Scanning Probes</a></td>
+						<tr>
+						<th>Maximum B.R.:</th><td>Up to 38400bps</td>
+					</tr>
+					<tr>
+						<th>Fastening:</th><td>Strong magnetic adhesion complied with IEC62056-21 or ANSI C12.18</td>
+					</tr>
+					<tr><td>Probe Fixture:	</td><td>TP-GS fixture can be used for probe fastening onto any type of meters.</td></tr>
 				</table>
 			</td><td class="Right">
 				<img src="images/products/product_TP-16-PRS1.3.jpg" alt="TP-16 Optical Scanning Probe for Portable Accuracy Test Instrument" />

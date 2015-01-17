@@ -17,7 +17,7 @@
 		?>
 		<table class="TwoColsLayout">
 			<tr><td class="Left">
-				<p>TP-18 Slim Optical Probe was designed for meter active and reactive accuracy testing at the same time. </p>
+				<p>TP-18 Active/Reactive Paired Optical Probe was designed for meter active and reactive accuracy testing at the same time.</p>
 				<h3>Features:</h3>
 				<ul>
 					<li>Can be used when active/reactive pulse sources in a short distance of 10mm.</li>
@@ -34,7 +34,7 @@
 					<tr><th>Connector:</th><td>Optional item from <a href="en/TP1_option_table.php">Sample List of Connectors for Scanning Probes</a></td></tr>
 					</tbody>
 				</table>
-				
+				<p>Note: TP-GS Fixture must be used for probes adhesion onto meters.</p>
 			</td><td class="Right">
 				<img src="images/products/product_TP-18.jpg" alt="Slim Optical Scanning Probe" />
 			</td></tr>
