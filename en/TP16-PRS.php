@@ -58,7 +58,7 @@
 			<col span="1">
 			<tr>
 				<td>Active Supporter:</td>
-				<td><a href="en/TP-GS07.php">TP-GS07 Probe Active Supporter</a> provides magnetic adhesion for TP16-PRS to all kinds of meter.</td>
+				<td><a href="en/TP-GS07.php">TP-GS07 Probe Active Supporter</a> provides magnetic adhesion to TP16-PRS to all kinds of meter.</td>
 			</tr>
 			<tr>
 				<td>Probe plugs:</td>
