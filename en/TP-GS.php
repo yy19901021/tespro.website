@@ -25,9 +25,9 @@
 				<li>Fastening to meter by two side-plates, it can be moved up and down along the meter</li>
 				<li>Adaptable almost all shapes of meters, square or round, big or small</li>
 				<li>Adjustable to different width of meter from 100 to 180mm </li>
-				<li>Provide magnetic adhesion for scanning probes</li>
-				<li>Provide mechanical adhesion for scanning probes</li>
-				<li>Probes can be moved along left or right freely</li>
+				<li>Provide magnetic adhesion to scanning probes</li>
+				<li>Provide mechanical adhesion to scanning probes</li>
+				<li>Probes can be moved along left/right freely</li>
 				<li>Made of insulation material, which ensures safety and portability</li>
 			</ul>
 		</td><td class="Right">

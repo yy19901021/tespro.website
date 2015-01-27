@@ -24,13 +24,13 @@
 				</ul>
 				<h3>Main Features</h3>
 				<ul>
-					<li>Supported Port-type: RS485, RS232, CS, infrared(IR) interfaces.</li>
+					<li>Supported meter port: RS485, RS232, CS, infrared(IR) interfaces.</li>
 					<li>Supported Protocols: IEC 62056-21(1107), dlms, IEC 60870-5-102, DL/T645, EDMI-MK6, Elster-Alpha, etc..<br />
 					</li>
-					<li>Baud Rate: 300-19200bps; Supports automatic baud-rate detection.</li>
+					<li>Baud Rate: 300-19200bps; Supports meter baud-rate automatic detection.</li>
 					<li>Test Report: The test results can be saved as a test report if needed.</li>
 				</ul>
-				<p class="HighLight">English Version of Program TATESTxx will be available upon order.</p>
+				<p class="HighLight">English Version of Program TATESTxx is available upon order.</p>
 				<p class="HighLight">TA-261 is originally designed and manufactured by Tespro Electronics Co., Ltd.</p>
 			</td><td class="Right">
 				<img src="images/products/product_TA-262_zh.png" alt="TA-262 Communication Port Tester" />

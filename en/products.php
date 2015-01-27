@@ -6,7 +6,12 @@
 	include("../includes/universal.php");
 	include("header.php");
 ?>
-<div id="ProductsTitle" class="PageTitle"><div class="PageTitleBrg"><img src="images/Product_Title_en.png" alt="Everything meters want" /></div></div>
+<div id="ProductsTitle" class="PageTitle"><div class="PageTitleBrg"><img src="images/Product_Title_en.png" alt="Everything meters want" />
+<p>With 14 years of experience Tespro is able to supply a full-range of optical probes for both
+meter communication and accurate testing purposes. Its products support both IEC and ANSI 
+standards. Customers are able to find one from Tespro optical probes family to comply with 
+their applications, or a customized one to meet its specific requirement. </p>
+</div></div>
 <div class="Shadow1"></div><div class="Shadow2"></div><div class="Shadow3"></div>
 <div id="Content"><!--Start of content-->
 	<div class="Products">

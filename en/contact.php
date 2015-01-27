@@ -13,7 +13,7 @@
 	<h3>Tespro China</h3>
 	<p>
 		2/F, 3D-Tech Building,
- 		<br />No.184 Bailian Rd. Jida, Zhuhai, 
+ 		<br />No.184 Bailian Rd., Zhuhai,
  		<br />GD 519015, China
  		<br />Tel: +86.756.323.3800 
 		<br />Fax: +86.756.323.3900
