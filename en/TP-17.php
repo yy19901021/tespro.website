@@ -17,10 +17,10 @@
 				<p>TP-17A Multi-function Optical Probe has been designed for accuracy testing of both Ferraris and static meters.</p>
 				<h3>Sub-models:</h3>
 				<ul>
-					<li>TP-17A Normal version</li>
-					<li>TP-17B with sensitivity adjustment</li>
+					<li>TP-17A: Normal version</li>
+					<li>TP-17B: with sensitivity adjustment</li>
+					<li>TP-17C: a new version released in 2015 with sensitive adjust knob, and attached to the new fixture of TP-GS2.</li>
 				</ul>
-				<p>TP-17C is a new version released in 2015 with sensitive adjust knob, and attached to the new fixture of TP-GS2.</p>
 				<h3>Application: </h3>
 				<ul>
 					<li>Can be used for both Ferraris and statistics meters accuracy testing, functions switching by push button.</li>

@@ -33,8 +33,8 @@
 			</ul>
 			<p>泰易追求细节完美，经过多年的改进，技术成熟，一体化结构，可靠耐用，值得信耐。</p>
 		</td><td class="Right">
-			<img class="prd-image side-image" src="images/products/product_TP-USB.jpg" alt="TP-USB USB接口电表光电头" />
-			<img src="images/products/product_TP-USB-ANSI-N.jpg" alt="TP-USB USB接口电表光电头" />
+			<!-- <img class="prd-image side-image" src="images/products/product_TP-USB.jpg" alt="TP-USB USB接口电表光电头" /> -->
+			<img src="images/products/product_TP-USB.jpg" alt="TP-USB USB接口电表光电头" />
 			<img src="images/products/product_TP-USB-ANSI_demo.jpg" alt="TP-USB USB接口电表光电头" />
 		</td></tr>
 	</table>

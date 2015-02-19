@@ -24,7 +24,7 @@
 					<li>TP-PDA:	采用USB-Mini或USB-OTG接口，支持和主流PDA，iPad等智能设备接口。例如可用于Motorola 75系列，Dolphin9700系列，Apple-iPad、三星、联想等平板电脑设备系列。</li>
 				</ul>
 			</td><td class="Right">
-				<img src="images/products/product_TP-Handheld.jpg" alt="蓝牙通讯光电头"/>
+				<img src="images/products/product_TP-PDA.jpg" alt="蓝牙通讯光电头"/>
 			</td></tr>
 		</table>
 </div>

@@ -46,7 +46,7 @@
 						</tr>
 					</table>
 			</td><td class="Right">
-				<img src="images/products/product_TP-Handheld.jpg" alt="TP-HHU/PDA Optical Probe">
+				<img src="images/products/product_TP-PDA.jpg" alt="TP-HHU/PDA Optical Probe">
 			</td></tr>
 		</table>
 	</div>

@@ -40,8 +40,8 @@ out specs of PRS1.3 & PWS1.3 respectively.</li>
 					<tr><td>Probe Fixture:	</td><td>TP-GS fixture can be used for probe fastening onto any type of meters.</td></tr>
 				</table>
 			</td><td class="Right">
-				<img src="images/products/product_TP-16-PRS1.3.jpg" alt="TP-16 Optical Scanning Probe for Portable Accuracy Test Instrument" />
-				<img src="images/products/product_TP-16-PRS_02.jpg" alt="Optical Scanning Probe for Portable Accuracy Test Instrument" />
+				<img src="images/products/product_TP-16-1.jpg" alt="TP-16 Optical Scanning Probe for Portable Accuracy Test Instrument" />
+				<img src="images/products/product_TP-16.jpg" alt="Optical Scanning Probe for Portable Accuracy Test Instrument" />
 			</td></tr>
 		</table>
 	</div>

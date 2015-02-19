@@ -28,7 +28,8 @@
 			
 		</td><td class="Right">
 			<img src="images/products/product_TP-16-1.jpg" alt="TP-16-PR-x S进口现校仪校验光电头 " />
-			<img src="images/products/product_TP-16-2.jpg" alt="TP-16-PR-x S进口现校仪校验光电头 " />
+			<!-- <img src="images/products/product_TP-16-2.jpg" alt="TP-16-PR-x S进口现校仪校验光电头 " /> -->
+			<img src="images/products/product_TP-16.jpg" alt="TP-16-PR-x S进口现校仪校验光电头 " />
 		</td></tr>
 	</table>
 </div>

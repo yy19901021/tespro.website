@@ -32,7 +32,7 @@
 			</ul>
 			<p>低成本和高性价比，便于普及推广。</p>
 		</td><td class="Right">
-			<img src="images/products/product_TA-261_02.jpg" alt="TA-261电表通讯接口测试器" />
+			<img src="images/products/product_TA-261.jpg" alt="TA-261电表通讯接口测试器" />
 		</td></tr>
 	</table>
 </div>

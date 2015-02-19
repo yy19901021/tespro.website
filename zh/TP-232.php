@@ -38,7 +38,7 @@
 			<h3>可选项：</h3>
 			<p>可选用螺旋线</p>
 		</td><td class="Right">
-			<img src="images/products/product_TP-232-IEC.jpg" width="300" alt="TP-232-IEC " />
+			<img src="images/products/product_TP-232.jpg" width="300" alt="TP-232-IEC " />
 			<img src="images/products/product_TP-232-ANSI_demo.jpg" width="300" alt="TP-232 Optical Probe" />
 		</td></tr>
 	</table>

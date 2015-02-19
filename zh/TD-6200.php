@@ -44,7 +44,8 @@
 			<!--<h3>波形选择：</h3>-->
 			
 		</td><td class="Right">
-			<img src="images/products/product_TD-6200.jpg" alt="TD-620 三相逆变程控电源" />
+			<img src="images/products/product_TD-6200-1.jpg" alt="TD-620 三相逆变程控电源" />
+			<img src="images/products/product_TD-6200-2.jpg" alt="TD-620 三相逆变程控电源" />
 		</td></tr>
 	</table>
 	

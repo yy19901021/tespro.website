@@ -31,7 +31,7 @@
 				</ul>
 				<p>泰易可为客户定制各类平板数字设备专用接口光电头。</p>
 			</td><td class="Right">
-				<img src="images/products/product_TP-USB-IR645.jpg" alt="TP-USB-IR645红外通讯光电头"/>
+				<img src="images/products/product_TP-645.jpg" alt="TP-USB-IR645红外通讯光电头"/>
 			</td></tr>
 		</table>
 </div>
