@@ -6,42 +6,48 @@
 	include("../includes/universal.php");
 	include("header.php");
 ?>
-<div id="Content"><!--Start of content-->
-	<div class="Products">
-		<h1>TP-12 Optical Pulse Sensing Probe for Energy Monitoring</h1>
-		<?php
-			include("breadcrumnav.php");	
-		?>
-		<table class="TwoColsLayout">
-			<tr><td class="Left">
-				<p>TP-12 is a newly developed optical probe and supports LED optical pulses sensing of energy meters. It can be used as an accessory in detecting optical pulses for power monitoring, or for solar energy system.</p>
-				
+<div id="content"><!--Start of content-->
+	<div id="" class="jumbo-title product-page-title"><!-- Jumbo Title -->
+		<div class="PageTitleBrg container">
+			<div id="tp-intro" class="row">
+			  <div class="col-md-7 col-sm-7">
+					<h1><?php echo $title ?></h1>
+					<p>TP-12 is a newly developed optical probe which can be used for meter optical pulses sensing in power monitoring system.</p>
+			  </div>
+			  <div class="col-md-4 col-sm-5">
+			  	<img src="images/banners/reading-meter.png" class="pull-right" style="margin-top: 10px; width: 260px;" />
+			  </div>
+			</div>		
+		</div>
+	</div><!-- ./Jumbo Title -->
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-8">
 				<h3>Specification</h3>
-				<table id="SpecTable" class="List">
+				<table id="SpecTable" class="table spec-table">
 					<col class="Title" span="1" />
 					<col span="1" />
-					<tr><td>Size: </td><td>TP-12 is a mini type probe with its diameter of 22mm. </td></tr>
+					<tr><td>Size: </td><td>TP-12 is a mini type probe.</td></tr>
 					<tr><td>Connector:</td><td>on customization</a></td>
 					<tr><td>Light sense: </td><td>Sensing spectrum covers from IR to light. </td></tr>
 					<tr><td>Power supply: </td><td>Powered by +3.3~5VDC </td></tr>
 					<tr><td>Output:	</td><td>Positive pulses output in TTL, is synchronized with the LED light pulses. </td></tr>
 					<tr><td>Fastening: </td><td>Can be easily attached onto any meter surface by Tespro’s easy stick-on strips, or by magnetic. </td></tr>
 					<tr><td>Indicator: </td><td>An indicator at the top lights up synchronizing with the pulses.</td></tr>
-					<tr><td>Connector:</td><td>on customization</a></td>
 				</table>
 				<h3>Options: </h3>
-				<table id="OptionTable" class="List">
+				<table id="OptionTable" class="table spec-table">
 					<col class="Title" span="1" />
 					<col span="1" />
 					<tr><td>Fastening: </td><td>Easy stick-on strips/ Magnetic adhesion</td></tr>
 					<tr><td>Cable: </td><td>Depends on order</td></tr>
 				</table>
-				
-			</td><td class="Right">
+			</div>
+			<div class="col-sm-4 right-column">
 				<img src="images/products/product_TP-12.jpg" alt="TP-12 Optical Pulse Sensing Probe for Energy Monitoring" />
-			</td></tr>
-		</table>		
-	</div>
+			</div>
+		</div><!-- ./row -->
+	</div><!-- ./container -->
 </div><!--End of content-->
 <?php include("list_probes.php") ?>
 <?php include("footer.php") ?>

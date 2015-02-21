@@ -1,5 +1,11 @@
 <?php 
-	$title = "TP-GS08 通用光电头活动支架";
+	header( "HTTP/1.1 301 Moved Permanently" );
+	header("Location: TP-GS.php");
+
+	$title = "TP-GS08";
+?>
+<?php 
+	$title = "TP-GS 通用光电头活动支架（国家发明专利）";
 ?>
 <?php 
 	$BaseUrl = "";
@@ -8,7 +14,7 @@
 ?>
 <div id="Content"><!--Start of content-->
 <div class="Products">
-	<h1>TP-GS08 通用光电头活动支架（已获国家发明专利）</h1>
+	<h1>TP-GS 通用光电头活动支架（国家发明专利）</h1>
 	<?php
 		include("breadcrumnav.php");	
 	?>

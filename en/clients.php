@@ -7,26 +7,24 @@
 	$CurrentTab = 2;
 	include("header.php");
 ?>
-
-<div id="ClientsPageTitle" class="PageTitle ">
-	<div class="PageTitleBrg container">
-	
-		<div id="tp-intro" class="row">
-		  <div class="col-md-7">
-			<h1>Customers from the World</h1>
-			<p></p>	  
-		  </div>
-		  <div class="col-md-4">
-<!-- 		  	<img src="images/banners/reading-meter.png" class="pull-right" style="margin-top: 50px; width: 340px;" /> -->
-		  </div>
-		</div>		
-	</div>
-</div>
-
 <!--Start of content-->
-<div id="Content">
+<div id="content">
+	<div id="client-page-title" class="jumbo-title">
+		<div class="PageTitleBrg container">
+			<div id="tp-intro" class="row">
+			  <div class="col-md-7">
+				<h1><?php echo $title ?></h1>
+				<p><br /><br /></p>
+			  </div>
+			  <div class="col-md-4">
+	<!-- 		  	<img src="images/banners/reading-meter.png" class="pull-right" style="margin-top: 50px; width: 340px;" /> -->
+			  </div>
+			</div>		
+		</div>
+	</div>
 	<div class="container">
-		<ul id="client-list" class="row">
+		<h1></h1>
+		<ul id="client-list">
 			<li><a href="http://www.ge.com"><img src="images/clients/ge.png" alt="GE"></a></li>
 			<li><a href="http://www.csg.cn"><img src="images/clients/south_grid.png" alt="China Southern Grid"></a></li>
 			<li><a href=""><img src="images/clients/elster.png" alt="ELSTER"></a></li>
@@ -38,5 +36,4 @@
 		</ul>
 	</div>
 </div><!--End of content-->
-
 <?php include("footer.php") ?>

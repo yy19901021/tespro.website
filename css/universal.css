@@ -70,10 +70,10 @@ table.TwoColsLayout .Left{width:100%}
 h2{border-bottom:1px solid #999999;padding-bottom:0.2em;color:#32536e;font-size:14px;font-weight:bold;text-align:left}
 h3{color:#32536e;font-size:14px;font-weight:bold}
 p{margin-top:1em;margin-bottom:1em}
-
 div.PageTitle{padding:0;background:#A6C1D4;line-height:0}
 div.PageTitleBrg{height:158px;}
 div.PageTitle img{margin:0;padding:0}
+div.PageTitle p{width: 500px; margin-left: 30px; color: #32536e;}
 div.LeftAligned{float:left}
 div.HalfWidth{width:48%;padding-right:2%}
 div.HalfWidth + div.HalfWidth{padding-left:2%;padding-right:0}
@@ -124,11 +124,12 @@ table.DataTable td input.Text{width:3em}
 /* -- DataTable Ends -- */
 /* -- Specification Table -- */
 table.List{width:100%}
-table.List th{padding:4px; font-weight: normal; text-align: left;}
+table.List th{padding:4px; font-weight: normal; text-align: left; vertical-align: top;}
 table.List td{padding:4px}
 table.List tr.even{background-color: #fff;} /* Not used by scripts for now */
 table.List tr.odd{background-color: #dde4e9;} /* Not used by scripts for now */
 table.List col.Title{width:11em;font-weight:bold}
+table.List ul{margin: 0;}
 /* -- Specification Table Ends -- */
 /* -- Probe Option Table -- */
 #ModelNameDesp thead{font-size:18px}

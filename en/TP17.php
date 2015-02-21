@@ -23,7 +23,7 @@
 					<li>Can be used for static meter accuracy testing, functions change by switching.</li>
 					<li>Power supply 5VDC, 40mA</li>
 					<li>Attached: Mechanical </li>
-					<li>Supported by TP-GS08 Versatile Probe Fixture. (Please refer to <TP-GS08 Versatile Probe Fixture> datasheet from Tespro web-site.)</li>
+					<li>Supported by TP-GS Versatile Probe Fixture. (Please refer to <TP-GS Versatile Probe Fixture> datasheet from Tespro web-site.)</li>
 				</ul>
 				
 				<h3>Options</h3>

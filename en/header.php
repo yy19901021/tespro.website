@@ -1,15 +1,12 @@
 <?php
 	$CorpName = "Tespro Electronics";
-
 	if ($title){
-		$title = $title .  " - " . $CorpName;
+		$windowTitle = $title .  " - " . $CorpName;
 	}
 	else{
-		$title = 'Tespro Electronics';
+		$title = $CorpName;
 	}
-	
 	$siteKw = "optical probe,optical head,scanning probe,scanning head,meter communication,power measurement, AMR, meter test, meter reading, landys+gyr,IEC 61007,IEC standard,ANSI standard,smart metering,IEC 1107,optical ports,ANSI C12.18,meter parameterization,ferraris meter,solid-state meter,faradized meter,static meter,Meter Communication Port";
-
 	$siteDesp = "Tespro Electronics Co.,Ltd is a professional supplier in power metering fields, providing testing instruments and equipment for meter production line. Tespro is also engaged in providing manufacturers and power utilities with supporting parts and communication accessories for meter application and AMR system.";
 ?>
 
@@ -55,13 +52,10 @@
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 	<!-- /Bootstrap -->
-	
-	
-	<script type="text/javascript" src="js/tp_scriptlib.js"></script>
 	<link rel="stylesheet" type="text/css" href="css/en.css" media="screen" />
 
 	<title>
-		<?php echo $title; ?>
+		<?php echo $windowTitle; ?>
 	</title>
 	
 </head>
@@ -84,7 +78,7 @@
 		    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 		      <ul class="nav navbar-nav">
 		        <li <?php echo $CurrentTab == 0 ? $CurrentTabString : "" ;?>><a href="en/">Home</a></li>
-				<li <?php echo $CurrentTab == 1 ? $CurrentTabString : "" ;?>><a href="en/products.php">Products</a></li>
+						<li <?php echo $CurrentTab == 1 ? $CurrentTabString : "" ;?>><a href="en/products.php">Products</a></li>
 		        <li <?php echo $CurrentTab == 2 ? $CurrentTabString : "" ;?>><a href="en/clients.php">Customers</a></li>
 		        <li <?php echo $CurrentTab == 3 ? $CurrentTabString : "" ;?>><a href="en/download.php">Download</a></li>
 		        <li <?php echo $CurrentTab == 4 ? $CurrentTabString : "" ;?>><a href="en/contact.php">Contacts Us</a></li>
