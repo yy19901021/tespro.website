@@ -15,14 +15,14 @@
 					<p>2002年泰易开创性地采用RS232接口供电，领先于国际，从此去掉附加电池盒，为使用光电头减轻包袱，应用提速。</p>
 			  </div>
 			  <div class="col-md-4 col-sm-5">
-			  	<img src="images/banners/reading-meter.png" class="pull-right" style="margin-top: 10px; width: 260px;" />
+			  	<img src="images/banners/reading-meter.png" />
 			  </div>
 			</div>		
 		</div>
 	</div><!-- ./Jumbo Title -->
 	<div class="container">
 		<div class="row">
-			<div class="col-md-8"><!-- Left Column -->
+			<div class="col-md-7"><!-- Left Column -->
 				<h3>主要用途：</h3>
 				<ul>
 					<li>电能表精度校验、维修及功能测试专用电源，精度高，可程控；</li>
@@ -36,7 +36,7 @@
 					<li>可配高精度内置标准表和误差计，标准表精度可达0.05S（可选项）；</li>
 				</ul>
 				
-				<table id="" class="table">
+				<table id="" class="table spec-table">
 					<thead>
 					<tr>
 						<th>技术参数</th>
@@ -45,17 +45,17 @@
 					</tr>
 					</thead>
 					<tbody>
-						<tr><td>	技术参数	</td><td>	有效值	</td><td>	备注	</td></tr>
-						<tr><td>	相电压	</td><td>	3x30V～3x300V	</td><td>	量程的±0.01%连续可调	</td></tr>
-						<tr><td>	相电流	</td><td>	0.01A～100A	</td><td>	量程的±0.01%连续可调	</td></tr>
-						<tr><td>	频率	</td><td>	45Hz～65Hz	</td><td>	±0.01Hz连续可调	</td></tr>
-						<tr><td>	输出波形	</td><td>	正弦波，可选输出 2-21次谐波	</td><td>		</td></tr>
-						<tr><td>	波形的失真度	</td><td>	电压，电流 ≦ 1%	</td><td>	空载谐波含量≦2%	</td></tr>
-						<tr><td>	稳定性	</td><td>	电压、电流、功率稳定性： ≦±0.05%	</td><td>		</td></tr>
-						<tr><td>	输出容量	</td><td>	电压: ≧100 VA/相,电流:≧100VA/相	</td><td>		</td></tr>
-						<tr><td>	尺寸	</td><td>	19’标准机架式，高度4U	</td><td>		</td></tr>
-						<tr><td>	重量	</td><td>	＜30kg	</td><td>	不含附件	</td></tr>
-						<tr><td>	可选附件	</td><td>	黄绿红三相U/I测试电缆（规格10*1.2M）	</td><td>	可选项	</td></tr>
+						<tr><th>技术参数	</th><td>	有效值	</td><td>	备注	</td></tr>
+						<tr><th>相电压	</th><td>	3x30V～3x300V	</td><td>	量程的±0.01%连续可调	</td></tr>
+						<tr><th>相电流	</th><td>	0.01A～100A	</td><td>	量程的±0.01%连续可调	</td></tr>
+						<tr><th>频率	</th><td>	45Hz～65Hz	</td><td>	±0.01Hz连续可调	</td></tr>
+						<tr><th>输出波形	</th><td>	正弦波，可选输出 2-21次谐波	</td><td>		</td></tr>
+						<tr><th>波形的失真度	</th><td>	电压，电流 ≦ 1%	</td><td>	空载谐波含量≦2%	</td></tr>
+						<tr><th>稳定性	</th><td>	电压、电流、功率稳定性： ≦±0.05%	</td><td>		</td></tr>
+						<tr><th>输出容量	</th><td>	电压: ≧100 VA/相,电流:≧100VA/相	</td><td>		</td></tr>
+						<tr><th>尺寸	</th><td>	19’标准机架式，高度4U	</td><td>		</td></tr>
+						<tr><th>重量	</th><td>	＜30kg	</td><td>	不含附件	</td></tr>
+						<tr><th>可选附件	</th><td>	黄绿红三相U/I测试电缆（规格10*1.2M）	</td><td>	可选项	</td></tr>
 					</tbody>
 				</table>
 			</div><!-- ./Left Column -->

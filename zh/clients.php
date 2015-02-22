@@ -1,5 +1,5 @@
 <?php 
-	$title = "泰易自动化服务来自全球的客户";
+	$title = "泰易自动化服务全球客户";
 ?>
 <?php 
 	$BaseUrl = "";
@@ -13,7 +13,7 @@
 		<div class="PageTitleBrg container">
 			<div id="tp-intro" class="row">
 			  <div class="col-md-7">
-				<h1><?php echo $title ?></h1>
+				<h1>泰易自动化<br />服务全球客户</h1>
 				<p><br /><br /></p>
 			  </div>
 			  <div class="col-md-4">

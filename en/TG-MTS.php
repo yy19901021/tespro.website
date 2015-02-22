@@ -15,14 +15,14 @@
 					<p>TG-MTS is a multi-purpose Meter Test Stand, applicable for the test of almost all square-shaped power energy meters, including Landis+Gyr, EDMI, etc.</p>
 			  </div>
 			  <div class="col-md-4 col-sm-5">
-			  	<img src="images/banners/reading-meter.png" class="pull-right" style="margin-top: 10px; width: 260px;" />
+			  	<img src="images/banners/tg-mts.png" />
 			  </div>
 			</div>		
 		</div>
 	</div><!-- ./Jumbo Title -->
 	<div class="container">
 		<div class="row">
-			<div class="col-md-8"><!-- Left Column -->
+			<div class="col-md-7"><!-- Left Column -->
 				<h3>Applications</h3>
 				<p>It is designed for the use of:</p>
 				<ul>
@@ -45,8 +45,8 @@
 				</ul>
 			</div><!-- ./Left Column -->
 			<div class="col-sm-4 right-column"><!-- Right Column -->
-				<img src="images/products/product_TG-MTS.jpg" alt="TG-MTS Meter Test Station" />
-			<img src="images/products/product_TG-MTS_demo.jpg" alt="TG-MTS Meter Test Station" />
+				<!-- <img src="images/products/product_TG-MTS.jpg" alt="TG-MTS Meter Test Station" /> -->
+				<!-- <img src="images/products/product_TG-MTS_demo.jpg" alt="TG-MTS Meter Test Station" /> -->
 			</div>
 		</div>
 	</div>

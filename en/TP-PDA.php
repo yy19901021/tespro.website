@@ -15,16 +15,16 @@
 					<p>TP-PDA is a series of probes designed with special connectors, able to work with all popular hand-held digital devices. It is widely used in on-site meter reading.</p>
 			  </div>
 			  <div class="col-md-4 col-sm-5">
-			  	<img src="images/banners/reading-meter.png" class="pull-right" style="margin-top: 10px; width: 260px;" />
+			  	<img src="images/banners/tp-pda.png" />
 			  </div>
 			</div>		
 		</div>
 	</div><!-- ./Jumbo Title -->
 	<div class="container">
 		<div class="row">
-			<div class="col-sm-8">
+			<div class="col-sm-7">
 					<h3>Models</h3>
-					<table id="ModelTable" class="table spec-table">
+					<table id="tp-pda-model-list" class="table model-table">
 						<col class="Title" span="1" />
 						<col span="1" />
 						<tbody>
@@ -39,13 +39,13 @@
 						</tbody>
 					</table>
 					<h3>Specifications:</h3>
-					<table id="SpecTable" class="List">
+					<table id="SpecTable" class="table spec-table">
 						<col class="Title" span="1">
 						<col span="1">
-						<tr><td>Connector: </td><td>With specific connector compatible with PDA terminal.</td></tr>
-						<tr><td>Powered: </td><td>From PDA terminal port</td></tr>
-						<tr><td>Cable: </td><td>1.5m</td></tr>
-						<tr><td>Environment: </td><td>Operating temperature: -15℃~80℃ (5°F ~ 176°F) </td></tr>
+						<tr><th>Connector: </th><td>With specific connector compatible with PDA terminal.</td></tr>
+						<tr><th>Powered: </th><td>From PDA terminal port</td></tr>
+						<tr><th>Cable: </th><td>1.5m</td></tr>
+						<tr><th>Environment: </th><td>Operating temperature: -15℃~80℃ (5°F ~ 176°F) </td></tr>
 						<tr>
 							<th>Maximum B.R.:</th><td>Up to 38400bps</td>
 						</tr>
@@ -55,7 +55,7 @@
 					</table>
 			</div>
 			<div class="col-sm-4 right-column">
-				<img src="images/products/product_TP-PDA.jpg" alt="TP-HHU/PDA Optical Probe">
+				<!-- <img src="images/products/product_TP-PDA.jpg" alt="TP-HHU/PDA Optical Probe"> -->
 			</div>
 		</div><!-- ./row -->
 	</div><!-- ./container -->

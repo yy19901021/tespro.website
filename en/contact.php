@@ -29,7 +29,7 @@
 					</p>
 			  </div>
 			  <div class="col-md-4 col-sm-5">
-			  	<!-- <img src="images/banners/reading-meter.png" class="pull-right" style="margin-top: 10px; width: 260px;" /> -->
+			  	<!-- <img src="images/banners/reading-meter.png" /> -->
 			  </div>
 			</div>		
 		</div>

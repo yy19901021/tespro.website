@@ -15,7 +15,7 @@
 					<p>TP-GS Versatile Probe Fixture is used for scanning probe fastening onto energy meters. TP-GS was invented by Tespro and can be widely used in accuracy test for both Ferraris and electronics meters.</p>
 			  </div>
 			  <div class="col-md-4 col-sm-5">
-			  	<img src="images/banners/reading-meter.png" class="pull-right" style="margin-top: 10px; width: 260px;" />
+			  	<img src="images/banners/reading-meter.png" />
 			  </div>
 			</div>		
 		</div>

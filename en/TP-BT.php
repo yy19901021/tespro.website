@@ -15,14 +15,14 @@
 					<p>TP-BT is a new series of Tespro optical probe family. It works with all Bluetooth enabled devices.</p>
 			  </div>
 			  <div class="col-md-4 col-sm-5">
-			  	<img src="images/banners/reading-meter.png" class="pull-right" style="margin-top: 10px; width: 260px;" />
+			  	<img src="images/banners/tp-bt.png" />
 			  </div>
 			</div>		
 		</div>
 	</div><!-- ./Jumbo Title -->
 	<div class="container">
 		<div class="row">
-			<div class="col-sm-8">
+			<div class="col-sm-7">
 				<h3>Sub-models</h3>
 				<ul>
 					<li>TP-BT-IEC: Complied with IEC62056-21 standard</li>

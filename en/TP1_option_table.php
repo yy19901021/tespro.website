@@ -15,7 +15,7 @@
 					<p>In accuracy test optical scanning probes are connected to the socket on the bench or portable instruments. As the sockets varies from different  brands of test equipments, Tespro provides different connectors for TP11, TP14, TP15, TP16 probes, so as to meet the requirements for all customers.</p>
 			  </div>
 			  <div class="col-md-4 col-sm-5">
-			  	<img src="images/banners/reading-meter.png" class="pull-right" style="margin-top: 10px; width: 260px;" />
+			  	<img src="images/banners/reading-meter.png" />
 			  </div>
 			</div>		
 		</div>
@@ -116,5 +116,6 @@
 		</div><!-- ./row -->
 	</div><!-- ./container -->
 </div><!--End of content-->
+<?php include("list_probes.php") ?>
 <?php include("footer.php") ?>
 <?php include("../includes/Google_ProbeAdsTracking.php") ?>

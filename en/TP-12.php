@@ -15,7 +15,7 @@
 					<p>TP-12 is a newly developed optical probe which can be used for meter optical pulses sensing in power monitoring system.</p>
 			  </div>
 			  <div class="col-md-4 col-sm-5">
-			  	<img src="images/banners/reading-meter.png" class="pull-right" style="margin-top: 10px; width: 260px;" />
+			  	<img src="images/banners/reading-meter.png" />
 			  </div>
 			</div>		
 		</div>
@@ -25,22 +25,18 @@
 			<div class="col-sm-8">
 				<h3>Specification</h3>
 				<table id="SpecTable" class="table spec-table">
-					<col class="Title" span="1" />
-					<col span="1" />
-					<tr><td>Size: </td><td>TP-12 is a mini type probe.</td></tr>
-					<tr><td>Connector:</td><td>on customization</a></td>
-					<tr><td>Light sense: </td><td>Sensing spectrum covers from IR to light. </td></tr>
-					<tr><td>Power supply: </td><td>Powered by +3.3~5VDC </td></tr>
-					<tr><td>Output:	</td><td>Positive pulses output in TTL, is synchronized with the LED light pulses. </td></tr>
-					<tr><td>Fastening: </td><td>Can be easily attached onto any meter surface by Tespro’s easy stick-on strips, or by magnetic. </td></tr>
-					<tr><td>Indicator: </td><td>An indicator at the top lights up synchronizing with the pulses.</td></tr>
+					<tr><th>Size: </th><td>TP-12 is a mini type probe.</td></tr>
+					<tr><th>Connector:</th><td>on customization</a></td>
+					<tr><th>Light sense: </th><td>Sensing spectrum covers from IR to light. </td></tr>
+					<tr><th>Power supply: </th><td>Powered by +3.3~5VDC </td></tr>
+					<tr><th>Output:	</th><td>Positive pulses output in TTL, is synchronized with the LED light pulses. </td></tr>
+					<tr><th>Fastening: </th><td>Can be easily attached onto any meter surface by Tespro’s easy stick-on strips, or by magnetic. </td></tr>
+					<tr><th>Indicator: </th><td>An indicator at the top lights up synchronizing with the pulses.</td></tr>
 				</table>
 				<h3>Options: </h3>
 				<table id="OptionTable" class="table spec-table">
-					<col class="Title" span="1" />
-					<col span="1" />
-					<tr><td>Fastening: </td><td>Easy stick-on strips/ Magnetic adhesion</td></tr>
-					<tr><td>Cable: </td><td>Depends on order</td></tr>
+					<tr><th>Fastening: </th><td>Easy stick-on strips/ Magnetic adhesion</td></tr>
+					<tr><th>Cable: </th><td>Depends on order</td></tr>
 				</table>
 			</div>
 			<div class="col-sm-4 right-column">

@@ -1,5 +1,5 @@
 <?php 
-	$title = "Tespro's Worldwide Clients";
+	$title = "Our Clients From The World";
 ?>
 <?php 
 	$BaseUrl = "";

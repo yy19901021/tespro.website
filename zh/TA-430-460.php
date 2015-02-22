@@ -15,18 +15,18 @@
 					<p>电能表中试阶段专用测试设备，电表类产品开发的有力工具，提升产品研发水平和效率</p>
 			  </div>
 			  <div class="col-md-4 col-sm-5">
-			  	<img src="images/banners/reading-meter.png" class="pull-right" style="margin-top: 10px; width: 260px;" />
+			  	<!-- <img src="images/banners/reading-meter.png" /> -->
 			  </div>
 			</div>		
 		</div>
 	</div><!-- ./Jumbo Title -->
 	<div class="container">
 		<div class="row">
-			<div class="col-md-8"><!-- Left Column -->
+			<div class="col-md-7"><!-- Left Column -->
 				<h3>主要用途：</h3>
 				<ul>
-					<li>提供电能表、负控终端类产品研发仿真，高效多功能的测试平台</li>
-					<li>对电能表、负控终端类样品进行功能综合评估，故障检测、应用分析等</li>
+					<li>提供电能表、负控终端类产品研发仿真，高效多功能的测试平台；</li>
+					<li>对电能表、负控终端类样品进行功能综合评估，故障检测、应用分析等；</li>
 				</ul>
 				<h3>功能特点：</h3>
 				<ul>

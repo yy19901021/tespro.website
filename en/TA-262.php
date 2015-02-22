@@ -15,14 +15,14 @@
 					<p>In Automatic Meter Reading (AMR) applications, if the readout operation cannot be finished properly, it is always a challenge to diagnose the root cause. Does the problem come from the interface or the communication cable？ By using our patented TA-262 Meter Communication Port Tester an operator can test the com-port of a meter easily and quickly, then the problem can be immediately determined. Please see the detailed introduction of TA-262. </p>
 			  </div>
 			  <div class="col-md-4 col-sm-5">
-			  	<img src="images/banners/reading-meter.png" class="pull-right" style="margin-top: 10px; width: 260px;" />
+			  	<img src="images/banners/ta-262.png" />
 			  </div>
 			</div>		
 		</div>
 	</div><!-- ./Jumbo Title -->
 	<div class="container">
 		<div class="row">
-			<div class="col-md-8"><!-- Left Column -->				
+			<div class="col-md-7"><!-- Left Column -->				
 				<h3>Applications</h3>
 				<ul>
 					<li>The TA-262 tester can be used for communication port functionality test.</li>
@@ -42,8 +42,8 @@
 				<p class="HighLight">TA-261 is originally designed and manufactured by Tespro Electronics Co., Ltd.</p>
 			</div><!-- ./Left Column -->
 			<div class="col-sm-4 right-column"><!-- Right Column -->
-				<img src="images/products/product_TA-262.jpg" alt="TA-262 Communication Port Tester" />
-				<img src="images/products/product_TA-262_zh.png" alt="TA-262 Communication Port Tester" />
+				<img src="images/products/ta-262-01.jpg" alt="TA-262 Communication Port Tester" />
+				<!-- <img src="images/products/product_TA-262_zh.png" alt="TA-262 Communication Port Tester" /> -->
 			</div>
 		</div>
 	</div>

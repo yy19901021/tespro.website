@@ -15,39 +15,27 @@
 					<p>Assembled to meter test bench for accuracy testing.</p>
 			  </div>
 			  <div class="col-md-4 col-sm-5">
-			  	<img src="images/banners/reading-meter.png" class="pull-right" style="margin-top: 10px; width: 260px;" />
+			  	<img src="images/banners/tp-11.png" />
 			  </div>
 			</div>		
 		</div>
 	</div><!-- ./Jumbo Title -->
 	<div class="container">
 		<div class="row">
-			<div class="col-sm-8">
+			<div class="col-sm-7">
 				<h3>Specifications</h3>
 				<table id="SpecTable" class="table spec-table">
-					<col class="Title" span="1" />
-					<col span="1" />
-					<tr><td>Light sense:</td><td>Sense both light and IR(Infrared) light pulses emitted by LED, and then convert them to electric pulses.</td>
-					<tr>
-						<td>Power supply: </td><td>DC 5V±10%</td>
-					</tr>
-					<tr>
-						<td>Outlet cable: </td><td>Straight-line cable, 55cm</td>
-					</tr>
-					<tr>
-						<td>Fastening:</td><td>Magnetic adhesion</td>
-					</tr>
-					<tr>
-						<td>Mechanical:</td><td>Impact ABS housing</td>
-					</tr>
-					<tr>
-						<td>Probe Fixture:</td><td>TP-GS fixture can be used for probe fixing onto any kind of meters</td>
-					</tr>
-					<tr><td>Connector:</td><td>Optional item from <a href="en/TP1_option_table.php">Table of Connectors for Optical Scanning Probes</a></td>
+					<tr><th>Light sense:</th><td>Sense both light and IR(Infrared) light pulses emitted by LED, and then convert them to electric pulses.</td>
+					<tr><th>Power supply: </th><td>DC 5V±10%</td></tr>
+					<tr><th>Outlet cable: </th><td>Straight-line cable, 55cm</td></tr>
+					<tr><th>Fastening:</th><td>Magnetic adhesion</td></tr>
+					<tr><th>Mechanical:</th><td>Impact ABS housing</td></tr>
+					<tr><th>Probe Fixture:</th><td>TP-GS fixture can be used for probe fixing onto any kind of meters</td></tr>
+					<tr><th>Connector:</th><td>Optional item from <a href="en/TP1_option_table.php">Table of Connectors for Optical Scanning Probes</a></td>
 				</table>
 			</div>
 			<div class="col-sm-4 right-column">
-				<img src="images/products/product_TP-11.jpg" alt="TP-11 Optical Scanning Probe for Test-bench Assembled" />
+				<!-- <img src="images/products/product_TP-11.jpg" alt="TP-11 Optical Scanning Probe for Test-bench Assembled" /> -->
 			</div>
 		</div><!-- ./row -->
 	</div><!-- ./container -->

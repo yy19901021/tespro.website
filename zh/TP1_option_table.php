@@ -15,14 +15,14 @@
 					<!-- <p>2002年泰易开创性地采用RS232接口供电，领先于国际，从此去掉附加电池盒，为使用光电头减轻包袱，应用提速。</p> -->
 			  </div>
 			  <div class="col-md-4 col-sm-5">
-			  	<img src="images/banners/reading-meter.png" class="pull-right" style="margin-top: 10px; width: 260px;" />
+			  	<!-- <img src="images/banners/reading-meter.png" /> -->
 			  </div>
 			</div>		
 		</div>
 	</div><!-- ./Jumbo Title -->
 	<div class="container">
 		<div class="row">
-			<div class="col-md-8"><!-- Left Column -->
+			<div class="col-md-7"><!-- Left Column -->
 				<p>泰易TP－1x系列电能表校验光电头系列，可以按照客户的要求定制、更换插头、引线，以达到更满意的使用效果。TP-1x系列包含以下型号：</p>
 				<ul>
 					<li><a href="zh/TP-11.php">TP-11 电表校验光电头</a></li>

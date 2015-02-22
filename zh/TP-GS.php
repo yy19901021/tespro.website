@@ -1,5 +1,5 @@
 <?php 
-	$title = "TP-GS 通用光电头活动支架（国家发明专利）";
+	$title = "TP-GS 通用光电头活动支架";
 ?>
 <?php 
 	$BaseUrl = "";
@@ -12,21 +12,26 @@
 			<div id="tp-intro" class="row">
 			  <div class="col-md-7 col-sm-7">
 					<h1><?php echo $title ?></h1>
-					<!-- <p>2002年泰易开创性地采用RS232接口供电，领先于国际，从此去掉附加电池盒，为使用光电头减轻包袱，应用提速。</p> -->
+					<p>国家发明专利</p>
 			  </div>
 			  <div class="col-md-4 col-sm-5">
-			  	<img src="images/banners/reading-meter.png" class="pull-right" style="margin-top: 10px; width: 260px;" />
+			  	<img src="images/banners/reading-meter.png" />
 			  </div>
 			</div>		
 		</div>
 	</div><!-- ./Jumbo Title -->
 	<div class="container">
 		<div class="row">
-			<div class="col-md-8"><!-- Left Column -->
+			<div class="col-md-7"><!-- Left Column -->
 				<h3>主要用途：</h3>
 				<ul>
 					<li>支持校验光电头附着在电表上，作为电表校验的配套工具。</li>
 					<li>TP-17，TP-18校验光电头的必备配套件。</li>
+				</ul>
+				<h3>子型号</h3>
+				<ul>
+					<li>TP-GS2：2015新型号，支持泰易TP-1x 所有光电头，包括TP-17C；</li>
+					<li>TP-GS08：支持泰易TP-1x 所有光电头， TP-17C除外；</li>
 				</ul>
 				<h3>技术特点：</h3>
 				<ul>
@@ -44,8 +49,8 @@
 				</ul>
 			</div><!-- ./Left Column -->
 			<div class="col-sm-4 right-column"><!-- Right Column -->
-				<img src="images/products/product_TP-GS08.jpg" alt="TP-GS 通用光电头活动支架" />
-				<img src="images/products/product_TP-GS08_demo.jpg" alt="TP-GS 通用光电头活动支架" />
+				<!-- <img src="images/products/product_TP-GS08.jpg" alt="TP-GS 通用光电头活动支架" /> -->
+				<!-- <img src="images/products/product_TP-GS08_demo.jpg" alt="TP-GS 通用光电头活动支架" /> -->
 			</div>
 		</div>
 	</div>

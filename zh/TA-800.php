@@ -22,7 +22,7 @@
 	</div><!-- ./Jumbo Title -->
 	<div class="container">
 		<div class="row">
-			<div class="col-md-8"><!-- Left Column -->
+			<div class="col-md-7"><!-- Left Column -->
 				<h3>主要用途：</h3>
 				<ul>
 					<li>电能表现场数据抄读、故障诊断和分析；</li>

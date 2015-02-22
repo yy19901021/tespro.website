@@ -1,5 +1,5 @@
 <?php 
-	$title = "BT蓝牙光电头";
+	$title = "TP-BT蓝牙光电头";
 ?>
 <?php 
 	$BaseUrl = "";
@@ -15,14 +15,14 @@
 					<!-- <p>2002年泰易开创性地采用RS232接口供电，领先于国际，从此去掉附加电池盒，为使用光电头减轻包袱，应用提速。</p> -->
 			  </div>
 			  <div class="col-md-4 col-sm-5">
-			  	<img src="images/banners/reading-meter.png" class="pull-right" style="margin-top: 10px; width: 260px;" />
+			  	<img src="images/banners/tp-bt.png" />
 			  </div>
 			</div>		
 		</div>
 	</div><!-- ./Jumbo Title -->
 	<div class="container">
 		<div class="row">
-			<div class="col-md-8"><!-- Left Column -->
+			<div class="col-md-7"><!-- Left Column -->
 				<h3>主要用途：</h3>
 				<p>用于需要传输电表数据，但是又不能使用线缆连接，却具备蓝牙通讯接口的情况。</p>
 				<h3>主要型号：</h3>

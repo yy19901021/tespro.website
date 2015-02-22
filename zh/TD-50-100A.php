@@ -15,14 +15,14 @@
 					<!-- <p>2002年泰易开创性地采用RS232接口供电，领先于国际，从此去掉附加电池盒，为使用光电头减轻包袱，应用提速。</p> -->
 			  </div>
 			  <div class="col-md-4 col-sm-5">
-			  	<img src="images/banners/reading-meter.png" class="pull-right" style="margin-top: 10px; width: 260px;" />
+			  	<!-- <img src="images/banners/reading-meter.png" /> -->
 			  </div>
 			</div>		
 		</div>
 	</div><!-- ./Jumbo Title -->
 	<div class="container">
 		<div class="row">
-			<div class="col-md-8"><!-- Left Column -->
+			<div class="col-md-7"><!-- Left Column -->
 				<h3>主要用途：</h3>
 				<p>为了满足电表的某些特定测试要求而设计，主要用于电表大电流走字老化等测试，既是三相走字电源，又是电表特殊测试装置。</p>
 				<h3>主要特点：</h3>
@@ -32,7 +32,7 @@
 					<li>提供了两种电压同时输出：58V/220V；</li>
 					<li>电压输出容量50W/相，电流输出容量200W/相；</li>
 					<li>设备配置有多种安全监测，对漏电、短路、过载、超温具备报警和处理能力；</li>
-					<li>设备安装有脚轮，移动方便；</li>
+					<li>设备安装有脚轮，移动方便。</li>
 				</ul>
 			</div><!-- ./Left Column -->
 			<div class="col-sm-4 right-column"><!-- Right Column -->
