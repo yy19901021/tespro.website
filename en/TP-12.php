@@ -33,7 +33,7 @@
 					<tr><th>Fastening: </th><td>Can be easily attached onto any meter surface by Tespro’s easy stick-on strips, or by magnetic. </td></tr>
 					<tr><th>Indicator: </th><td>An indicator at the top lights up synchronizing with the pulses.</td></tr>
 				</table>
-				<h3>Options: </h3>
+				<h3>Options</h3>
 				<table id="OptionTable" class="table spec-table">
 					<tr><th>Fastening: </th><td>Easy stick-on strips/ Magnetic adhesion</td></tr>
 					<tr><th>Cable: </th><td>Depends on order</td></tr>

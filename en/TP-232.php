@@ -12,7 +12,7 @@
 			<div id="tp-intro" class="row">
 			  <div class="col-md-7 col-sm-7">
 					<h1><?php echo $title ?></h1>
-					<p>Tespro designed TP-232 optical probe to be powered from interface RS232 in 2002, eliminating battery as power. With years’ optimization, Tespro TP-232 has been proven to be reliable in application. It is widely used in meter parameterization and data reading, to be an ideal device for both utilities and manufacturers.</p>
+					<p>In 2002 Tespro designed TP-232 optical probe to be powered from RS232 interface. Since then by elimination of battery-box Tespro optical probe has been proven more convenience and reliable for on-site and laboratory application.</p>
 					<!-- <p>It works  with gas meter and thermal meter. </p> -->
 			  </div>
 			  <div class="col-md-4 col-sm-5">
@@ -70,7 +70,7 @@
 					<col class="title" span="1" />
 					<col span="1" />
 					<tbody class="table-striped">
-						<tr><th>Extended Temp. Cable:</th><td>-35&deg;C ~ 80&deg;C (31&deg;F - 176&deg;F)<br />Spiral cable is available.</td></tr>
+						<tr><th>Extended Temp. Cable:</th><td>-35&deg;C ~ 80&deg;C (-31&deg;F - 176&deg;F)<br />Spiral cable is available.</td></tr>
 						<tr><th>Cable:</th><td>Extended length upon request.</td></tr>
 					</tbody>
 				</table>
@@ -78,6 +78,7 @@
 			<div class="col-sm-4 right-column"><!-- Right Column -->
 				<!-- <img src="images/products/product_TP-232.jpg" alt="TP-232-IEC " /> -->
 				<img src="images/products/product_TP-232-ANSI_demo.jpg" alt="TP-232 Optical Probe" />
+				<img src="images/products/tp-232-01.jpg" alt="TP-232 Optical Probe" />
 			</div>
 		</div>
 	</div>

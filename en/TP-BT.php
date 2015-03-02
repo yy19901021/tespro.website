@@ -29,7 +29,7 @@
 					<li>TP-BT-ANSI-N: Complied with ANSI C12.18 standard</li>
 					<li>TP-BT-ANSI-S: Complied with ANSI C12.18 optical type two standard</li>
 				</ul>
-				<h3>Technical Specification</h3>
+				<h3>Specification</h3>
 				<table id="SpecTable" class="table spec-table">
 					<col class="Title" span="1" />
 					<col span="1" />
@@ -37,12 +37,13 @@
 						<tr><th>Bluetooth Standard: </td><td>Complied with 4.0/2.1</td></tr>
 						<tr><th>Meter protocol standard: </td><td>Complied with IEC62056-21 or ANSI C12.18</td></tr>
 						<tr><th>Max distance of communication: </td><td>10 Meters</td></tr>
-						<tr><th>Battery: </td><td>Support 24 hours operation when battery in full.</td></tr>
+						<tr><th>Battery: </td><td>Supports 24 hours operation when battery in full.</td></tr>
 						<tr><th>Indicators: </td>
 							<td>
 								<ul>
 									<li>LED red: Indicating battery in charging</li>
 									<li>LED green: Indicating power on and the energy available in battery</li>
+									<li>LED Blue: indicating communication state</li>
 								</ul>
 							</td>
 						</tr>

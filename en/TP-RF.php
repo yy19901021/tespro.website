@@ -33,7 +33,7 @@
 				<ul>
 					<li>Support a variety of micro power wireless communication mode</li>
 				</ul>
-				<h3>Technical Specifications</h3>
+				<h3>Specifications</h3>
 				<table id="ModelTable" class="table spec-table">
 					<col class="Title" span="1" />
 					<col span="1" />
@@ -46,6 +46,7 @@
 								<ul>
 									<li>LED red: Indicating battery in charging</li>
 									<li>LED green: Indicating power on and the energy available in battery</li>
+									<li>LED Blue: indicating communication state</li>
 								</ul>
 							</td>
 						</tr>

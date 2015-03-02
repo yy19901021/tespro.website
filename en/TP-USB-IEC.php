@@ -48,7 +48,7 @@
 					<col span="1" />
 					<tbody>
 					<tr><th>Outlet Cable:</th><td>3 meters straight cable.</td></tr>
-					<tr><th>Extended Temperature:</th><td>-35&deg;C ~ 80&deg;C (31&deg;F - 176&deg;F)</td></tr>
+					<tr><th>Extended Temperature:</th><td>-35&deg;C ~ 80&deg;C (-31&deg;F - 176&deg;F)</td></tr>
 					<tr><th>Color:</th><td>Grey or bluish-grey.</td></tr>
 					</tbody>
 				</table>

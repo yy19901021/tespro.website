@@ -30,7 +30,7 @@
 					<li>Can be used to sense Active/Reactive-pulse-sources for calibrating A/R energy at the same time.</li>
 					<li>To shield background light better. </li>
 				</ul>
-				<h3>Technical Specifications:</h3>
+				<h3>Specifications:</h3>
 					<table id="SpecTable" class="table spec-table">
 					<col class="Title" span="1" />
 					<col span="1" />

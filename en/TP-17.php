@@ -23,19 +23,19 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-sm-8">
-				<h3>Application: </h3>
+				<h3>Application</h3>
 				<ul>
 					<li>Can be used for both Ferraris and statistics meters accuracy testing, functions switching by push button.</li>
 					<li>Can be used as accessory for test bench, or portable instrument on-site application.</li>
 				</ul>
-				<h3>Sub-models:</h3>
+				<h3>Sub-models</h3>
 				<ul>
 					<li>TP-17A: Normal version</li>
 					<li>TP-17B: with sensitivity adjustment</li>
 					<li>TP-17C: a new version released in 2015 with sensitive adjust knob, and attached to the new fixture of TP-GS2.</li>
 				</ul>
 				
-				<h3>Technical Specifications:</h3>
+				<h3>Specifications</h3>
 				<table id="SpecTable" class="table spec-table">
 					<col class="Title" span="1" />
 					<col span="1" />

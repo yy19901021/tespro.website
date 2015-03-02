@@ -12,7 +12,7 @@
 			<div id="tp-intro" class="row">
 			  <div class="col-md-7 col-sm-7">
 					<h1><?php echo $title ?></h1>
-					<p>TP-PDA is a series of probes designed with special connectors, able to work with all popular hand-held digital devices. It is widely used in on-site meter reading.</p>
+					<p>TP-PDA is a series of probes designed with special connectors, able to work with all popular hand-held digital devices. It is widely used in the on-site meter reading.</p>
 			  </div>
 			  <div class="col-md-4 col-sm-5">
 			  	<img src="images/banners/tp-pda.png" />
@@ -23,7 +23,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-sm-7">
-					<h3>Models</h3>
+					<h3>Sub-models</h3>
 					<table id="tp-pda-model-list" class="table model-table">
 						<col class="Title" span="1" />
 						<col span="1" />
@@ -31,14 +31,13 @@
 							<tr><th>TP-PDA-IEC-D9700 </th><td>for Dophin 9700</td></tr>
 							<tr><th>TP-PDA-IEC-MC75 </th><td>for Motorola MC75xx</td></tr>
 							<tr><th>TP-PDA-IEC-T </th><td>for Tespro TA-262</td></tr>
+							<tr><th>TP-PDA-ANSI-D9700</th><td></td></tr>
+							<tr><th>TP-PDA-IEC-iPad</th><td></td></tr>
 							<tr><th>TP-HTTP  </th><td>for Zhenzhong HHU Model 900</td></tr>
 							<tr><th>TP-HTTJ</th><td>for JieBao HHU Model 9800/A188</td></tr>
-							<tr><th>TP-PDA-ANSI-D9700</th><td></td></tr>
-							<tr><th>TP-PDA-IEC-MC75xx</th><td></td></tr>
-							<tr><th>TP-PDA-IEC-iPad</th><td></td></tr>
 						</tbody>
 					</table>
-					<h3>Specifications:</h3>
+					<h3>Specifications</h3>
 					<table id="SpecTable" class="table spec-table">
 						<col class="Title" span="1">
 						<col span="1">
@@ -53,6 +52,9 @@
 							<th>Fastening:</th><td>Strong magnetic adhesion complied with IEC62056-21 or ANSI C12.18</td>
 						</tr>
 					</table>
+
+					<h3>Option</h3>
+					<p>On customized orders compliant with specific PDA welcome.”</p>
 			</div>
 			<div class="col-sm-4 right-column">
 				<!-- <img src="images/products/product_TP-PDA.jpg" alt="TP-HHU/PDA Optical Probe"> -->

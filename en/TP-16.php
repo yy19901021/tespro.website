@@ -25,13 +25,13 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-sm-7">
-				<h3>Features:</h3>
+				<h3>Features</h3>
 				<ul>
 					<li>TP-16 is specially designed for portable test instrument, can be used on-site or under sunshine environment. </li>
 					<li>TP-16-PRS and TP-16-PWS are designed with dedicated connector to comply with the pin-
 	out specs of PRS1.3 & PWS1.3 respectively.</li>
 				</ul>
-				<h3>Specifications:</h3>
+				<h3>Specifications</h3>
 				<table id="SpecTable" class="table spec-table">
 					<tr><th>Light sense:</th><td>TP-16 optical scanning probe can sense both light and IR pulses emitted by LED, and convert them to electric pulses.</td>
 					<tr><th>Power supply:</th><td>DC 12-24V</td>

@@ -29,7 +29,7 @@
 						<li>The optical pulse is divided by 4 to electric pulse, this mode is designed for very high meter constant.</li>
 					</ul>
 				</p>
-				<h3>Features:</h3>
+				<h3>Features</h3>
 				<table id="SpecTable" class="table spec-table">
 					<col class="title" span="1" />
 					<col span="1" />
