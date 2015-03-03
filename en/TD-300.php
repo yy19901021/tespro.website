@@ -15,7 +15,7 @@
 		<table class="TwoColsLayout">
 			<tr><td class="Left">
 				<p>TD-300 Series Three-phase Meter Mini Power Supply is a newly released device, designed and manufactured by Tespro. The Main applications are for meter R&D, production & maintenance, and meter functional testing.</p>
-				<h3>Sub-Models</h3>
+				<h3>Sub-models</h3>
 				<table id="ModelTable" class="List">
 					<col class="Title" span="1" />
 					<col span="1" />

@@ -18,7 +18,7 @@
 		<table class="TwoColsLayout">
 			<tr><td class="Left">
 				<p>TP-232-ANSI is an optical probe with infrared and RS232 interfaces. It's widely applied to meter communication, such as data reading, parameterization, in production line, on-site service and more.</p>
-				<h3>Sub-Models</h3>
+				<h3>Sub-models</h3>
 				<table id="ModelTable" class="List">
 					<col class="Title" span="1" />
 					<col span="1" />

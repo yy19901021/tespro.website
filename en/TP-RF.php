@@ -23,7 +23,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-sm-7">
-				<h3>Sub-Models</h3>
+				<h3>Sub-models</h3>
 				<ul>
 					<li>TP-RF-IEC:      Compliant with IEC 62056-21 standard</li>
 					<li>TP-RF-ANSI-N:	Complied with ANSI C12.18 standard</li>
