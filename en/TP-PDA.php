@@ -23,7 +23,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-sm-7">
-					<h3>Sub-models</h3>
+					<h3>Sub-Models</h3>
 					<table id="tp-pda-model-list" class="table model-table">
 						<col class="Title" span="1" />
 						<col span="1" />

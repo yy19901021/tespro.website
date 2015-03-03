@@ -28,7 +28,7 @@
 					<li>Can be used for both Ferraris and statistics meters accuracy testing, functions switching by push button.</li>
 					<li>Can be used as accessory for test bench, or portable instrument on-site application.</li>
 				</ul>
-				<h3>Sub-models</h3>
+				<h3>Sub-Models</h3>
 				<ul>
 					<li>TP-17A: Normal version</li>
 					<li>TP-17B: with sensitivity adjustment</li>

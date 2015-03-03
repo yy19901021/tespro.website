@@ -24,7 +24,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-7"><!-- Left Column -->
-				<h3>Sub-models</h3>
+				<h3>Sub-Models</h3>
 				<ul>
 					<li>TP-232-IEC</li>
 					<li>TP-232-ANSI-N: Compatible with ANSI C12.18 (Normal Standard)</li>

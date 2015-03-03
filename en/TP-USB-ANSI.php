@@ -15,7 +15,7 @@
 		<table class="TwoColsLayout">
 			<tr><td class="Left">
 				<p>TP-USB-ANSI optical is an optical probe with USB interface, widely applied to meter communication, such as data reading, parameterization, in production line, on-site service. </p>
-				<h3>Sub-models</h3>
+				<h3>Sub-Models</h3>
 				<table id="ModelTable" class="List">
 					<col class="Title" span="1" />
 					<col span="1" />

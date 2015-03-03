@@ -27,9 +27,9 @@
 			<div class="col-sm-12">
 				<h3>Application</h3>
 				<p>TP-USB optical probe is designed by Tespro in 2005 and patented. Now it is widely used in electric energy meter parameterization and data reading, to be an ideal device for both utilities and manufacturers. 
-It generates some sub-models and one works with gas meter and thermal meter. </p>
+It generates some Sub-Models and one works with gas meter and thermal meter. </p>
 				<p>It works  with gas meter and thermal meter. </p>
-				<h3>Sub-models</h3>
+				<h3>Sub-Models</h3>
 				<ul>
 					<li>TP-USB-IEC</li>
 					<li>TP-USB-ANSI-N: Compatible with ANSI C12.18 (Normal Standard)</li>
