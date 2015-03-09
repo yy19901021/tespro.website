@@ -33,8 +33,8 @@
 							<tr><th>TP-PDA-IEC-T </th><td>for Tespro TA-262</td></tr>
 							<tr><th>TP-PDA-ANSI-D9700</th><td></td></tr>
 							<tr><th>TP-PDA-IEC-iPad</th><td></td></tr>
-							<tr><th>TP-HTTP  </th><td>for Zhenzhong HHU Model 900</td></tr>
-							<tr><th>TP-HTTJ</th><td>for JieBao HHU Model 9800/A188</td></tr>
+							<tr><th>TP-PDA-HTTP-IEC</th><td>for Zhenzhong HHU Model 900</td></tr>
+							<tr><th>TP-PDA-HTTJ-IEC</th><td>for JieBao HHU Model 9800/A188</td></tr>
 						</tbody>
 					</table>
 					<h3>Specifications</h3>
