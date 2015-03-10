@@ -51,7 +51,7 @@
 					<li><a href="zh/TP-15.php">TP-15 双频校验光电头</a></li>
 					<li><a href="zh/TP-16.php">TP-16 现校仪光电头</a></li>
 					<li><a href="zh/TP-17.php">TP-17 机械/电子表双功能校验光电头</a></li>
-					<li><a href="zh/TP-18.php">TP-18 窄型校验光电头</a></li>
+					<li><a href="zh/TP-18.php">TP-18 有功/无功双校验光电头</a></li>
 					<li><a href="zh/TP-GS.php">TP-GS 通用光电头活动支架</a></li>
 					<!--<li><a href="zh/TP-11-EMC.php">TP-11-EMC 抗扰型EMC实验光电头</a></li>-->
 					<li><a href="zh/TP1_option_table.php">校验光电头插头选用表</a></li>
