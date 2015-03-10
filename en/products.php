@@ -78,7 +78,7 @@
 				</ul>
 				<h4 title="Testing Devices">Accesory for Optical Probes</h4>
 				<ul>
-					<li><a href="en/TP-GS08.php">TP-GS08 Versatile Probe Fixture</a></li>
+					<li><a href="en/TP-GS08.php">TP-GS08 Versatile Probe Bracket</a></li>
 					<li><a href="en/TP1_option_table.php">Sample List of Connectors of Optical Scanning Probes</a></li>
 				</ul>
 			</div>

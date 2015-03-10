@@ -28,13 +28,15 @@
 						<col class="Title" span="1" />
 						<col span="1" />
 						<tbody>
-							<tr><th>TP-PDA-IEC-D9700 </th><td>for Dophin 9700</td></tr>
-							<tr><th>TP-PDA-IEC-MC75 </th><td>for Motorola MC75xx</td></tr>
-							<tr><th>TP-PDA-IEC-T </th><td>for Tespro TA-262</td></tr>
-							<tr><th>TP-PDA-ANSI-D9700</th><td></td></tr>
-							<tr><th>TP-PDA-IEC-iPad</th><td></td></tr>
-							<tr><th>TP-PDA-HTTP-IEC</th><td>for Zhenzhong HHU Model 900</td></tr>
-							<tr><th>TP-PDA-HTTJ-IEC</th><td>for JieBao HHU Model 9800/A188</td></tr>
+							<tr><th>TP-PDA-IEC-DP97</th><td>    for Dolphin 9700</td></tr>
+							<tr><th>TP-PDA-ANSI-DP97</th><td> for Dolphin 9700</td></tr>
+							<tr><th>TP-PDA-IEC-MC75</th><td>   for Motorola MC75xx</td></tr>
+							<tr><th>TP-PDA-ANSI-MC75</th><td>for Motorola MC75xx</td></tr>
+							<tr><th>TP-PDA-IEC-iPad</th><td>      for Apple iPad</td></tr>
+							<tr><th>TP-PDA-IEC-T</th><td>           for Tespro TA-262, IEC standard</td></tr>
+							<tr><th>TP-PDA-IEC-645</th><td>       for Tespro TA-262, DLT/645 standard</td></tr>
+							<tr><th>TP-PDA-IEC-HTTP</th><td>    for Zhenzhong HHU Model 900</td></tr>
+							<tr><th>TP-PDA-IEC-HTTJ</th><td>for JieBao HHU Model 9800/A188</td></tr>
 						</tbody>
 					</table>
 					<h3>Specifications</h3>
@@ -54,7 +56,7 @@
 					</table>
 
 					<h3>Option</h3>
-					<p>On customized orders compliant with specific PDA welcome.”</p>
+					<p>On customized orders compliant with specific PDA welcome.</p>
 			</div>
 			<div class="col-sm-4 right-column">
 				<!-- <img src="images/products/product_TP-PDA.jpg" alt="TP-HHU/PDA Optical Probe"> -->

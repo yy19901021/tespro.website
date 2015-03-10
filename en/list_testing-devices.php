@@ -1,13 +1,19 @@
-<div id="ProductList" class="cat-footer">
-<h1>Meter Test Stations</h1>
-	<div class="Products">
-		<dl>
-			<dt><a href="en/TG-MTSL.php">TG-MTSL Energy Meter Test Station</a></dt>
-			<dd></dd>
-		</dl>
-		<dl>
-			<dt><a href="en/TG-MTS.php">TG-MTS Meter Test Station</a></dt>
-			<dd></dd>
-		</dl>
+<div id="product-list" class="fluid-container cat-footer">
+	<div class="container cat-footer">
+		<div class="row">
+			<div class="col-sm-6">
+				<h4 title="Testing Instruments">Testing Instruments</h4>
+				<ul>
+					<li><a href="en/TA-262.php">TA-262 Portable Tester for Meter Com-port failure</a></li>
+				</ul>
+			</div>
+			<div class="col-sm-6">
+				<h4 title="Meter Test Stand and Jigs">Meter Test Stand and Jigs</h4>
+				<ul>
+					<li><a href="en/TG-MTS.php">TG-MTS Portable Meter Test Stand</a></li>
+					<!-- <li>TG-MS-3P 3-phase meter Maintenance Stand</li> -->
+				</ul>
+			</div>
+		</div>
 	</div>
 </div>

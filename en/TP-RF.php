@@ -38,7 +38,7 @@
 					<col class="Title" span="1" />
 					<col span="1" />
 					<tbody>
-						<tr><th>Max	com-distance: </th><td>100 meters</td></tr>
+						<tr><th>Distance: </th><td>100 meters</td></tr>
 						<tr><th>Radio frequency: </th><td>400MHz/900MHz/2.4GHz available</td></tr>
 						<tr><th>Battery life: </th><td>Up to 24 hours when battery in full</td></tr>
 						<tr><th>Indicators: </td>

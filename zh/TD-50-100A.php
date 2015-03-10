@@ -34,6 +34,7 @@
 					<li>设备配置有多种安全监测，对漏电、短路、过载、超温具备报警和处理能力；</li>
 					<li>设备安装有脚轮，移动方便。</li>
 				</ul>
+				<p>客户定制参数可选</p>
 			</div><!-- ./Left Column -->
 			<div class="col-sm-4 right-column"><!-- Right Column -->
 				<img src="images/products/product_TD-50-100A.jpg" alt="TD-50-100A 大电流电表负载特性测试仪 " />

@@ -34,9 +34,9 @@
 					<col class="Title" span="1" />
 					<col span="1" />
 					<tbody>
-						<tr><th>Bluetooth Standard: </td><td>Complied with 4.0/2.1</td></tr>
-						<tr><th>Meter protocol standard: </td><td>Complied with IEC62056-21 or ANSI C12.18</td></tr>
-						<tr><th>Max distance of communication: </td><td>10 Meters</td></tr>
+						<tr><th>Bluetooth: </td><td>Complied with 4.0/2.1</td></tr>
+						<tr><th>Meter protocol: </td><td>Complied with IEC62056-21 or ANSI C12.18</td></tr>
+						<tr><th>Distance: </td><td>10 Meters</td></tr>
 						<tr><th>Battery: </td><td>Supports 24 hours operation when battery in full.</td></tr>
 						<tr><th>Indicators: </td>
 							<td>

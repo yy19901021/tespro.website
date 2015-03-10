@@ -34,14 +34,20 @@
 				</ul>
 				<h3>Functions</h3>
 				<ul>
+					<li>In single phase operation and powered.</li>
 					<li>Free of wires connection to the meter, power on when meter is put onto the test stand, and shut-down when taken out.</li>
-					<li>TG-MTS is made of insulation materials, glabrous and safe.</li>
+					<li>TG-MTS is made of insulation materials, sleek surfaces and safe to operator.</li>
 					<li>Support 3p4w(58V×3, 220V×3), and 3p3w(phase to phase 100V) network, controlled by switch.</li>
-					<li>Support single phase voltage and current on/off test operation.</li>
+					<li>Support each phase voltage and current on/off test operation.</li>
 					<li>Operation with load current: 5A/1A, controlled by switch</li>
 					<li>Communication port contact is available as an option</li>
+				</ul>
+				<h3>Options</h3>
+				<ul>
 					<li>On customized requirement design is possible, such as a simplified jig for meter power-on. </li>
-					</li>
+					<li>Support A+/A- load operation by switching</li>
+					<li>Dual meter test stand is available</li>
+					<li>3-phase test stand for meter maintenance and calibration test</li>
 				</ul>
 			</div><!-- ./Left Column -->
 			<div class="col-sm-4 right-column"><!-- Right Column -->
@@ -51,6 +57,6 @@
 		</div>
 	</div>
 </div><!--End of content-->
-<?php include("list_probes.php") ?>
+<?php include("list_testing-devices.php") ?>
 <?php include("footer.php") ?> 
 <?php include("../includes/Google_ProbeAdsTracking.php") ?>

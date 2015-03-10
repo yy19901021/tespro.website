@@ -29,14 +29,17 @@
 				<ul>
 					<li>TP-RF-IEC: 适合IEC和国内电表应用；</li>
 					<li>TP-RF-ANSI-N：适合ANSI标准下的-N型电表，例如GE、Itron；</li>
-					<li>TP-RF-ANSI-S：适合ANSI标准下的光电第二型电表，例如西门子；</li>
+					<li>TP-RF-ANSI-S：适合ANSI标准下的光电第二型电表，例如西门子，ION电表；</li>
 				</ul>
 				<h3>主要特点：</h3>
 				<ul>
 					<li>利用开放的无线通信支持多种微功率无线通信模式；</li>
 					<li>采用400MHz微功率无线通信模式，支持通讯距离最大300M；</li>
+					<li>支持IEC62056-21，或ANSI C12-18的相关标准；</li>
 					<li>内置电池支持连续通讯24小时以上；</li>
 					<li>LED电源灯显示内置电池剩余电量，LED状态灯指示通讯状态；</li>
+					<li>提供USB接口天线作通讯收发；</li>
+					<li>泰易可为客户定制各类RF专用接口光电头。</li>
 				</ul>
 			</div><!-- ./Left Column -->
 			<div class="col-sm-4 right-column"><!-- Right Column -->

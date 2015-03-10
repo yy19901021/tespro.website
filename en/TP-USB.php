@@ -12,8 +12,8 @@
 			<div id="tp-intro" class="row">
 			  <div class="col-md-7 col-sm-7">
 					<h1><?php echo $title ?></h1>
-					<p>In 2002 Tespro designed TP-232 optical probe to be powered from RS232 interface. Since then by elimination of battery-box Tespro optical probe has been proven more convenience and reliable for on-site and laboratory application.</p>
-					<!-- <p>It works  with gas meter and thermal meter. </p> -->
+					<p>TP-USB optical probe is designed by Tespro in 2005 and patented. Now it is widely used in electric energy meter parameterization and data reading, to be an ideal device for both utilities and manufacturers. It generates some Sub-models and one works with gas meter and thermal meter.</p>
+					<p>It works  with gas meter and thermal meter. </p>
 			  </div>
 			  <div class="col-md-4 col-sm-5">
 			  	<img src="images/banners/tp-usb.png" alt="...">
@@ -25,10 +25,6 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-sm-12">
-				<h3>Application</h3>
-				<p>TP-USB optical probe is designed by Tespro in 2005 and patented. Now it is widely used in electric energy meter parameterization and data reading, to be an ideal device for both utilities and manufacturers. 
-It generates some Sub-models and one works with gas meter and thermal meter. </p>
-				<p>It works  with gas meter and thermal meter. </p>
 				<h3>Sub-models</h3>
 				<ul>
 					<li>TP-USB-IEC</li>

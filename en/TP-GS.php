@@ -1,5 +1,5 @@
 <?php 
-	$title = "TP-GS Versatile Probe Fixture";
+	$title = "TP-GS Versatile Probe Bracket (Patented)";
 ?>
 <?php 
 	$BaseUrl = "";
@@ -12,7 +12,7 @@
 			<div id="tp-intro" class="row">
 			  <div class="col-md-7 col-sm-7">
 					<h1><?php echo $title ?></h1>
-					<p>TP-GS Versatile Probe Fixture is used for scanning probe fastening onto energy meters. TP-GS was invented by Tespro and can be widely used in accuracy test for both Ferraris and electronics meters.</p>
+					<p>TP-GS Versatile Probe Bracket is used for scanning probe fastening onto energy meters. TP-GS was invented by Tespro and can be widely used in accuracy test for both Ferraris and electronics meters.</p>
 			  </div>
 			  <div class="col-md-4 col-sm-5">
 			  	<img src="images/banners/reading-meter.png" />
@@ -40,8 +40,8 @@
 			</ul>
 			</div>
 			<div class="col-sm-4 right-column">
-				<img src="images/products/product_TP-GS08.jpg" alt="TP-GS Versatile Probe Fixture" />
-				<img src="images/products/product_TP-GS08_demo.jpg" alt="TP-GS Versatile Probe Fixture" />
+				<img src="images/products/product_TP-GS08.jpg" alt="TP-GS Versatile Probe Bracket" />
+				<img src="images/products/product_TP-GS08_demo.jpg" alt="TP-GS Versatile Probe Bracket" />
 			</div>
 		</div><!-- ./row -->
 	</div><!-- ./container -->

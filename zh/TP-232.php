@@ -12,7 +12,7 @@
 			<div id="tp-intro" class="row">
 			  <div class="col-md-7 col-sm-7">
 					<h1><?php echo $title ?></h1>
-					<p>2002年泰易开创性地采用RS232接口供电，领先于国际，从此去掉附加电池盒，为使用光电头减轻包袱，应用提速。</p>
+					<p>2002年泰易开创性地采用RS232接口供电，领先于国际，从此去掉附加电池盒，是RS232供电光电头的原创设计者，为使用光电头减轻包袱，降低成本。</p>
 			  </div>
 			  <div class="col-md-4 col-sm-5">
 			  	<img src="images/banners/tp-232.png" />
@@ -29,9 +29,9 @@
 			<h3>子型号</h3>
 			<ul>
 				<li>TP-232-IEC：IEC62056-21</li>
-				<li>TP-232-ANSI-N: 兼容 ANSI C12.18 Type2标准（正常标准，较多用于GE、Itron电表）</li>
-				<li>TP-232-ANSI-S: 兼容 ANSI C12.18 Type2标准 (较多用于西门子和ION电表)</li>
-				<li>TP-232-ANSI-U: 兼容 ANSI C12.18 Type2标准 (通用型，可在正常标准和西门子标准间切换)</li>
+				<li>TP-232-ANSI-N: 兼容 ANSI C12.18标准（常规标准，较多用于GE、Itron电表）</li>
+				<li>TP-232-ANSI-S: 兼容 ANSI C12.18 Type2标准 (较多用于西门子和ION电表）</li>
+				<li>TP-232-ANSI-U: 兼容以上两种标准 (通用型，可在-N、-S之间切换）</li>
 			</ul>
 			
 			<h3>技术特点：</h3>
