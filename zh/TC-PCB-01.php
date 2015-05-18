@@ -42,7 +42,7 @@
 				</ul>
 			</div><!-- ./Left Column -->
 			<div class="col-sm-4 right-column"><!-- Right Column -->
-				<img src="images/products/product_TC-PCB-01.jpg" alt="TC-PCB-01 半自动PCB测试台" />
+				<img src="images/products/product_TC-PCB-02.jpg" alt="TC-PCB-01 半自动PCB测试台" />
 			</div>
 		</div>
 	</div>
