@@ -4411,7 +4411,7 @@ table.DataTable td input.Text {
   font-size: 1.6em;
 }
 #ProductpageTitle {
-  background: url(../images/banners/windpower.jpg) no-repeat center 40%;
+  background: url(../images/banners/nanpu-bridge_blured.jpg) no-repeat center 30%;
   color: white;
 }
 #ProductpageTitle h1 {
@@ -4421,7 +4421,7 @@ table.DataTable td input.Text {
   font-size: 1.6em;
 }
 #client-page-title {
-  background: #000000 url(../images/banners/client-page-title.jpg) no-repeat center 50%;
+  background: #000000 url(../images/banners/client-page-title.jpg) no-repeat center 30%;
   color: white;
 }
 #client-page-title h1 {

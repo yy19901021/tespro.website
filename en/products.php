@@ -10,49 +10,62 @@
 
 <!--Start of content-->
 <div id="content">
-<div id="product-carousel" class="product carousel slide" data-ride="carousel">
-  <!-- Indicators -->
-  <ol class="carousel-indicators">
-    <li data-target="#product-carousel" data-slide-to="0" class="active"></li>
-    <li data-target="#product-carousel" data-slide-to="1"></li>
-    <li data-target="#product-carousel" data-slide-to="2"></li>
-  </ol>
+	<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+	  <!-- Indicators -->
+	  <ol class="carousel-indicators">
+	    <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+	    <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+	    <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+	  </ol>
 
-  <!-- Wrapper for slides -->
-  <div class="carousel-inner" role="listbox">
-    <div class="item active">
-      <img src="images/banners/tp-usb-01.jpg" alt="...">
-      <div class="carousel-caption">
-        <h1>TP-USB Optical Probe for Communications</h1>
-        <p>可好用了</p>
-      </div>
-    </div>
-    <div class="item">
-      <img src="images/banners/tg-mts-01.jpg" alt="...">
-      <div class="carousel-caption">
-        <h1>TG-MTS Portable Meter Test Stand</h1>
-        <p>长的可好看可好看了，好用不好用不知道。</p>
-      </div>
-    </div>
-    <div class="item">
-      <img src="images/banners/ta-262-01.jpg" alt="...">
-      <div class="carousel-caption">
-        <h1>TA-262 Portable Tester for Meter Com-port failure</h1>
-        <p>老先进，老牛逼了。。。</p>
-      </div>
-    </div>
-  </div>
+	  <!-- Wrapper for slides -->
+	  <div id="ProductpageTitle" class="carousel-inner " role="listbox">
+	    <div class="item active">
+	      <!-- <img src="images/banners/nanpu-bridge_blured.jpg" alt="..."> -->
+	      <div class="container">
+	      	<div class="row">
+						<div class="col-md-5 col-md-offset-1">
+		      		<h1>TP-USB</h1>
+		      		<p>全世界最好用的光电头</p>
+			      </div>
+			      <div class="col-md-3">
+		      		<img src="images/banners/reading-meter.png" class="pull-right" style="margin-top: 20px; width: 240px;" />
+			      </div>
+    			</div>
+	    	</div>
+	      <div class="carousel-caption">
+	        TP-USB
+	      </div>
+	    </div>
+	    <div class="item">
+	      <!-- <img src="images/banners/nanpu-bridge_blured.jpg" alt="..."> -->
+	      <div class="container">
+	      	<div class="row">
+						<div class="col-md-5 col-md-offset-1">
+		      		<h1>TP-232</h1>
+		      		<p>全世界第二好用的光电头</p>
+			      </div>
+			      <div class="col-md-3">
+		      		<img src="images/banners/reading-meter.png" class="pull-right" style="margin-top: 20px; width: 240px;" />
+			      </div>
+    			</div>
+	    	</div>
+	      <div class="carousel-caption">
+	        TP-232
+	      </div>
+	    </div>
+	  </div>
 
-  <!-- Controls -->
-  <a class="left carousel-control" href="#product-carousel" role="button" data-slide="prev">
-    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="right carousel-control" href="#product-carousel" role="button" data-slide="next">
-    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
-</div>
+	  <!-- Controls -->
+	  <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+	    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+	    <span class="sr-only">Previous</span>
+	  </a>
+	  <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+	    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+	    <span class="sr-only">Next</span>
+	  </a>
+	</div>
 
 
 
