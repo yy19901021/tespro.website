@@ -15,14 +15,14 @@
 					<p>TP-17A Multi-function Optical Probe has been designed for accuracy testing of both Ferraris and static meters.</p>
 			  </div>
 			  <div class="col-md-4 col-sm-5">
-			  	<img src="images/banners/reading-meter.png" />
+			  	<img src="images/banners/tp-17.png" />
 			  </div>
 			</div>		
 		</div>
 	</div><!-- ./Jumbo Title -->
 	<div class="container">
 		<div class="row">
-			<div class="col-sm-8">
+			<div class="col-sm-7">
 				<h3>Application</h3>
 				<ul>
 					<li>Can be used for both Ferraris and statistics meters accuracy testing, functions switching by push button.</li>

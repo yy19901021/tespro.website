@@ -43,7 +43,7 @@
 				</table>
 			</div>
 			<div class="col-sm-4 right-column">
-				<img src="images/products/product_TP-15.jpg" alt="TP-15 Dual-frequency optical scanning probe for accuracy test" />
+				<!-- <img src="images/products/product_TP-15.jpg" alt="TP-15 Dual-frequency optical scanning probe for accuracy test" /> -->
 			</div>
 		</div><!-- ./row -->
 	</div><!-- ./container -->

@@ -15,7 +15,7 @@
 					<p>国家发明专利</p>
 			  </div>
 			  <div class="col-md-4 col-sm-5">
-			  	<img src="images/banners/reading-meter.png" />
+			  	<img src="images/banners/tp-gs.png" alt="TP-GS 通用光电头活动支架" />
 			  </div>
 			</div>		
 		</div>
@@ -50,7 +50,7 @@
 			</div><!-- ./Left Column -->
 			<div class="col-sm-4 right-column"><!-- Right Column -->
 				<!-- <img src="images/products/product_TP-GS08.jpg" alt="TP-GS 通用光电头活动支架" /> -->
-				<!-- <img src="images/products/product_TP-GS08_demo.jpg" alt="TP-GS 通用光电头活动支架" /> -->
+				<!-- <img src="images/products/product_TP-GS_demo.jpg" alt="TP-GS 通用光电头活动支架" /> -->
 			</div>
 		</div>
 	</div>

@@ -36,7 +36,7 @@
 				</ul>
 			</div><!-- ./Left Column -->
 			<div class="col-sm-4 right-column"><!-- Right Column -->
-				<img src="images/products/product_TP-11.jpg" alt="TP-11 校验光电头" />
+				<!-- <img src="images/products/product_TP-11.jpg" alt="TP-11 校验光电头" /> -->
 			</div>
 		</div>
 	</div>

@@ -130,8 +130,8 @@
 				</table>
 			</div><!-- ./Left Column -->
 			<div class="col-sm-4 right-column"><!-- Right Column -->
-				<img src="images/products/product_TP-232.jpg" width="300" alt="TP-232-IEC " />
-				<img src="images/products/product_TP-232-ANSI_demo.jpg" width="300" alt="TP-232 Optical Probe" />
+				<!-- <img src="images/products/product_TP-232.jpg" width="300" alt="TP-232-IEC " /> -->
+				<!-- <img src="images/products/product_TP-232-ANSI_demo.jpg" width="300" alt="TP-232 Optical Probe" /> -->
 			</div>
 		</div>
 	</div>

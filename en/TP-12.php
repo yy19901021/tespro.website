@@ -40,7 +40,7 @@
 				</table>
 			</div>
 			<div class="col-sm-4 right-column">
-				<img src="images/products/product_TP-12.jpg" alt="TP-12 Optical Pulse Sensing Probe for Energy Monitoring" />
+				<!-- <img src="images/products/product_TP-12.jpg" alt="TP-12 Optical Pulse Sensing Probe for Energy Monitoring" /> -->
 			</div>
 		</div><!-- ./row -->
 	</div><!-- ./container -->

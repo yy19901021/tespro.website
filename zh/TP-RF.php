@@ -43,7 +43,7 @@
 				</ul>
 			</div><!-- ./Left Column -->
 			<div class="col-sm-4 right-column"><!-- Right Column -->
-				<img src="images/products/product_TP-RF.jpg" alt="蓝牙通讯光电头"/>
+				<!-- <img src="images/products/product_TP-RF.jpg" alt="蓝牙通讯光电头"/> -->
 			</div>
 		</div>
 	</div>

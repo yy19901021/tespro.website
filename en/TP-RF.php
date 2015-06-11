@@ -60,7 +60,7 @@
 				</table>
 			</div>
 			<div class="col-sm-4 right-column">
-				<img src="images/products/product_TP-RF.jpg" width="350" alt="TP-RF ">
+				<!-- <img src="images/products/product_TP-RF.jpg" width="350" alt="TP-RF "> -->
 			</div>
 		</div><!-- ./row -->
 	</div><!-- ./container -->

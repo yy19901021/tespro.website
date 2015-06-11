@@ -41,8 +41,10 @@
 				<p>泰易追求细节完美，经过多年的改进，技术成熟，一体化结构，可靠耐用，值得信耐。</p>
 			</div><!-- ./Left Column -->
 			<div class="col-sm-4 right-column"><!-- Right Column -->
-				<img src="images/products/product_TP-USB.jpg" alt="TP-USB USB接口电表光电头" />
+				<!-- <img src="images/products/product_TP-USB.jpg" alt="TP-USB USB接口电表光电头" /> -->
 				<img src="images/products/product_TP-USB-ANSI_demo.jpg" alt="TP-USB USB接口电表光电头" />
+				<br /><br /><br /><br />
+				<img src="images/products/product_TP-USB_demo2.jpg" alt="TP-USB 光电头应用与热能表" />
 			</div>
 		</div>
 	</div>

@@ -40,7 +40,7 @@
 				</ul>
 			</div><!-- ./Left Column -->
 			<div class="col-sm-4 right-column"><!-- Right Column -->
-				<img src="images/products/product_TP-645.jpg" alt="TP-USB-IR645红外通讯光电头"/>
+				<!-- <img src="images/products/product_TP-645.jpg" alt="TP-USB-IR645红外通讯光电头"/> -->
 			</div>
 		</div>
 	</div>

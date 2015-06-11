@@ -38,7 +38,7 @@
 				</ul>
 			</div><!-- ./Left Column -->
 			<div class="col-sm-4 right-column"><!-- Right Column -->
-				<img src="images/products/product_TP-15.jpg" alt="TP-15 双频校验光电头" />
+				<!-- <img src="images/products/product_TP-15.jpg" alt="TP-15 双频校验光电头" /> -->
 			</div>
 		</div>
 	</div>

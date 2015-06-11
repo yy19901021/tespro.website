@@ -52,7 +52,7 @@
 			</div><!-- ./Left Column -->
 			<div class="col-sm-4 right-column"><!-- Right Column -->
 				<!-- <img src="images/products/product_TG-MTS.jpg" alt="TG-MTS Meter Test Station" /> -->
-				<!-- <img src="images/products/product_TG-MTS_demo.jpg" alt="TG-MTS Meter Test Station" /> -->
+				<img src="images/products/product_TG-MTS_demo.jpg" alt="TG-MTS Meter Test Station" />
 			</div>
 		</div>
 	</div>

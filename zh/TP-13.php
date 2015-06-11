@@ -15,7 +15,7 @@
 					<!-- <p>2002年泰易开创性地采用RS232接口供电，领先于国际，从此去掉附加电池盒，为使用光电头减轻包袱，应用提速。</p> -->
 			  </div>
 			  <div class="col-md-4 col-sm-5">
-			  	<img src="images/banners/reading-meter.png" />
+			  	<img src="images/banners/tp-13.png" />
 			  </div>
 			</div>		
 		</div>
@@ -35,8 +35,8 @@
 				</ul>
 			</div><!-- ./Left Column -->
 			<div class="col-sm-4 right-column"><!-- Right Column -->
-				<img src="images/products/product_TP-13-1.jpg" alt="TP-13 双脉冲电表校验光电头" />
-			<img src="images/products/product_TP-13-2.jpg" alt="TP-13 双脉冲电表校验光电头" />
+				<img src="images/products/product_TP-13.jpg" alt="TP-13 双脉冲电表校验光电头" />
+			<!-- <img src="images/products/product_TP-13-2.jpg" alt="TP-13 双脉冲电表校验光电头" /> -->
 			</div>
 		</div>
 	</div>

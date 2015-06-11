@@ -15,14 +15,14 @@
 					<p>TP-GS Versatile Probe Bracket is used for scanning probe fastening onto energy meters. TP-GS was invented by Tespro and can be widely used in accuracy test for both Ferraris and electronics meters.</p>
 			  </div>
 			  <div class="col-md-4 col-sm-5">
-			  	<img src="images/banners/reading-meter.png" />
+			  	<img src="images/banners/tp-gs.png" />
 			  </div>
 			</div>		
 		</div>
 	</div><!-- ./Jumbo Title -->
 	<div class="container">
 		<div class="row">
-			<div class="col-sm-8">
+			<div class="col-sm-7">
 			<h3>Generations</h3>
 			<ul>
 				<li>TP-GS2 (2nd Generation)</li>
@@ -40,7 +40,7 @@
 			</ul>
 			</div>
 			<div class="col-sm-4 right-column">
-				<img src="images/products/product_TP-GS08.jpg" alt="TP-GS Versatile Probe Bracket" />
+				<!-- <img src="images/products/product_TP-GS08.jpg" alt="TP-GS Versatile Probe Bracket" /> -->
 				<img src="images/products/product_TP-GS08_demo.jpg" alt="TP-GS Versatile Probe Bracket" />
 			</div>
 		</div><!-- ./row -->

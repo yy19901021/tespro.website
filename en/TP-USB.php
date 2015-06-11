@@ -24,7 +24,7 @@
 
 	<div class="container">
 		<div class="row">
-			<div class="col-sm-12">
+			<div class="col-sm-7">
 				<h3>Sub-models</h3>
 				<ul>
 					<li>TP-USB-IEC</li>
@@ -78,6 +78,12 @@
 				<h3>Drivers</h3>
 				<a class="btn btn-success btn-lg" href="en/download/TP-USB.zip">Download the USB driver for Windows</a>
 			</div>
+			<div class="col-sm-4 right-column"><!-- Right Column -->
+				<!-- <img src="images/products/product_TP-USB.jpg" alt="TP-USB USB接口电表光电头" /> -->
+				<img src="images/products/product_TP-USB-ANSI_demo.jpg" alt="TP-USB USB接口电表光电头" />
+				<br /><br /><br /><br />
+				<img src="images/products/product_TP-USB_demo2.jpg" alt="TP-USB 光电头应用与热能表" />
+			</div> 
 		</div>
 	</div>
 </div><!--End of content-->

@@ -35,9 +35,9 @@
 				</ul>
 			</div><!-- ./Left Column -->
 			<div class="col-sm-4 right-column"><!-- Right Column -->
-				<img src="images/products/product_TP-16-1.jpg" alt="TP-16-PR-x S进口现校仪校验光电头 " />
+				<!-- <img src="images/products/product_TP-16-1.jpg" alt="TP-16-PR-x S进口现校仪校验光电头 " /> -->
 				<!-- <img src="images/products/product_TP-16-2.jpg" alt="TP-16-PR-x S进口现校仪校验光电头 " /> -->
-				<img src="images/products/product_TP-16.jpg" alt="TP-16-PR-x S进口现校仪校验光电头 " />
+				<!-- <img src="images/products/product_TP-16.jpg" alt="TP-16-PR-x S进口现校仪校验光电头 " /> -->
 			</div>
 		</div>
 	</div>

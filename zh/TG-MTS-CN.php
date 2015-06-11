@@ -53,8 +53,8 @@
 				</ul>
 			</div><!-- ./Left Column -->
 			<div class="col-sm-4 right-column"><!-- Right Column -->
-				<!-- <img src="images/products/product_TG-MTS-CN-1.jpg" alt="TG-MTS-CN 三相电表维修测试台" />
-				<img src="images/products/product_TG-MTS-CN-2.jpg" alt="TG-MTS-CN 三相电表维修测试台" /> -->
+				<img src="images/products/product_TG-MTS_demo.jpg" alt="TG-MTS-CN 三相电表维修测试台" />
+				<!-- <img src="images/products/product_TG-MTS-CN-2.jpg" alt="TG-MTS-CN 三相电表维修测试台" /> -->
 			</div>
 		</div>
 	</div>
