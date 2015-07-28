@@ -15,7 +15,7 @@
 					<!-- <p>2002年泰易开创性地采用RS232接口供电，领先于国际，从此去掉附加电池盒，为使用光电头减轻包袱，应用提速。</p> -->
 			  </div>
 			  <div class="col-md-4 col-sm-5">
-			  	<img src="images/products/product_TA-800.jpg" alt="TA-800 多规约计量数据分析仪" class="pull-right" style="margin-top: 10px; width: 260px;" />
+			  	<img src="images/banners/ta-800.png" alt="TA-800 多规约计量数据分析仪" class="pull-right" style="margin-top: 10px; width: 400px;" />
 			  </div>
 			</div>		
 		</div>

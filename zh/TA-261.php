@@ -41,7 +41,7 @@
 				<p>低成本和高性价比，便于普及推广。</p>
 			</div><!-- ./Left Column -->
 			<div class="col-sm-4 right-column"><!-- Right Column -->
-				<img src="images/products/TA-261-01.jpg" alt="TA-261电表通讯接口测试器" />
+				<img src="images/products/product_TA-261.jpg" alt="TA-261电表通讯接口测试器" />
 			</div>
 		</div>
 	</div>

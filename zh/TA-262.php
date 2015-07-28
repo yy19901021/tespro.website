@@ -42,7 +42,7 @@
 				<p>始于2005年原创设计的多功能通讯测试仪，是TA-261的升级版，性能更加完善。</p>
 			</div><!-- ./Left Column -->
 			<div class="col-sm-4 right-column"><!-- Right Column -->
-				<img src="images/products/ta-262-01.jpg" alt="TA-262 电表通讯接口测试器" />
+				<img src="images/products/product_TA-262.jpg" alt="TA-262 电表通讯接口测试器" />
 				<!-- <img src="images/products/product_TA-262_zh.png" alt="TA-261电表通讯接口测试器" /> -->
 			</div>
 		</div>

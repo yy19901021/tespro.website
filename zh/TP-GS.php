@@ -49,7 +49,7 @@
 				</ul>
 			</div><!-- ./Left Column -->
 			<div class="col-sm-4 right-column"><!-- Right Column -->
-				<!-- <img src="images/products/product_TP-GS08.jpg" alt="TP-GS 通用光电头活动支架" /> -->
+				<img src="images/products/product_TP-GS.jpg" alt="TP-GS 通用光电头活动支架" />
 				<!-- <img src="images/products/product_TP-GS_demo.jpg" alt="TP-GS 通用光电头活动支架" /> -->
 			</div>
 		</div>

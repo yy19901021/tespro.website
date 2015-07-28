@@ -14,6 +14,7 @@
 	    <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
 	    <li data-target="#carousel-example-generic" data-slide-to="1"></li>
 	    <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+	    <li data-target="#carousel-example-generic" data-slide-to="3"></li>
 	  </ol>
 
 	  <!-- Wrapper for slides -->
@@ -22,29 +23,63 @@
 	      <!-- <img src="images/banners/nanpu-bridge_blured.jpg" alt="..."> -->
 	      <div class="container">
 	      	<div class="row">
-						<div class="col-md-5 col-md-offset-1">
-		      		<h1>TP-USB</h1>
+						<div class="col-md-4 col-md-offset-1">
+		      		<h1>TP-USB 电表通讯光电头</h1>
 		      		<p>全世界最好用的光电头</p>
 			      </div>
-			      <div class="col-md-3">
-		      		<img src="images/banners/reading-meter.png" class="pull-right" style="margin-top: 20px; width: 240px;" />
+			      <div class="col-md-4 col-md-offset-1">
+		      		<img src="images/banners/highlights-tp-usb.png" class="pull-right" style="margin-top: 20px; height: 300px;" />
 			      </div>
     			</div>
 	    	</div>
 	      <div class="carousel-caption">
-	        TP-USB
+	        TP-USB 电表通讯光电头
 	      </div>
 	    </div>
 	    <div class="item">
 	      <!-- <img src="images/banners/nanpu-bridge_blured.jpg" alt="..."> -->
 	      <div class="container">
 	      	<div class="row">
-						<div class="col-md-5 col-md-offset-1">
-		      		<h1>TP-232</h1>
-		      		<p>全世界第二好用的光电头</p>
+						<div class="col-md-4 col-md-offset-1">
+		      		<h1>电表校验光电头</h1>
+		      		<!-- <p>全世界第二好用的光电头</p> -->
 			      </div>
-			      <div class="col-md-3">
-		      		<img src="images/banners/reading-meter.png" class="pull-right" style="margin-top: 20px; width: 240px;" />
+			      <div class="col-md-4 col-md-offset-1">
+		      		<img src="images/banners/highlights-accuracy-probes.png" class="pull-right" style="margin-top: 20px; height: 300px;" />
+			      </div>
+    			</div>
+	    	</div>
+	      <div class="carousel-caption">
+	        电表校验光电头
+	      </div>
+	    </div>
+	    <div class="item">
+	      <!-- <img src="images/banners/nanpu-bridge_blured.jpg" alt="..."> -->
+	      <div class="container">
+	      	<div class="row">
+						<div class="col-md-4 col-md-offset-1">
+		      		<h1>TD-2303</h1>
+		      		<!-- <p>全世界第二好用的光电头</p> -->
+			      </div>
+			      <div class="col-md-4 col-md-offset-1">
+		      		<img src="images/banners/highlights-td-2303.png" class="pull-right" style="margin-top: 20px; height: 300px;" />
+			      </div>
+    			</div>
+	    	</div>
+	      <div class="carousel-caption">
+	        TD-2303
+	      </div>
+	    </div>
+	    <div class="item">
+	      <!-- <img src="images/banners/nanpu-bridge_blured.jpg" alt="..."> -->
+	      <div class="container">
+	      	<div class="row">
+						<div class="col-md-4 col-md-offset-1">
+		      		<h1>TP-232</h1>
+		      		<!-- <p>全世界第二好用的光电头</p> -->
+			      </div>
+			      <div class="col-md-4 col-md-offset-1">
+		      		<img src="images/banners/highlights-tp-232.png" class="pull-right" style="margin-top: 20px; height: 300px;" />
 			      </div>
     			</div>
 	    	</div>

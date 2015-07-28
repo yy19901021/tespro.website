@@ -48,7 +48,7 @@
 				<p class="HighLight">TA-262 is originally designed and manufactured by Tespro Electronics Co., Ltd.</p>
 			</div><!-- ./Left Column -->
 			<div class="col-sm-4 right-column"><!-- Right Column -->
-				<img src="images/products/ta-262-01.jpg" alt="TA-262 Communication Port Tester" />
+				<img src="images/products/product_TA-262.jpg" alt="TA-262 Communication Port Tester" />
 				<!-- <img src="images/products/product_TA-262_zh.png" alt="TA-262 Communication Port Tester" /> -->
 			</div>
 		</div>
