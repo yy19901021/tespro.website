@@ -91,7 +91,7 @@
 		          <a href="#" class="dropdown-toggle" data-toggle="dropdown">切换语言 <span class="caret"></span></a>
 		          <ul class="dropdown-menu" role="menu">
 		            <li><a href="zh/">中文</a></li>
-		            <li><a href="en/">英文</a></li>
+		            <li><a href="en/">English</a></li>
 		          </ul>
 		        </li>
 		      </ul>

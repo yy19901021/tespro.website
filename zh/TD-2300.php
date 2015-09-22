@@ -51,7 +51,7 @@
 					<tr><th>	相电流	</th><td>	0.1A ～ 10A	</td><td>	步进0.1A，可调	</td></tr>
 					<tr><th>	频率	</th><td>	45Hz～65Hz	</td><td>	步进0.1Hz 	</td></tr>
 					<tr><th>	相角	</th><td>	±180°	</td><td>	连续可调	</td></tr>
-					<tr><th>	输出波形	</th><td>	正弦波	</td><td>	谐波含量≦ 3%	</td></tr>
+					<tr><th>	输出波形	</th><td>	正弦波	</td><td>	谐波含量≦ 5%	</td></tr>
 					<tr><th>	波形的失真度	</th><td>	电压＜ 5%	</td><td>		</td></tr>
 					<tr><th>	额定输出容量/相	</th><td>	电压: 40 VA / 电流: 30VA 	</td><td>		</td></tr>
 					<tr><th>	尺寸	</th><td>	350(宽) × 255(深) × 160(高)	</td><td>		</td></tr>
