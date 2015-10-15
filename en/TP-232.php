@@ -29,7 +29,7 @@
 					<li>TP-232-IEC</li>
 					<li>TP-232-ANSI-N: Compatible with ANSI C12.18 (Normal Standard)</li>
 					<li>TP-232-ANSI-S: Compatible with ANSI C12.18 type two, 2007(Sub-standard)</li>
-					<li>TP-232-ANSI-U: Compatible with ANSI C12.18 (Universal, can be switch between N and S)</li>
+					<li>TP-232-ANSI-U: Compatible with ANSI C12.18 (Universal, can be switched between N and S)</li>
 				</ul>
 				<h3>Specifications:</h3>
 				<table id="SpecTable" class="table spec-table">
@@ -42,16 +42,17 @@
 								<ul>
 									<li>IEC 62056-21 standard</li>
 									<li>ANSI C12.18-1996 & 2007 standard</li>
+									<li>EIA232E standard</li>
 							</td>
 						</tr>
 						<tr>
 							<th>Interface:</th><td>Infrared optical</td>
 						</tr>
 						<tr>
-							<th>Connector:</th><td>232-DB9 connector</td>
+							<th>Connector:</th><td>RS232-DB9 connector</td>
 						</tr>
 						<tr>
-							<th>Power:</th><td>From the 232 port, no battery required</td>
+							<th>Power:</th><td>From the RS232 port, no battery required</td>
 						</tr>
 						<tr>
 							<th>Maximum B.R.:</th><td>Up to 38400bps</td>

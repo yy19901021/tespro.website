@@ -25,8 +25,8 @@
 			<div class="col-sm-7">
 			<h3>Generations</h3>
 			<ul>
-				<li>TP-GS2 (2nd Generation)</li>
 				<li>TP-GS08 (1st Generation)</li>
+				<li>TP-GS2 (2nd Generation)</li>
 			</ul>
 			<h3>Features</h3>
 			<ul>

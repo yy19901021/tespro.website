@@ -40,8 +40,6 @@
 					<tr><th>Fastening:</th><td>Magnetic adhesion</td>
 					<tr><th>Mechanical:</th><td>Impact ABS housing</td>
 					<tr><th>Connector:</th><td>Optional item from <a href="en/TP1_option_table.php">Table of Connectors for Optical Scanning Probes</a></td>
-					<tr><th>Maximum B.R.:</th><td>Up to 38400bps</td></tr>
-					<tr><th>Fastening:</th><td>Strong magnetic adhesion complied with IEC62056-21 or ANSI C12.18</td></tr>
 					<tr><th>Probe Fixture:	</th><td>TP-GS fixture can be used for probe fastening onto any type of meters.</td></tr>
 				</table>
 			</div>

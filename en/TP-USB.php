@@ -13,7 +13,6 @@
 			  <div class="col-md-7 col-sm-7">
 					<h1><?php echo $title ?></h1>
 					<p>TP-USB optical probe is designed by Tespro in 2005 and patented. Now it is widely used in electric energy meter parameterization and data reading, to be an ideal device for both utilities and manufacturers. It generates some Sub-models and one works with gas meter and thermal meter.</p>
-					<p>It works  with gas meter and thermal meter. </p>
 			  </div>
 			  <div class="col-md-4 col-sm-5">
 			  	<img src="images/banners/tp-usb.png" alt="...">
@@ -76,13 +75,21 @@
 					</tbody>
 				</table>
 				<h3>Drivers</h3>
-				<a class="btn btn-success btn-lg" href="en/download/TP-USB.zip">Download the USB driver for Windows</a>
+				<a class="btn btn-success btn-lg" href="en/download/TP-USB.zip">Download the USB driver</a>
+				<h5>Supported OS</h5>
+				<ul>
+					<li>Microsoft Windows</li>
+					<li>Mac OS X</li>
+					<li>Linux</li>
+					<li>Android</li>
+					<li>Windows CE</li>
+				</ul>
 			</div>
 			<div class="col-sm-4 right-column"><!-- Right Column -->
 				<!-- <img src="images/products/product_TP-USB.jpg" alt="TP-USB USB接口电表光电头" /> -->
 				<img src="images/products/product_TP-USB-ANSI_demo.jpg" alt="TP-USB USB接口电表光电头" />
 				<br /><br /><br /><br />
-				<img src="images/products/product_TP-USB_demo2.jpg" alt="TP-USB 光电头应用与热能表" />
+				<!-- <img src="images/products/product_TP-USB_demo2.jpg" alt="TP-USB 光电头应用与热能表" /> -->
 			</div> 
 		</div>
 	</div>

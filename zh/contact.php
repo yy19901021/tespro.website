@@ -80,7 +80,7 @@
     }
     
     //标注点数组
-    var markerArr = [{title:"珠海泰易自动化设备有限公司",content:"广东省&nbsp;珠海市&nbsp;吉大&nbsp;白莲路184号&nbsp;立体科技大厦二楼",point:"113.575|22.254259",isOpen:0,icon:{w:21,h:21,l:0,t:0,x:6,lb:5}}
+    var markerArr = [{title:"泰易公司",content:"广东省&nbsp;珠海市&nbsp;吉大&nbsp;白莲路184号&nbsp;立体科技大厦二楼",point:"113.575|22.254259",isOpen:0,icon:{w:21,h:21,l:0,t:0,x:6,lb:5}}
          ];
     //创建marker
     function addMarker(){

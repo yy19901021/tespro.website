@@ -28,8 +28,8 @@
 					<tr><th>Size: </th><td>TP-12 is a mini type probe.</td></tr>
 					<tr><th>Connector:</th><td>on customization</a></td>
 					<tr><th>Light sense: </th><td>Sensing spectrum covers from IR to light. </td></tr>
-					<tr><th>Power supply: </th><td>Powered by +3.3~5VDC </td></tr>
-					<tr><th>Output:	</th><td>Positive pulses output in TTL, is synchronized with the LED light pulses. </td></tr>
+					<tr><th>Power supply: </th><td>Powered by +3.3~5VDC, Extremely power saving design</td></tr>
+					<tr><th>Output:	</th><td>Positive pulses output, is synchronized with the LED light pulses. </td></tr>
 					<tr><th>Fastening: </th><td>Can be easily attached onto any meter surface by Tespro’s easy stick-on strips, or by magnetic. </td></tr>
 					<tr><th>Indicator: </th><td>An indicator at the top lights up synchronizing with the pulses.</td></tr>
 				</table>
