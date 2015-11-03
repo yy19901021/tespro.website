@@ -12,7 +12,7 @@
 			<div id="tp-intro" class="row">
 			  <div class="col-md-7 col-sm-7">
 					<h1><?php echo $title ?></h1>
-					<p>国家发明专利</p>
+					<p>获国家发明专利</p>
 			  </div>
 			  <div class="col-md-4 col-sm-5">
 			  	<img src="images/banners/tp-gs.png" alt="TP-GS 通用光电头活动支架" />

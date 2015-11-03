@@ -12,7 +12,7 @@
 			<div id="tp-intro" class="row">
 			  <div class="col-md-7 col-sm-7">
 					<h1><?php echo $title ?></h1>
-					<!-- <p>2002年泰易开创性地采用RS232接口供电，领先于国际，从此去掉附加电池盒，为使用光电头减轻包袱，应用提速。</p> -->
+					<p>TP-RF微功率无线通讯光电头是泰易光电头系列产品中的新品，于2012年投入市场</p>
 			  </div>
 			  <div class="col-md-4 col-sm-5">
 			  	<img src="images/banners/tp-rf.png" />

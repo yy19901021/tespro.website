@@ -24,7 +24,7 @@
 		<div class="row">
 			<div class="col-md-7"><!-- Left Column -->
 			<h3>主要用途：</h3>
-			<p>用于电能表参数读写、电量数据抄读。</p>
+			<p>用于电能表、热表的参数读写、数据抄读。</p>
 			
 			<h3>子型号</h3>
 			<ul>
@@ -47,7 +47,7 @@
 			<p>可选用螺旋线</p>
 			</div><!-- ./Left Column -->
 			<div class="col-sm-4 right-column"><!-- Right Column -->
-				<img src="images/products/TP-232-01.jpg" alt="TP-232" />
+				<!-- <img src="images/products/TP-232-01.jpg" alt="TP-232" /> -->
 				<img src="images/products/product_TP-232-ANSI_demo.jpg" width="300" alt="TP-232 Optical Probe" />
 			</div>
 		</div>

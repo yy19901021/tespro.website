@@ -35,7 +35,15 @@
 #content {background-color: white; padding-bottom: 6em;}
 // #content a, #Content a:visited{ padding-bottom:0.1em; line-height:190%}
 // #content a:hover{color:#3863AA}
-div.col-sm-4.right-column img{width: 300px;}
+div.col-sm-4.right-column {text-align: right;
+	img{
+		width: 300px;
+
+	}
+	img.small-img {
+		width: 200px;
+	}
+}
 /*** End ***/
 
 
@@ -108,10 +116,15 @@ table.DataTable td input.Text{width:3em}
 	h1 {font-size: 5em;}
 	p {font-size: 1.6em;}
 }
-
+#download-page-title {
+	background: #fff url(../images/banners/download-page-title.jpg) no-repeat center 50%;
+	color: white;
+	h1 {font-size: 4em;}
+	p {font-size: 1em;}
+}
 #contact-page-title {
 	background: #fff url(../images/banners/contact-page-title.jpg) no-repeat center 50%;
-	color: white;
+	color: gray;
 	h1 {font-size: 4em;}
 	p {font-size: 1em;}
 }

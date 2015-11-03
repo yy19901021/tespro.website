@@ -1,5 +1,5 @@
 <?php 
-	$title = "TD-2300三相正弦波逆变功率源";
+	$title = "TD-2300双三相正弦波逆变功率源";
 ?>
 <?php 
 	$BaseUrl = "";
@@ -35,7 +35,7 @@
 					<li>全数字控制，LCD显示，全数字程控面板，操作方便，可程控；</li>
 					<li>三相电压输出，连续可调；</li>
 					<li>三相独立的电流输出，连续可调；</li>
-					<li>频率可调、电压-电流相角连续可调，功率因数可调；</li>
+					<li>频率可调、电压-电流相角差连续可调，功率因数可调；</li>
 					<li>智能化设计、过载、短路检测，超温报警和保护，使用安全；</li>
 				</ul>
 				<table id="" class="table spec-table">
@@ -61,7 +61,7 @@
 				</table>
 			</div><!-- ./Left Column -->
 			<div class="col-sm-4 right-column"><!-- Right Column -->
-				<!-- <img src="images/products/product_TD-2300.jpg" alt="TD-2300三相正弦波逆变功率源" /> -->
+				<!-- <img src="images/products/product_TD-2300.jpg" alt="TD-2300双三相正弦波逆变功率源" /> -->
 			</div>
 		</div>
 	</div>

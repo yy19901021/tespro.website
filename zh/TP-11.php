@@ -24,7 +24,7 @@
 		<div class="row">
 			<div class="col-md-7"><!-- Left Column -->
 				<h3>主要用途：</h3>
-				<p>用于电表校验台或现场校验仪对电能表光脉冲采样和校验。</p>
+				<p>用于电表校验台对电能表光脉冲采样和校验。</p>
 				<h3>技术特点：</h3>
 				<ul>
 					<li>适合红外至可见光的脉冲采样；</li>
@@ -32,7 +32,7 @@
 					<li>标配直引线长度0.55M (可选)；</li>
 					<li>对电量脉冲同步传输，绿色LED显示电量脉冲；</li>
 					<li>磁吸附式固定，可使用TP-GS光电头活动支架；</li>
-					<li>多种插头可选，可为用户提供任何指定插头，请参考校<a href="zh/TP1_option_table.php">验光电头插头选用表</a>。</li>
+					<li>多种插头可选，可为用户提供任何指定插头，请参考<a href="zh/TP1_option_table.php">校验光电头插头选用表</a>。</li>
 				</ul>
 			</div><!-- ./Left Column -->
 			<div class="col-sm-4 right-column"><!-- Right Column -->

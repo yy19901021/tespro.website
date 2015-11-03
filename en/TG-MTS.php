@@ -27,8 +27,8 @@
 				<p>It is designed for the use of:</p>
 				<ul>
 					<li>Meter prototype test and operation.</li>
-					<li>Quick power on, for example, meter programming and functionality test in production line. Productivity and efficiency will be significantly improved by TG-MTS.</li>
-					<li>Meter functionality demonstration for customers and visitors.</li>
+					<li>MTS has its unique application where meters require frequent power-on/off manipulation.</li>
+					<li>Meter's functional demonstration for customers and visitors.</li>
 					<li>Meter test-run for tariff or parameters.</li>
 					<li>Customer training and service center may also find it applicable.</li>
 				</ul>
@@ -39,15 +39,14 @@
 					<li>TG-MTS is made of insulation materials, sleek surfaces and safe to operator.</li>
 					<li>Support 3p4w(58V×3, 220V×3), and 3p3w(phase to phase 100V) network, controlled by switch.</li>
 					<li>Support each phase voltage and current on/off test operation.</li>
-					<li>Operation with load current: 5A/1A, controlled by switch</li>
-					<li>Communication port contact is available as an option</li>
+					<li>Operation with load current: 5A/1A, controlled by switch.</li>
+					<li>Support A+/A- load operation by switching.</li>
 				</ul>
 				<h3>Options</h3>
 				<ul>
 					<li>On customized requirement design is possible, such as a simplified jig for meter power-on. </li>
-					<li>Support A+/A- load operation by switching</li>
-					<li>Dual meter test stand is available</li>
-					<li>3-phase test stand for meter maintenance and calibration test</li>
+					<li>Dual meter test stand is available.</li>
+					<li>Communication port contact is available as an option.</li>
 				</ul>
 			</div><!-- ./Left Column -->
 			<div class="col-sm-4 right-column"><!-- Right Column -->
