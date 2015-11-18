@@ -15,7 +15,7 @@
 					<p>Assembled to meter test bench for accuracy testing.</p>
 			  </div>
 			  <div class="col-md-4 col-sm-5">
-			  	<img src="images/banners/tp-11.png" />
+			  	<img src="images/banners/tp-15.png" />
 			  </div>
 			</div>		
 		</div>
