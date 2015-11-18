@@ -12,13 +12,13 @@
 			<div id="tp-intro" class="row">
 			  <div class="col-md-7 col-sm-7">
 					<h1><?php echo $title ?></h1>
-					<p>2002年泰易独创的电表台设计，可用作快速免接线电表测试工装。</p>
+					<p>2002年泰易独创的电表台设计，符合国网、南网电表尺寸标准，兼容国际主流电表外形尺寸标准，可用作快速免接线电表测试工装。</p>
 					<p>已申请外观专利</p>
 			  </div>
 			  <div class="col-md-4 col-sm-5">
 			  	<img src="images/banners/tg-mts.png" />
 			  </div>
-			</div>		
+			</div>
 		</div>
 	</div><!-- ./Jumbo Title -->
 	<div class="container">

@@ -17,7 +17,7 @@
 				<p>Founded in 2002 Tespro has been the expert in providing meter testing instruments and equipment and all series of optical probes for both utilities and meter manufacturers. Based on 14 years’ experience and fruits Tespro will continue to make its efforts on metering and AMR/AMI applications.</p>	  
 			  </div>
 			  <div class="col-md-4 col-sm-5">
-			  	<img src="images/banners/reading-meter.png" class="pull-right" style="margin-top: 50px; width: 340px;" />
+			  	<img src="images/banners/reading-heat-meter.png" class="pull-right" style="margin-top: 52px; width: 340px;" />
 			  </div>
 			</div>		
 		</div>

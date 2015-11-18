@@ -15,7 +15,7 @@
 					<p>TP-12 is a newly developed optical probe which can be used for meter optical pulses sensing in power monitoring system.</p>
 			  </div>
 			  <div class="col-md-4 col-sm-5">
-			  	<img src="images/banners/reading-meter.png" />
+			  	<!-- <img src="images/banners/reading-meter.png" /> -->
 			  </div>
 			</div>		
 		</div>
@@ -40,7 +40,7 @@
 				</table>
 			</div>
 			<div class="col-sm-4 right-column">
-				<!-- <img src="images/products/product_TP-12.jpg" alt="TP-12 Optical Pulse Sensing Probe for Energy Monitoring" /> -->
+				<img src="images/products/product_TP-12.jpg" class="small-img" alt="TP-12 Optical Pulse Sensing Probe for Energy Monitoring" />
 			</div>
 		</div><!-- ./row -->
 	</div><!-- ./container -->

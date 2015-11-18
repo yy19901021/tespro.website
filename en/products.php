@@ -121,13 +121,10 @@
 				<h4 title="Meter Test Stand and Jigs">Meter Test Stand and Jigs</h4>
 				<ul>
 					<li><a href="en/TG-MTS.php">TG-MTS Portable Meter Test Stand</a></li>
-					<li>TG-MS-3P 3-phase meter Maintenance Stand</li>
 				</ul>
 				<h4 title="Testing Devices">Power Supply for Meter Testing</h4>
 				<ul>
-					<li>TD-2300 3-P Sinusoidal Inverting Power Source</li>
 					<li>TD-6300 3-P Programmable Inverting Power Source</li>
-					<li>TD-50-100A 3-P 100A Power Supply for Meter Reliability Test</li>
 					<!--
 					<li><a href="TD-2300.php">TD-2300 3-P Sinusoidal Inverting Power Source</a></li>
 					<li><a href="TD-6300.php">TD-6300 3-P Programmable Inverting Power Source</a></li>
