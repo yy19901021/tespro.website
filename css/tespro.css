@@ -4302,7 +4302,7 @@ fieldset[disabled] .navbar-inverse .btn-link:focus {
   font-size: 12px;
 }
 #footer {
-  padding: 1em inherit;
+  padding: 2em;
   background-color: #32434F;
   color: silver;
 }
