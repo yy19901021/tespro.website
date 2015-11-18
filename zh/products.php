@@ -28,6 +28,7 @@
 		      		<p>全世界最好用的光电头</p>
 			      </div>
 			      <div class="col-md-4 col-md-offset-1">
+		      		<!-- <img src="images/banners/highlights-tp-usb.png" class="pull-right" style="margin-top: 20px; height: 300px;" /> -->
 		      		<img src="images/banners/highlights-tp-usb.png" class="pull-right" style="margin-top: 20px; height: 300px;" />
 			      </div>
     			</div>
