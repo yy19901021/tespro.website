@@ -4351,6 +4351,13 @@ div.jumbo-title div.PageTitleBrg {
   min-height: 158px;
 }
 /*** End ***/
+.carousel a {
+  color: white;
+}
+.carousel a:hover {
+  color: #eeeeee;
+  text-decoration: none;
+}
 /*** Jumbo Title ***/
 #product-carousel.product.carousel.slide img {
   width: 1140px;

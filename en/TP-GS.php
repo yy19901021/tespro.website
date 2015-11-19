@@ -41,7 +41,7 @@
 			</div>
 			<div class="col-sm-4 right-column">
 				<!-- <img src="images/products/product_TP-GS08.jpg" alt="TP-GS Versatile Probe Bracket" /> -->
-				<img src="images/products/product_TP-GS.jpg" alt="TP-GS Versatile Probe Bracket" />
+				<img src="images/products/product_TP-GS-demo.jpg" alt="TP-GS Versatile Probe Bracket" />
 			</div>
 		</div><!-- ./row -->
 	</div><!-- ./container -->

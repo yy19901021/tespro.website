@@ -23,13 +23,13 @@
 	      <!-- <img src="images/banners/nanpu-bridge_blured.jpg" alt="..."> -->
 	      <div class="container">
 	      	<div class="row">
-						<div class="col-md-4 col-md-offset-1">
-		      		<h1>TP-USB 电表通讯光电头</h1>
+					<div class="col-md-4 col-md-offset-1">
+		      		<h1><a href="zh/TP-USB.php">TP-USB 电表通讯光电头</a></h1>
 		      		<p>全世界最好用的光电头</p>
 			      </div>
 			      <div class="col-md-4 col-md-offset-1">
 		      		<!-- <img src="images/banners/highlights-tp-usb.png" class="pull-right" style="margin-top: 20px; height: 300px;" /> -->
-		      		<img src="images/banners/highlights-tp-usb.png" class="pull-right" style="margin-top: 20px; height: 300px;" />
+		      		<a href="zh/TP-USB.php"><img src="images/banners/highlights-tp-usb.png" class="pull-right" style="margin-top: 20px; height: 300px;" /></a>
 			      </div>
     			</div>
 	    	</div>
@@ -41,12 +41,12 @@
 	      <!-- <img src="images/banners/nanpu-bridge_blured.jpg" alt="..."> -->
 	      <div class="container">
 	      	<div class="row">
-						<div class="col-md-4 col-md-offset-1">
-		      		<h1>电表校验光电头</h1>
+				<div class="col-md-4 col-md-offset-1">
+		      		<h1><a href="zh/TP-17.php">电表校验光电头</a></h1>
 		      		<!-- <p>全世界第二好用的光电头</p> -->
 			      </div>
 			      <div class="col-md-4 col-md-offset-1">
-		      		<img src="images/banners/highlights-accuracy-probes.png" class="pull-right" style="margin-top: 20px; height: 300px;" />
+		      		<a href="zh/TP-17.php"><img src="images/banners/highlights-accuracy-probes.png" class="pull-right" style="margin-top: 20px; height: 300px;" /></a>
 			      </div>
     			</div>
 	    	</div>
@@ -58,12 +58,12 @@
 	      <!-- <img src="images/banners/nanpu-bridge_blured.jpg" alt="..."> -->
 	      <div class="container">
 	      	<div class="row">
-						<div class="col-md-4 col-md-offset-1">
-		      		<h1>TD-2303</h1>
+				<div class="col-md-4 col-md-offset-1">
+		      		<h1><a href="zh/TD-2300.php">TD-2303</a></h1>
 		      		<!-- <p>全世界第二好用的光电头</p> -->
 			      </div>
 			      <div class="col-md-4 col-md-offset-1">
-		      		<img src="images/banners/highlights-td-2303.png" class="pull-right" style="margin-top: 20px; height: 300px;" />
+		      		<a href="zh/TD-2300.php"><img src="images/banners/highlights-td-2303.png" class="pull-right" style="margin-top: 20px; height: 300px;" /></a>
 			      </div>
     			</div>
 	    	</div>
@@ -75,12 +75,12 @@
 	      <!-- <img src="images/banners/nanpu-bridge_blured.jpg" alt="..."> -->
 	      <div class="container">
 	      	<div class="row">
-						<div class="col-md-4 col-md-offset-1">
-		      		<h1>TP-232</h1>
+				<div class="col-md-4 col-md-offset-1">
+		      		<h1><a href="zh/TP-232.php">TP-232</a></h1>
 		      		<!-- <p>全世界第二好用的光电头</p> -->
 			      </div>
 			      <div class="col-md-4 col-md-offset-1">
-		      		<img src="images/banners/highlights-tp-232.png" class="pull-right" style="margin-top: 20px; height: 300px;" />
+		      		<a href="zh/TP-232.php"><img src="images/banners/highlights-tp-232.png" class="pull-right" style="margin-top: 20px; height: 300px;" /></a>
 			      </div>
     			</div>
 	    	</div>

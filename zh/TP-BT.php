@@ -42,7 +42,7 @@
 				<p>泰易可为客户定制各类专用接口光电头。</p>
 			</div><!-- ./Left Column -->
 			<div class="col-sm-4 right-column"><!-- Right Column -->
-				<img src="images/products/product_TP-BT.jpg" width="250" alt="蓝牙通讯光电头"/>
+				<img src="images/products/product_TP-BT_x2.jpg" width="250" alt="蓝牙通讯光电头"/>
 			</div>
 		</div>
 	</div>

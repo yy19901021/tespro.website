@@ -57,7 +57,7 @@
 				</table>
 			</div>
 			<div class="col-sm-4 right-column">
-				<img src="images/products/product_TP-BT.jpg" width="250" alt="TP-BT-IEC/ANSI Bluetooth Optical Probe ">
+				<img src="images/products/product_TP-BT_x2.jpg" width="250" alt="TP-BT-IEC/ANSI Bluetooth Optical Probe ">
 			</div>
 		</div><!-- ./row -->
 	</div><!-- ./container -->

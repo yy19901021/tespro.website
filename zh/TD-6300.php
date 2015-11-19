@@ -61,8 +61,9 @@
 				</table>
 			</div><!-- ./Left Column -->
 			<div class="col-sm-4 right-column"><!-- Right Column -->
-				<img src="images/products/product_TD-6300-1.jpg" alt="TD-6300 三相逆变校表功率源 " />
-				<img src="images/products/product_TD-6300-2.jpg" alt="TD-6300 三相逆变校表功率源 " />
+				<!-- <img src="images/products/product_TD-6300-1.jpg" alt="TD-6300 三相逆变校表功率源 " /> -->
+				<!-- <img src="images/products/product_TD-6300-2.jpg" alt="TD-6300 三相逆变校表功率源 " /> -->
+				<img src="images/products/product_TD-6301.jpg" alt="TP-USB USB接口电表光电头" />
 			</div>
 		</div>
 	</div>
