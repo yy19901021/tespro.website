@@ -16,6 +16,7 @@
 	    <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
 	    <li data-target="#carousel-example-generic" data-slide-to="1"></li>
 	    <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+	    <li data-target="#carousel-example-generic" data-slide-to="3"></li>
 	  </ol>
 
 	  <!-- Wrapper for slides -->
@@ -43,11 +44,11 @@
 	      <div class="container">
 	      	<div class="row">
 				<div class="col-md-4 col-md-offset-1">
-		      		<h1>TD-2303</h1>
+		      		<h1><a href="en/TD-2300.php">TD-2303</a></h1>
 		      		<!-- <p>全世界第二好用的光电头</p> -->
 			      </div>
 			      <div class="col-md-4 col-md-offset-1">
-		      		<img src="images/banners/highlights-td-2303.png" class="pull-right" style="margin-top: 20px; height: 300px;" />
+		      		<a href="en/TD-2300.php"><img src="images/banners/highlights-td-2303.png" class="pull-right" style="margin-top: 20px; height: 300px;" /></a>
 			      </div>
     			</div>
 	    	</div>
@@ -70,6 +71,23 @@
 	    	</div>
 	      <div class="carousel-caption">
 	        TP-232
+	      </div>
+	    </div>
+	    <div class="item">
+	      <!-- <img src="images/banners/nanpu-bridge_blured.jpg" alt="..."> -->
+	      <div class="container">
+	      	<div class="row">
+				<div class="col-md-4 col-md-offset-1">
+		      		<h1><a href="en/TD-6300.php">TD-6301</a></h1>
+		      		<!-- <p>全世界第二好用的光电头</p> -->
+			      </div>
+			      <div class="col-md-4 col-md-offset-1">
+		      		<a href="en/TD-6300.php"><img src="images/banners/highlights-td-6301.png" class="pull-right" style="margin-top: 20px; height: 300px;" /></a>
+			      </div>
+    			</div>
+	    	</div>
+	      <div class="carousel-caption">
+	        TD-6301
 	      </div>
 	    </div>
 	  </div>
