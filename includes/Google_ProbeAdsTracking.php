@@ -1,6 +1,6 @@
 <!-- Google Code for Optical Probe Conversion Page -->
 <?php
-	if ($BaseUrl == $LiveBaseUrl){
+	if ($BaseUrl == $EnBaseUrl || $BaseUrl == $ZhBaseUrl ){
 ?>
 <script language="JavaScript" type="text/javascript">
 <!--

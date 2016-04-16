@@ -20,7 +20,7 @@
   <meta name="description" content="<?php echo $siteDesp ?>" />
 <?php
 	// 开发环境中不调用Google Analytics
-	if ($BaseUrl == $LiveBaseUrl){
+	if ($BaseUrl == $EnBaseUrl || $BaseUrl == $ZhBaseUrl ){
 ?>
 	<script type="text/javascript">
 	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
