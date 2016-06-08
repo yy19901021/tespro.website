@@ -1,0 +1,155 @@
+@font-family-sans-serif-zh:  'Microsoft Yahei', Helvetica, Arial, sans-serif; 
+@font-family-base:        @font-family-sans-serif-zh;
+
+
+/*** Header and Footer Starts ***/
+.navbar-container{background-color: #32434F;}
+.navbar-brand img { height: 28px; }
+
+.cat-footer { 
+	background-color: #536d7f; 
+	padding: 18px; 
+	color: white;
+	h1 { color: white; }
+	ul{padding-left: 1.4em;}
+	a, 
+	a:hover, 
+	a:visited 
+	{ color: white; font-size: 12px;}
+}
+
+#footer { 
+	padding: 2em; 
+	background-color: @tp-dark;
+	color:silver; 
+	a{border:0;color:silver}
+}
+/*** End ***/
+
+/*** 面包线 ***/
+.bdnav{border-bottom:1px solid #999999;}
+.bdnav a{border-bottom: none;}
+/*** End ***/
+
+/*** Conteng Basics ***/
+#content {background-color: white; padding-bottom: 6em;}
+// #content a, #Content a:visited{ padding-bottom:0.1em; line-height:190%}
+// #content a:hover{color:#3863AA}
+div.col-sm-4.right-column {text-align: right;
+	img{
+		width: 300px;
+
+	}
+	img.small-img {
+		width: 200px;
+	}
+}
+/*** End ***/
+
+
+/*** Jumbo Title ***/
+div.jumbo-title{margin-bottom: 1em; padding:0;background: @tp-light;
+	h1{margin-top: 1em;}
+	img{
+		width: 300px;
+		margin-top: 1em;
+	}
+	div.PageTitleBrg{min-height:158px;}
+}
+/*** End ***/
+
+.carousel a{
+	color: white;
+}
+.carousel a:hover{
+	color: @gray-lighter;
+	text-decoration: none;
+}
+
+/*** Jumbo Title ***/
+#product-carousel.product.carousel.slide{
+	img{width: 1140px;}
+	.carousel-caption{
+		top: 5em;
+		left: 10em;
+		text-align: left;
+		color: @gray;
+		width: 36em;
+	}
+}
+/*** End ***/
+
+/*** Tables Style Start ***/
+/* -- Specification Table -- */
+table.spec-table {
+	tbody th{width: 20%; text-align: right;}
+	tbody ul{padding-left: 1.2em ; }
+}
+/* -- .Specification Table -- */
+
+
+/* -- DataTable -- */
+// table.DataTable{margin-left:1em}
+table.DataTable thead{border:1px solid gray;padding:2px;background:#D4E1D5}
+table.DataTable td{border:1px solid gray;padding:0.3em;vertical-align:top}
+table.DataTable td img{border-width:0px;float:none;margin:0}
+table.DataTable td input.Text{width:3em}
+/* -- DataTable Ends -- */
+
+
+/* -- Probe Option Table -- */
+#ModelNameDesp thead{font-size:18px}
+#ModelNameDesp td{text-align:center}
+#ModelNameDesp tbody{font-size:12px}
+/*** /Probe Option Table Ends ***/
+
+
+/*** Page Specific Styles ***/
+/* -- index.php -- */
+#HomepageTitle {
+	background: url(../images/banners/nanpu-bridge_blured.jpg) no-repeat center 30%;
+	color: white;
+	h1 {font-size: 5em;}
+	p {font-size: 1.6em;}
+}
+#ProductpageTitle {
+	background: url(../images/banners/windpower.jpg) no-repeat center 40%;
+	color: white;
+	h1 {font-size: 3em; margin-top: 1em;}
+	p {font-size: 1.6em;}
+}
+#client-page-title {
+	background: #000 url(../images/banners/client-page-title.jpg) no-repeat center 50%;
+	color: white;
+	h1 {font-size: 5em;}
+	p {font-size: 1.6em;}
+}
+#download-page-title {
+	background: #fff url(../images/banners/download-page-title.jpg) no-repeat center 50%;
+	color: white;
+	h1 {font-size: 4em;}
+	p {font-size: 1em;}
+}
+#contact-page-title {
+	background: #fff url(../images/banners/contact-page-title.jpg) no-repeat center 50%;
+	color: gray;
+	h1 {font-size: 4em;}
+	p {font-size: 1em;}
+}
+
+.product-intro h1 {font-size: 3.4em;}
+.product-intro p {font-size: 1.2em;}
+.product-intro ul {padding-left: 1.1em;}
+
+/* -- products.php -- */
+
+/* -- clients.php -- */
+ul#client-list {padding: 0;}
+ul#client-list li { display: block; float: left; width: 16em; height: 16em; border: 1px solid silver; padding: 41px; margin: -1px 0 0 -1px;}
+ul#client-list li img{ width: 150px; height: 150px; }
+
+
+/* -- clients.php -- */
+table#tp-pda-model-list {
+	tbody th{width: 12em; text-align: right;}
+}

@@ -20,7 +20,7 @@
 				<p>TP-232-IEC is an optical probe with infrared and RS232 interfaces. It's widely applied to meter communication, such as data reading, parameterization, in production line, on-site service and more.</p>
 				<p>In 2002 it was originally designed to be powered from RS-232 interface by Tespro, since then no battery required for its operation.</p>
 				
-				<h3>Specifications:</h3>
+				<h3>Specifications</h3>
 				<table id="SpecTable" class="List">
 					<col class="Title" span="1" />
 					<col span="1" />
@@ -44,7 +44,7 @@
 					<col span="1" />
 					<tbody>
 					<tr><th>Outlet Cable:</th><td>3 meters straight cable.</td></tr>
-					<tr><th>Extended Temperature:</th><td>-35&deg;C ~ 80&deg;C (31&deg;F - 176&deg;F)</td></tr>
+					<tr><th>Extended Temperature:</th><td>-35&deg;C ~ 80&deg;C (-31&deg;F - 176&deg;F)</td></tr>
 					<tr><th>Color:</th><td>Grey or bluish-grey.</td></tr>
 					</tbody>
 				</table>

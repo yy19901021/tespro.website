@@ -6,6 +6,7 @@
 	include("../includes/universal.php");
 	include("header.php");
 ?>
+<<<<<<< HEAD
 <div id="Content"><!--Start of content-->
 <div class="Products">
 	<h1>TP-GS 通用光电头活动支架（国家发明专利）</h1>
@@ -15,10 +16,34 @@
 	<table class="TwoColsLayout">
 		<tr>
 			<td class="Left">
+=======
+<div id="content"><!--Start of content-->
+	<div id="" class="jumbo-title product-page-title"><!-- Jumbo Title -->
+		<div class="PageTitleBrg container">
+			<div id="tp-intro" class="row">
+			  <div class="col-md-7 col-sm-7">
+					<h1><?php echo $title ?></h1>
+					<p>获国家发明专利</p>
+			  </div>
+			  <div class="col-md-4 col-sm-5">
+			  	<img src="images/banners/tp-gs.png" alt="TP-GS 通用光电头活动支架" />
+			  </div>
+			</div>		
+		</div>
+	</div><!-- ./Jumbo Title -->
+	<div class="container">
+		<div class="row">
+			<div class="col-md-7"><!-- Left Column -->
+>>>>>>> BootStrap
 				<h3>主要用途：</h3>
 				<ul>
 					<li>支持校验光电头附着在电表上，作为电表校验的配套工具。</li>
 					<li>TP-17，TP-18校验光电头的必备配套件。</li>
+				</ul>
+				<h3>子型号</h3>
+				<ul>
+					<li>TP-GS2：2015新型号，支持泰易TP-1x 所有光电头，包括TP-17C；</li>
+					<li>TP-GS08：支持泰易TP-1x 所有光电头， TP-17C除外；</li>
 				</ul>
 				<h3>技术特点：</h3>
 				<ul>
@@ -34,6 +59,7 @@
 					<li>光电头可通过吸磁吸附悬挂；</li>
 					<li>通过上、下、左、右的移动，光电头可定位电表面上任何光脉冲位置；</li>
 				</ul>
+<<<<<<< HEAD
 				
 			</td>
 			<td class="Right">
@@ -46,3 +72,16 @@
 </div><!--End of content-->
 <?php include("list_probes.php") ?>
 <?php include("footer.php") ?>
+=======
+			</div><!-- ./Left Column -->
+			<div class="col-sm-4 right-column"><!-- Right Column -->
+				<!-- <img src="images/products/product_TP-GS.jpg" alt="TP-GS 通用光电头活动支架" /> -->
+				<img src="images/products/product_TP-GS-demo.jpg" alt="TP-GS 通用光电头活动支架" />
+			</div>
+		</div>
+	</div>
+</div><!--End of content-->
+<?php include("list_probes.php") ?>
+<?php include("footer.php") ?> 
+<?php include("../includes/Google_ProbeAdsTracking.php") ?>
+>>>>>>> BootStrap

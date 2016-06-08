@@ -1,25 +1,40 @@
 <?php 
-	$title = "泰易电子：联系方式";
+	$title = "联系我们";
 ?>
 <?php 
 	$BaseUrl = "";
 	include("../includes/universal.php");
+    $CurrentTab = 4;
 	include("header.php");
 ?>
-<div id="ContactTitle" class="PageTitle"><div class="PageTitleBrg"><img src="images/Contact_Title_zh.png" alt="Everything meters want" /></div></div><div class="Shadow1"></div><div class="Shadow2"></div><div class="Shadow3"></div>
-<div id="Content"><!--Start of content-->
-	<table class="TwoColsLayout">
-			<tr><td class="Left">
-		<h3>公司总部</h3>
-		<p>
-		地址：广东省 珠海市 吉大<br />白莲路184号 立体科技大厦二楼
-		<br />邮政编码：519015
-		<br />电话：+86-756-3233800 
-		<br />传真：+86-756-3233900
-		<br />电子邮件：<a href="m&#97;ilto:&#115;&#97;&#108;&#101;&#115;&#64;&#116;&#101;&#115;&#112;&#114;&#111;&#46;&#99;&#111;&#109;&#46;&#99;&#110;" title="Contact Tespro">&#115;&#97;&#108;&#101;&#115;&#64;&#116;&#101;&#115;&#112;&#114;&#111;&#46;&#99;&#111;&#109;&#46;&#99;&#110;</a>
-		</p>
-			</td><td>		
-
+<!--Start of content-->
+<div id="content">
+    <div id="contact-page-title" class="jumbo-title"><!-- Jumbo Title -->
+        <div class="PageTitleBrg container">
+            <div id="tp-intro" class="row">
+              <div class="col-md-7 col-sm-7">
+                    <h1><?php echo $title ?></h1>
+                    <p><br /><br /><br /><br /><br /><br /></p>
+              </div>
+              <div class="col-md-4 col-sm-5">
+                <!-- <img src="images/banners/reading-meter.png" /> -->
+              </div>
+            </div>      
+        </div>
+    </div><!-- ./Jumbo Title -->
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <h3>公司总部</h3>
+                <p>
+                地址：广东省 珠海市 吉大<br />白莲路184号 立体科技大厦二楼
+                <br />邮政编码：519015
+                <br />电话：+86-756-3233800 
+                <br />传真：+86-756-3233900
+                <br />电子邮件：<a href="m&#97;ilto:&#115;&#97;&#108;&#101;&#115;&#64;&#116;&#101;&#115;&#112;&#114;&#111;&#46;&#99;&#111;&#109;&#46;&#99;&#110;" title="Contact Tespro">&#115;&#97;&#108;&#101;&#115;&#64;&#116;&#101;&#115;&#112;&#114;&#111;&#46;&#99;&#111;&#109;&#46;&#99;&#110;</a>
+                </p>
+            </div>
+            <div class="col-md-6">
 <!--引用百度地图API-->
 <style type="text/css">
     html,body{margin:0;padding:0;}
@@ -57,16 +72,16 @@
     //地图控件添加函数：
     function addMapControl(){
         //向地图中添加缩放控件
-	var ctrl_nav = new BMap.NavigationControl({anchor:BMAP_ANCHOR_TOP_LEFT,type:BMAP_NAVIGATION_CONTROL_SMALL});
-	map.addControl(ctrl_nav);
+    var ctrl_nav = new BMap.NavigationControl({anchor:BMAP_ANCHOR_TOP_LEFT,type:BMAP_NAVIGATION_CONTROL_SMALL});
+    map.addControl(ctrl_nav);
                 //向地图中添加比例尺控件
-	var ctrl_sca = new BMap.ScaleControl({anchor:BMAP_ANCHOR_BOTTOM_LEFT});
-	map.addControl(ctrl_sca);
+    var ctrl_sca = new BMap.ScaleControl({anchor:BMAP_ANCHOR_BOTTOM_LEFT});
+    map.addControl(ctrl_sca);
     }
     
     //标注点数组
-    var markerArr = [{title:"珠海泰易自动化设备有限公司",content:"广东省&nbsp;珠海市&nbsp;吉大&nbsp;白莲路184号&nbsp;立体科技大厦二楼",point:"113.575|22.254259",isOpen:0,icon:{w:21,h:21,l:0,t:0,x:6,lb:5}}
-		 ];
+    var markerArr = [{title:"泰易公司",content:"广东省&nbsp;珠海市&nbsp;吉大&nbsp;白莲路184号&nbsp;立体科技大厦二楼",point:"113.575|22.254259",isOpen:0,icon:{w:21,h:21,l:0,t:0,x:6,lb:5}}
+         ];
     //创建marker
     function addMarker(){
         for(var i=0;i<markerArr.length;i++){
@@ -74,39 +89,39 @@
             var p0 = json.point.split("|")[0];
             var p1 = json.point.split("|")[1];
             var point = new BMap.Point(p0,p1);
-			var iconImg = createIcon(json.icon);
+            var iconImg = createIcon(json.icon);
             var marker = new BMap.Marker(point,{icon:iconImg});
-			var iw = createInfoWindow(i);
-			var label = new BMap.Label(json.title,{"offset":new BMap.Size(json.icon.lb-json.icon.x+10,-20)});
-			marker.setLabel(label);
+            var iw = createInfoWindow(i);
+            var label = new BMap.Label(json.title,{"offset":new BMap.Size(json.icon.lb-json.icon.x+10,-20)});
+            marker.setLabel(label);
             map.addOverlay(marker);
             label.setStyle({
                         borderColor:"#808080",
                         color:"#333",
                         cursor:"pointer"
             });
-			
-			(function(){
-				var index = i;
-				var _iw = createInfoWindow(i);
-				var _marker = marker;
-				_marker.addEventListener("click",function(){
-				    this.openInfoWindow(_iw);
-			    });
-			    _iw.addEventListener("open",function(){
-				    _marker.getLabel().hide();
-			    })
-			    _iw.addEventListener("close",function(){
-				    _marker.getLabel().show();
-			    })
-				label.addEventListener("click",function(){
-				    _marker.openInfoWindow(_iw);
-			    })
-				if(!!json.isOpen){
-					label.hide();
-					_marker.openInfoWindow(_iw);
-				}
-			})()
+            
+            (function(){
+                var index = i;
+                var _iw = createInfoWindow(i);
+                var _marker = marker;
+                _marker.addEventListener("click",function(){
+                    this.openInfoWindow(_iw);
+                });
+                _iw.addEventListener("open",function(){
+                    _marker.getLabel().hide();
+                })
+                _iw.addEventListener("close",function(){
+                    _marker.getLabel().show();
+                })
+                label.addEventListener("click",function(){
+                    _marker.openInfoWindow(_iw);
+                })
+                if(!!json.isOpen){
+                    label.hide();
+                    _marker.openInfoWindow(_iw);
+                }
+            })()
         }
     }
     //创建InfoWindow
@@ -123,8 +138,8 @@
     
     initMap();//创建和初始化地图
 </script>
-
-		</td></tr>
-	</table>
+            </div>
+        </div>
+    </div>
 </div><!--End of content-->
 <?php include("footer.php") ?>

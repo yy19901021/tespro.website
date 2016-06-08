@@ -31,37 +31,55 @@
       <priority>0.8</priority>
    </url>
    <url>
-      <loc>http://www.tespro.com.cn/zh/TF-CS485.php</loc>
+      <loc>http://www.tespro.com.cn/zh/TA-800.php</loc>
       <lastmod>2009-03-27</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
    </url>
    <url>
-      <loc>http://www.tespro.com.cn/zh/TF-USB232.php</loc>
+      <loc>http://www.tespro.com.cn/zh/TA-262.php</loc>
       <lastmod>2009-03-27</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
    </url>
    <url>
-      <loc>http://www.tespro.com.cn/zh/TF-USB485.php</loc>
+      <loc>http://www.tespro.com.cn/zh/TG-MTS-CN.php</loc>
       <lastmod>2009-03-27</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
    </url>
    <url>
-      <loc>http://www.tespro.com.cn/zh/TF-USB485L.php</loc>
+      <loc>http://www.tespro.com.cn/zh/TA-430-460.php</loc>
       <lastmod>2009-03-27</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
    </url>
    <url>
-      <loc>http://www.tespro.com.cn/zh/TG-MTS.php</loc>
+      <loc>http://www.tespro.com.cn/zh/TC-PCB-01.php</loc>
       <lastmod>2009-03-27</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
    </url>
    <url>
-      <loc>http://www.tespro.com.cn/zh/TG-MTSL.php</loc>
+      <loc>http://www.tespro.com.cn/zh/TD-1300.php</loc>
+      <lastmod>2009-03-27</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>http://www.tespro.com.cn/zh/TD-2300.php</loc>
+      <lastmod>2009-03-27</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>http://www.tespro.com.cn/zh/TD-6300.php</loc>
+      <lastmod>2009-03-27</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>http://www.tespro.com.cn/zh/TD-50-100A.php</loc>
       <lastmod>2009-03-27</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
@@ -73,7 +91,71 @@
       <priority>0.8</priority>
    </url>
    <url>
-      <loc>http://www.tespro.com.cn/zh/TP-ANSIx.php</loc>
+      <loc>http://www.tespro.com.cn/zh/TP-USB.php</loc>
+      <lastmod>2009-03-27</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+<<<<<<< HEAD
+      <loc>http://www.tespro.com.cn/zh/TP-GS.php</loc>
+=======
+      <loc>http://www.tespro.com.cn/zh/TP-USB-IR645.php</loc>
+>>>>>>> BootStrap
+      <lastmod>2009-03-27</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>http://www.tespro.com.cn/zh/TP-PDA.php</loc>
+      <lastmod>2009-03-27</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>http://www.tespro.com.cn/zh/TP-BT.php</loc>
+      <lastmod>2009-03-27</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>http://www.tespro.com.cn/zh/TP-RF.php</loc>
+      <lastmod>2009-03-27</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>http://www.tespro.com.cn/zh/TP-11.php</loc>
+      <lastmod>2009-03-27</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>http://www.tespro.com.cn/zh/TP-13.php</loc>
+      <lastmod>2009-03-27</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>http://www.tespro.com.cn/zh/TP-15.php</loc>
+      <lastmod>2009-03-27</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>http://www.tespro.com.cn/zh/TP-16.php</loc>
+      <lastmod>2009-03-27</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>http://www.tespro.com.cn/zh/TP-17.php</loc>
+      <lastmod>2009-03-27</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>http://www.tespro.com.cn/zh/TP-18.php</loc>
       <lastmod>2009-03-27</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
@@ -85,61 +167,13 @@
       <priority>0.8</priority>
    </url>
    <url>
-      <loc>http://www.tespro.com.cn/zh/TP-IR645.php</loc>
-      <lastmod>2009-03-27</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.8</priority>
-   </url>
-   <url>
-      <loc>http://www.tespro.com.cn/zh/TP-IRTXT.php</loc>
-      <lastmod>2009-03-27</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.8</priority>
-   </url>
-   <url>
-      <loc>http://www.tespro.com.cn/zh/TP-USB.php</loc>
-      <lastmod>2009-03-27</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.8</priority>
-   </url>
-   <url>
-      <loc>http://www.tespro.com.cn/zh/TP11_TP14.php</loc>
-      <lastmod>2009-03-27</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.8</priority>
-   </url>
-   <url>
-      <loc>http://www.tespro.com.cn/zh/TP15.php</loc>
-      <lastmod>2009-03-27</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.8</priority>
-   </url>
-   <url>
-      <loc>http://www.tespro.com.cn/zh/TP16-PRS.php</loc>
-      <lastmod>2009-03-27</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.8</priority>
-   </url>
-   <url>
-      <loc>http://www.tespro.com.cn/zh/TP17.php</loc>
-      <lastmod>2009-03-27</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.8</priority>
-   </url>
-   <url>
       <loc>http://www.tespro.com.cn/zh/TP1_option_table.php</loc>
-	  <lastmod>2009-03-27</lastmod>
+      <lastmod>2009-03-27</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
    </url>
    <url>
       <loc>http://www.tespro.com.cn/en/contact.php</loc>
-      <lastmod>2009-03-27</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.3</priority>
-   </url>
-   <url>
-      <loc>http://www.tespro.com.cn/en/customers.php</loc>
       <lastmod>2009-03-27</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.3</priority>
@@ -157,19 +191,13 @@
       <priority>1.0</priority>
    </url>
    <url>
-	  <loc>http://www.tespro.com.cn/en/products.php</loc>
+     <loc>http://www.tespro.com.cn/en/products.php</loc>
       <lastmod>2009-03-27</lastmod>
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
    </url>
    <url>
-      <loc>http://www.tespro.com.cn/en/Products_Probes.php</loc>
-      <lastmod>2009-03-27</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>1.0</priority>
-   </url>
-   <url>
-      <loc>http://www.tespro.com.cn/en/TA-261.php</loc>
+      <loc>http://www.tespro.com.cn/en/TA-262.php</loc>
       <lastmod>2009-03-27</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
@@ -181,25 +209,7 @@
       <priority>0.8</priority>
    </url>
    <url>
-      <loc>http://www.tespro.com.cn/en/TG-MTSL.php</loc>
-      <lastmod>2009-03-27</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.8</priority>
-   </url>
-   <url>
       <loc>http://www.tespro.com.cn/en/TP-232.php</loc>
-      <lastmod>2009-03-27</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.8</priority>
-   </url>
-   <url>
-      <loc>http://www.tespro.com.cn/en/TP-ANSIx.php</loc>
-      <lastmod>2009-03-27</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.8</priority>
-   </url>
-   <url>
-      <loc>http://www.tespro.com.cn/en/TP-GS.php</loc>
       <lastmod>2009-03-27</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
@@ -211,38 +221,72 @@
       <priority>0.8</priority>
    </url>
    <url>
-      <loc>http://www.tespro.com.cn/en/TP11_TP14.php</loc>
+      <loc>http://www.tespro.com.cn/en/TP-PDA.php</loc>
       <lastmod>2009-03-27</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
    </url>
    <url>
-      <loc>http://www.tespro.com.cn/en/TP15.php</loc>
+      <loc>http://www.tespro.com.cn/en/TP-BT.php</loc>
       <lastmod>2009-03-27</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
    </url>
    <url>
-      <loc>http://www.tespro.com.cn/en/TP16.php</loc>
+<<<<<<< HEAD
+      <loc>http://www.tespro.com.cn/en/TP-GS.php</loc>
+=======
+      <loc>http://www.tespro.com.cn/en/TP-RF.php</loc>
+>>>>>>> BootStrap
       <lastmod>2009-03-27</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
    </url>
    <url>
-      <loc>http://www.tespro.com.cn/en/TP17.php</loc>
+      <loc>http://www.tespro.com.cn/en/TP-11.php</loc>
       <lastmod>2009-03-27</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
    </url>
    <url>
-      <loc>http://www.tespro.com.cn/en/TP18.php</loc>
+      <loc>http://www.tespro.com.cn/en/TP-12.php</loc>
+      <lastmod>2009-03-27</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>http://www.tespro.com.cn/en/TP-15.php</loc>
+      <lastmod>2009-03-27</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>http://www.tespro.com.cn/en/TP-16.php</loc>
+      <lastmod>2009-03-27</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>http://www.tespro.com.cn/en/TP-17.php</loc>
+      <lastmod>2009-03-27</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>http://www.tespro.com.cn/en/TP-18.php</loc>
+      <lastmod>2009-03-27</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>http://www.tespro.com.cn/en/TP-GS.php</loc>
       <lastmod>2009-03-27</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
    </url>
    <url>
       <loc>http://www.tespro.com.cn/en/TP1_option_table.php</loc>
-	  <lastmod>2009-03-27</lastmod>
+      <lastmod>2009-03-27</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
    </url>

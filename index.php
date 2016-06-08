@@ -1,4 +1,5 @@
 <?php 
+include("includes/universal.php");
 include("includes/getLanguage.php");
 function redirectToLang()
 {
@@ -19,11 +20,11 @@ function redirectToLang()
 	}
 	if ( $found )
 	{
-		header("Location: $location");
+		header("Location: http://zh.tespro.com.cn/$location");
 	}
 	else// make sure you have a default page to send them to
 	{
-		header("Location: en/index.php");
+		header("Location: http://www.tespro.com.cn/en/");
 	}
 }
 redirectToLang();
