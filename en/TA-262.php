@@ -45,6 +45,16 @@
         	<li>Support SD memory card for data backup</li>
         	<li>Support WiFi communication</li>
 				</ul>
+<<<<<<< HEAD
+				<p class="HighLight">English Version of Program TATESTxx is available upon order.</p>
+				<p class="HighLight">TA-261 is originally designed and manufactured by Tespro Electronics Co., Ltd.</p>
+			</td><td class="Right">
+				<img src="images/products/product_TA-262.jpg" alt="TA-262 Communication Port Tester" />
+				<img src="images/products/product_TA-262_zh.png" alt="TA-262 Communication Port Tester" />
+			</td></tr>
+		</table>
+		
+=======
 				<p class="HighLight">TA-262 is originally designed and manufactured by Tespro Electronics Co., Ltd.</p>
 			</div><!-- ./Left Column -->
 			<div class="col-sm-4 right-column"><!-- Right Column -->
@@ -52,6 +62,7 @@
 				<!-- <img src="images/products/product_TA-262_zh.png" alt="TA-262 Communication Port Tester" /> -->
 			</div>
 		</div>
+>>>>>>> BootStrap
 	</div>
 </div><!--End of content-->
 <?php include("list_testing-devices.php") ?>

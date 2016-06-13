@@ -6,6 +6,17 @@
 	include("../includes/universal.php");
 	include("header.php");
 ?>
+<<<<<<< HEAD
+<div id="Content"><!--Start of content-->
+<div class="Products">
+	<h1>TP-232 电表光电头（RS232接口）</h1>
+	<?php
+		include("breadcrumnav.php");	
+	?>
+	<table class="TwoColsLayout">
+		<tr><td class="Left">
+			<p>2002年泰易开创性地采用RS232接口供电，领先于国际，从此去掉附加电池盒，为使用光电头减轻包袱，应用提速。</p>
+=======
 <div id="content"><!--Start of content-->
 	<div id="" class="jumbo-title product-page-title"><!-- Jumbo Title -->
 		<div class="PageTitleBrg container">
@@ -23,15 +34,22 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-7"><!-- Left Column -->
+>>>>>>> BootStrap
 			<h3>主要用途：</h3>
 			<p>用于电能表、热表的参数读写、数据抄读。</p>
 			
 			<h3>子型号</h3>
 			<ul>
 				<li>TP-232-IEC：IEC62056-21</li>
+<<<<<<< HEAD
+				<li>TP-232-ANSI-N: 兼容 ANSI C12.18 协议（正常标准，较多用于GE、Itron电表）</li>
+				<li>TP-232-ANSI-S: 兼容 ANSI C12.18 (较多用于西门子和ION电表)</li>
+				<li>TP-232-ANSI-U: 兼容 ANSI C12.18 (通用型，可在正常标准和西门子标准间切换)</li>
+=======
 				<li>TP-232-ANSI-N: 兼容 ANSI C12.18标准（常规标准，较多用于GE、Itron电表）</li>
 				<li>TP-232-ANSI-S: 兼容 ANSI C12.18 Type2标准 (较多用于西门子和ION电表）</li>
 				<li>TP-232-ANSI-U: 兼容以上两种标准 (通用型，可在-N、-S之间切换）</li>
+>>>>>>> BootStrap
 			</ul>
 			
 			<h3>技术特点：</h3>
@@ -45,6 +63,14 @@
 			<p>泰易追求细节完美，经过多年的改进，技术成熟，一体化结构，可靠耐用，值得信耐。</p>
 			<h3>可选项：</h3>
 			<p>可选用螺旋线</p>
+<<<<<<< HEAD
+		</td><td class="Right">
+			<img src="images/products/product_TP-232.jpg" width="300" alt="TP-232-IEC " />
+			<img src="images/products/product_TP-232-ANSI_demo.jpg" width="300" alt="TP-232 Optical Probe" />
+		</td></tr>
+	</table>
+</div>
+=======
 			</div><!-- ./Left Column -->
 			<div class="col-sm-4 right-column"><!-- Right Column -->
 				<!-- <img src="images/products/TP-232-01.jpg" alt="TP-232" /> -->
@@ -52,6 +78,7 @@
 			</div>
 		</div>
 	</div>
+>>>>>>> BootStrap
 </div><!--End of content-->
 <?php include("list_probes.php") ?>
 <?php include("footer.php") ?> 

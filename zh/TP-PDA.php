@@ -6,6 +6,16 @@
 	include("../includes/universal.php");
 	include("header.php");
 ?>
+<<<<<<< HEAD
+<div id="Content"><!--Start of content-->
+<div class="Products">
+	<h1>TP-PDA手持设备光电头</h1>
+	<?php
+		include("breadcrumnav.php");	
+	?>
+		<table class="TwoColsLayout">
+			<tr><td class="Left">
+=======
 <div id="content"><!--Start of content-->
 	<div id="" class="jumbo-title product-page-title"><!-- Jumbo Title -->
 		<div class="PageTitleBrg container">
@@ -23,6 +33,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-7"><!-- Left Column -->
+>>>>>>> BootStrap
 				<h3>主要用途：</h3>
 				<p>泰易各款掌上设备、PDA配置特定的光电头主要用于现场抄表，也用于电能表参数设置和对时。</p>
 				<h3>主要型号：</h3>
@@ -60,12 +71,20 @@
 					<li>泰易可为客户定制各类平板数字设备专用接口光电头。</li>
           <li>可以按照客户要求的长度提供线缆。</li>
 				</ul>
+<<<<<<< HEAD
+			</td><td class="Right">
+				<img src="images/products/product_TP-PDA.jpg" alt="蓝牙通讯光电头"/>
+			</td></tr>
+		</table>
+</div>
+=======
 			</div><!-- ./Left Column -->
 			<div class="col-sm-4 right-column"><!-- Right Column -->
 				<!-- <img src="images/products/product_TP-PDA.jpg" alt="蓝牙通讯光电头"/> -->
 			</div>
 		</div>
 	</div>
+>>>>>>> BootStrap
 </div><!--End of content-->
 <?php include("list_probes.php") ?>
 <?php include("footer.php") ?> 

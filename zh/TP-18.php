@@ -6,6 +6,17 @@
 	include("../includes/universal.php");
 	include("header.php");
 ?>
+<<<<<<< HEAD
+<div id="Content"><!--Start of content-->
+<div class="Products">
+	<h1>TP-18 有功/无功双校验光电头</h1>
+	<?php
+		include("breadcrumnav.php");	
+	?>
+	<table class="TwoColsLayout">
+		<tr>
+			<td class="Left">
+=======
 <div id="content"><!--Start of content-->
 	<div id="" class="jumbo-title product-page-title"><!-- Jumbo Title -->
 		<div class="PageTitleBrg container">
@@ -23,6 +34,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-7"><!-- Left Column -->
+>>>>>>> BootStrap
 				<h3>主要用途：</h3>
 				<ul>
 					<li>适用于对有功、无功光脉冲距离很近的电表同时进行有、无功校验；</li>

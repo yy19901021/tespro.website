@@ -6,6 +6,24 @@
 	include("../includes/universal.php");
 	include("header.php");
 ?>
+<<<<<<< HEAD
+<div id="Content"><!--Start of content-->
+	<div class="Products">
+		<h1>TP-17 Optical Scanning Probe with Duplex-function </h1>
+		<?php
+			include("breadcrumnav.php");	
+		?>
+		<table class="TwoColsLayout">
+			<tr><td class="Left">
+				<p>TP-17A Multi-function Optical Probe has been designed for accuracy testing of both Ferraris and static meters.</p>
+				<h3>Sub-models:</h3>
+				<ul>
+					<li>TP-17A: Normal version</li>
+					<li>TP-17B: with sensitivity adjustment</li>
+					<li>TP-17C: a new version released in 2015 with sensitive adjust knob, and attached to the new fixture of TP-GS2.</li>
+				</ul>
+				<h3>Application: </h3>
+=======
 <div id="content"><!--Start of content-->
 	<div id="" class="jumbo-title product-page-title"><!-- Jumbo Title -->
 		<div class="PageTitleBrg container">
@@ -24,6 +42,7 @@
 		<div class="row">
 			<div class="col-sm-7">
 				<h3>Application</h3>
+>>>>>>> BootStrap
 				<ul>
 					<li>Can be used for both Ferraris and statistics meters accuracy testing, functions switching by push button.</li>
 					<li>Can be used as accessory for test bench, or portable instrument on-site application.</li>
@@ -45,8 +64,12 @@
 					</tbody>
 				</table>
 				<p>Note: All TP-17x must work with <a href="en/TP-GS.php">TP-GS</a> Versatile Fixture as supporter.</p>
+<<<<<<< HEAD
+			</td><td class="Right">
+=======
 			</div>
 			<div class="col-sm-4 right-column">
+>>>>>>> BootStrap
 				<img src="images/products/product_TP-17.jpg" alt="TP-17 Optical Scanning Probe with Duplex-function" />
 			</div>
 		</div><!-- ./row -->

@@ -1,11 +1,22 @@
 <?php 
-	$title = "TP-GS 通用光电头活动支架";
+	$title = "TP-GS 通用光电头活动支架（国家发明专利）";
 ?>
 <?php 
 	$BaseUrl = "";
 	include("../includes/universal.php");
 	include("header.php");
 ?>
+<<<<<<< HEAD
+<div id="Content"><!--Start of content-->
+<div class="Products">
+	<h1>TP-GS 通用光电头活动支架（国家发明专利）</h1>
+	<?php
+		include("breadcrumnav.php");	
+	?>
+	<table class="TwoColsLayout">
+		<tr>
+			<td class="Left">
+=======
 <div id="content"><!--Start of content-->
 	<div id="" class="jumbo-title product-page-title"><!-- Jumbo Title -->
 		<div class="PageTitleBrg container">
@@ -23,6 +34,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-7"><!-- Left Column -->
+>>>>>>> BootStrap
 				<h3>主要用途：</h3>
 				<ul>
 					<li>支持校验光电头附着在电表上，作为电表校验的配套工具。</li>
@@ -47,6 +59,20 @@
 					<li>光电头可通过吸磁吸附悬挂；</li>
 					<li>通过上、下、左、右的移动，光电头可定位电表面上任何光脉冲位置；</li>
 				</ul>
+<<<<<<< HEAD
+				
+			</td>
+			<td class="Right">
+				<img src="images/products/product_TP-GS08.jpg" alt="TP-GS 通用光电头活动支架" />
+				<img src="images/products/product_TP-GS08_demo.jpg" alt="TP-GS 通用光电头活动支架" />
+			</td>
+		</tr>
+	</table>
+</div>
+</div><!--End of content-->
+<?php include("list_probes.php") ?>
+<?php include("footer.php") ?>
+=======
 			</div><!-- ./Left Column -->
 			<div class="col-sm-4 right-column"><!-- Right Column -->
 				<!-- <img src="images/products/product_TP-GS.jpg" alt="TP-GS 通用光电头活动支架" /> -->
@@ -58,3 +84,4 @@
 <?php include("list_probes.php") ?>
 <?php include("footer.php") ?> 
 <?php include("../includes/Google_ProbeAdsTracking.php") ?>
+>>>>>>> BootStrap

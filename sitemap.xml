@@ -97,7 +97,11 @@
       <priority>0.8</priority>
    </url>
    <url>
+<<<<<<< HEAD
+      <loc>http://www.tespro.com.cn/zh/TP-GS.php</loc>
+=======
       <loc>http://www.tespro.com.cn/zh/TP-USB-IR645.php</loc>
+>>>>>>> BootStrap
       <lastmod>2009-03-27</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
@@ -229,7 +233,11 @@
       <priority>0.8</priority>
    </url>
    <url>
+<<<<<<< HEAD
+      <loc>http://www.tespro.com.cn/en/TP-GS.php</loc>
+=======
       <loc>http://www.tespro.com.cn/en/TP-RF.php</loc>
+>>>>>>> BootStrap
       <lastmod>2009-03-27</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>

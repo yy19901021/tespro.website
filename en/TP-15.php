@@ -33,6 +33,15 @@
 				<table id="SpecTable" class="table spec-table">
 					<col class="title" span="1" />
 					<col span="1" />
+<<<<<<< HEAD
+					<tr><td>Light sense: </td><td>TP-15 optical scanning probe can sense both light and IR(Infrared) light pulses emitted by LED, and then convert them to electric pulses.</td></tr>
+					<tr><td>Switching: </td><td>The optical pulse can be switched by a press button, one LED indicating the frequency: green means1:1 and red 4:1.</td></tr>
+					<tr><td>Power supply:	</td><td>DC 5V±10%</td></tr>
+					<tr><td>Cable:	</td><td>Straight-line cable, 55cm in normal</td></tr>
+					<tr><td>Fastening:	</td><td>Magnetic adhesion</td></tr>
+					<tr><td>Connector:	</td><td>Optional item from <a href="en/TP1_option_table.php">Table of Connectors for Optical Scanning Probes</a>. </td></tr>
+					<tr><td>Probe Fixture:	</td><td>TP-GS fixture can be used for probe fastening onto any type of meters.</td></tr>
+=======
 					<tr><th>Light sense: </th><td>TP-15 optical scanning probe can sense both light and IR(Infrared) light pulses emitted by LED, and then convert them to electric pulses.</td></tr>
 					<tr><th>Switching: </th><td>The optical pulse can be switched by a press button, one LED indicating the frequency: green means1:1 and red 4:1.</td></tr>
 					<tr><th>Power supply:	</th><td>DC 5V±10%</td></tr>
@@ -40,6 +49,7 @@
 					<tr><th>Fastening:	</th><td>Magnetic adhesion</td></tr>
 					<tr><th>Connector:	</th><td>Optional item from <a href="en/TP1_option_table.php">Table of Connectors for Optical Scanning Probes</a>. </td></tr>
 					<tr><th>Probe Fixture:	</th><td>TP-GS fixture can be used for probe fastening onto any type of meters.</td></tr>
+>>>>>>> BootStrap
 				</table>
 			</div>
 			<div class="col-sm-4 right-column">
