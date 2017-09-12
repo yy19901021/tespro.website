@@ -76,7 +76,7 @@
 						<li <?php echo $CurrentTab == 1 ? $CurrentTabString : "" ;?>><a href="zh/products.php">产品</a></li>
 		        <li <?php echo $CurrentTab == 2 ? $CurrentTabString : "" ;?>><a href="zh/clients.php">全球客户</a></li>
 		        <li <?php echo $CurrentTab == 3 ? $CurrentTabString : "" ;?>><a href="zh/download.php">下载</a></li>
-		        <li <?php echo $CurrentTab == 4 ? $CurrentTabString : "" ;?>><a href="zh/contact.php">联系我们</a></li>
+		        <li <?php echo $CurrentTab == 4 ? $CurrentTabString : "" ;?>><a href="zh/about.php">关于我们</a></li>
 		      </ul>
 		      <!--
 		      <form class="navbar-form navbar-left" role="search">
