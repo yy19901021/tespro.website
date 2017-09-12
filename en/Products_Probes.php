@@ -6,30 +6,6 @@
 	include("../includes/universal.php");
 	include("header.php");
 ?>
-<<<<<<< HEAD
-<div class="PageTitle">
-	<img src="images/Product_Probes_Title_en.jpg" alt="Full range of optical probes for any meter." />
-	<div class="Shadow1"></div>
-	<div class="Shadow2"></div>
-	<div class="Shadow3"></div>
-</div>
-<style>
-#Clients td{border: 1px solid silver; padding: 38px;}
-#Clients td img{width: 150px; height: 150px;}
-#Clients a:link{border: 0;}
-</style>
-<div id="Content"><!--Start of content-->
-	<div class="Products">
-		<div>With 14 years of experience Tespro supply a full-range of optical probes for both meter communication and accurate testing purposes. The products series support both IEC and ANSI standards. Customers from any part of the world can find one from Tespro optical probe family to comply with its applications purpose, or a customized one to meet its specific requirement. </div>
-		<div class="HalfWidth LeftAligned">
-			<h1 title="Optical probe for communication">For Communication</h1>
-			<ul>
-				<li><a href="en/TP-USB.php">TP-USB Optical Probe ( IEC and ANSI standard )</a></li>
-				<li><a href="en/TP-232.php">TP-232 Optical Probe ( IEC and ANSI standard )</a></li>
-				<li><a href="en/TP-PDA.php">TP-PDA Optical Probe for Handheld Devices</a></li>
-				<li><a href="en/TP-BT.php">TP-BT Bluetooth Optical Probe ( IEC and ANSI standard )</a></li>
-				<li><a href="en/TP-RF.php">TP-RF Wireless Optical Probe with RF Interface ( IEC and ANSI standard )</a></li>
-=======
 <!--Start of content-->
 <div id="content">
 	<div id="HomepageTitle" class="jumbo-title ">
@@ -74,21 +50,8 @@
 					<li><a href="en/TP-18.php">TP-18 Slim Optical Scanning Probe</a></li>
 				</ul>
 			</div>
->>>>>>> BootStrap
 
 		</div>
-<<<<<<< HEAD
-		<div class="HalfWidth LeftAligned">
-			<h1 title="Optical probe for meter accuracy test">For Meter Accuracy Test</h1>
-			<ul>
-				<li><a href="en/TP-11.php">TP-11 Optical Scanning Probe for Test-bench Assembled</a></li>
-				<li><a href="en/TP-12.php">TP-12 Optical Pulse Sensing Probe for Energy Monitoring</a></li>
-				<li><a href="en/TP-15.php">TP-15 Dual-frequency Optical Scanning Probe for Accuracy Test</a></li>
-				<li><a href="en/TP-16.php">TP-16 Optical Scanning Probe for Portable Accuracy Test Instrument</a></li>
-				<li><a href="en/TP-17.php">TP-17 Optical Scanning Probe with Duplex-function</a></li>
-				<li><a href="en/TP-18.php">TP-18 Active/Reactive paired Optical Scanning Probes</a></li>
-			</ul>
-=======
 		<div id="customer-list" class="row">
 			<div class="col-md-12">
 				<h1>Our Customers</h1>
@@ -103,7 +66,6 @@
 					<li><a href="http://www.edmi-meters.com/"><img src="images/clients/edmi.png" alt="EDMI"></a></li>
 				</ul>
 			</div>
->>>>>>> BootStrap
 		</div>
 	</div><!-- /.container -->
 </div><!-- /#content-->

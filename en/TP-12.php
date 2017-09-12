@@ -6,29 +6,6 @@
 	include("../includes/universal.php");
 	include("header.php");
 ?>
-<<<<<<< HEAD
-<div id="Content"><!--Start of content-->
-	<div class="Products">
-		<h1>TP-12 Optical Pulse Sensing Probe for Energy Monitoring</h1>
-		<?php
-			include("breadcrumnav.php");	
-		?>
-		<table class="TwoColsLayout">
-			<tr><td class="Left">
-				<p>TP-12 is a newly developed optical probe which can be used for meter optical pulses sensing in power monitoring system.</p>
-				
-				<h3>Specification</h3>
-				<table id="SpecTable" class="List">
-					<col class="Title" span="1" />
-					<col span="1" />
-					<tr><td>Size: </td><td>TP-12 is a mini type probe.</td></tr>
-					<tr><td>Connector:</td><td>on customization</a></td>
-					<tr><td>Light sense: </td><td>Sensing spectrum covers from IR to light. </td></tr>
-					<tr><td>Power supply: </td><td>Powered by +3.3~5VDC </td></tr>
-					<tr><td>Output:	</td><td>Positive pulses output in TTL, is synchronized with the LED light pulses. </td></tr>
-					<tr><td>Fastening: </td><td>Can be easily attached onto any meter surface by Tespro’s easy stick-on strips, or by magnetic. </td></tr>
-					<tr><td>Indicator: </td><td>An indicator at the top lights up synchronizing with the pulses.</td></tr>
-=======
 <div id="content"><!--Start of content-->
 	<div id="" class="jumbo-title product-page-title"><!-- Jumbo Title -->
 		<div class="PageTitleBrg container">
@@ -55,7 +32,6 @@
 					<tr><th>Output:	</th><td>Positive pulses output, is synchronized with the LED light pulses. </td></tr>
 					<tr><th>Fastening: </th><td>Can be easily attached onto any meter surface by Tespro’s easy stick-on strips, or by magnetic. </td></tr>
 					<tr><th>Indicator: </th><td>An indicator at the top lights up synchronizing with the pulses.</td></tr>
->>>>>>> BootStrap
 				</table>
 				<h3>Options</h3>
 				<table id="OptionTable" class="table spec-table">

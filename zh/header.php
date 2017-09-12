@@ -20,7 +20,7 @@
   <meta name="description" content="<?php echo $siteDesp ?>" />
 <?php
 	// 开发环境中不调用Google Analytics
-	if ($BaseUrl == $EnBaseUrl || $BaseUrl == $ZhBaseUrl ){
+	if ($BaseUrl == $LiveBaseUrl){
 ?>
 	<script type="text/javascript">
 	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -90,8 +90,8 @@
 		        <li class="dropdown">
 		          <a href="#" class="dropdown-toggle" data-toggle="dropdown">切换语言 <span class="caret"></span></a>
 		          <ul class="dropdown-menu" role="menu">
-		            <li><a href="zh/">中文</a></li>
-		            <li><a href="en/">English</a></li>
+		            <li><a href="http://zh.tespro.com.cn/zh/">中文</a></li>
+		            <li><a href="http://www.tespro.com.cn/en/">English</a></li>
 		          </ul>
 		        </li>
 		      </ul>

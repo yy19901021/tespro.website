@@ -38,17 +38,7 @@
 					<li>内置电池支持连续通讯24小时以上；</li>
 					<li>支持IEC62056-21，或ANSI C12-18的相关标准；</li>
 					<li>LED电源灯显示内置电池的剩余电量，LED状态灯指示通讯状态；</li>
-					<li>提供USB接口天线作通讯收发；</li>
 				</ul>
-<<<<<<< HEAD
-				<p>泰易可为客户定制各类RF专用接口光电头。</p>
-			</td><td class="Right">
-				<img src="images/products/product_TP-BT.jpg" width="250" alt="蓝牙通讯光电头"/>
-			</td></tr>
-		</table>
-
-</div>
-=======
 				<p>泰易可为客户定制各类专用接口光电头。</p>
 			</div><!-- ./Left Column -->
 			<div class="col-sm-4 right-column"><!-- Right Column -->
@@ -56,7 +46,6 @@
 			</div>
 		</div>
 	</div>
->>>>>>> BootStrap
 </div><!--End of content-->
 <?php include("list_probes.php") ?>
 <?php include("footer.php") ?> 
