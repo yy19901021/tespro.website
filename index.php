@@ -16,15 +16,16 @@ function redirectToLang()
 			$found = true;
 			break;
 		default:
+			$location = 'en/';
 			break;
 	}
 	if ( $found )
 	{
-		header("Location: http://zh.tespro.com.cn/$location");
+		header("Location: $BaseUrl$location");
 	}
 	else// make sure you have a default page to send them to
 	{
-		header("Location: http://www.tespro.com.cn/en/");
+		header("Location: $BaseUrl$location");
 	}
 }
 redirectToLang();
