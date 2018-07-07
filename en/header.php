@@ -94,8 +94,8 @@
 		        <li class="dropdown">
 		          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Language <span class="caret"></span></a>
 		          <ul class="dropdown-menu" role="menu">
-		            <li><a href="http://www.tespro.com.cn/en/">English</a></li>
-		            <li><a href="http://zh.tespro.com.cn/zh/">Chinese</a></li>
+		            <li><a href="en/">English</a></li>
+		            <li><a href="zh/">Chinese</a></li>
 		          </ul>
 		        </li>
 		      </ul>
